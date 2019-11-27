@@ -175,18 +175,18 @@ nattest# write file                                                #保存配置
 |`show running-config`	                                  |enable节点	|查看NAT当前正在运行使用的配置信息                               |
 |`show startup-config`	                                  |enable节点	|查看当前已经保存的配置信息                                      |
 |`hostname WORD`	                                      |config节点	|设置主机名称，用于显示命令行提示符的主机名                      |
-|`ip addr A.B.C.D/M dev (dpdk0.kni/|dpdk1.kni)`	          |config节点	|配置对外访问的IP地址，主要用于响应ospf等路由协议的路由通告等    |
+|`ip addr A.B.C.D/M dev (dpdk0.kni\|dpdk1.kni)`	          |config节点	|配置对外访问的IP地址，主要用于响应ospf等路由协议的路由通告等    |
 |`ip nat pool NAME`	                                      |config节点	|配置NAT地址池，并进入到地址池节点进行细节配置                   |
 |`ip nat source A.B.C.D A.B.C.D`	                      |config节点	|配置NAT服务，并进入到NAT服务节点进行细节配置                    |
-|`ip route A.B.C.D/M dev (inside/|outside) [kni_host]`	  |config节点	|配置NAT依赖的路由信息                                           |
-|`ip route A.B.C.D/M via A.B.C.D dev (inside/|outside)`	  |config节点	|配置NAT依赖的路由信息                                           |
+|`ip route A.B.C.D/M dev (inside\|outside) [kni_host]`	  |config节点	|配置NAT依赖的路由信息                                           |
+|`ip route A.B.C.D/M via A.B.C.D dev (inside\|outside)`	  |config节点	|配置NAT依赖的路由信息                                           |
 |`local ip A.B.C.D/M`	                                  |config节点	|配置本地地址，用于管理访问的kni口地址                           |
 |`no hostname`	                                          |config节点	|取消设置主机名称，用于显示命令行提示符的主机名                  |
-|`no ip addr A.B.C.D/M dev (dpdk0.kni/|dpdk1.kni)`	      |config节点	|取消配置对外访问的IP地址，主要用于响应ospf等路由协议的路由通告等|
+|`no ip addr A.B.C.D/M dev (dpdk0.kni\|dpdk1.kni)`	      |config节点	|取消配置对外访问的IP地址，主要用于响应ospf等路由协议的路由通告等|
 |`no ip nat pool NAME`	                                  |config节点	|取消配置NAT地址池，并进入到地址池节点进行细节配置               |
 |`no ip nat source A.B.C.D A.B.C.D`	                      |config节点	|取消配置NAT服务，并进入到NAT服务节点进行细节配置                |
-|`no ip route A.B.C.D/M dev (inside/|outside) [kni_host]`  |config节点	|取消配置NAT依赖的路由信息                                       |
-|`no ip route A.B.C.D/M via A.B.C.D dev (inside/|outside)` |config节点	|取消配置NAT依赖的路由信息                                       |
+|`no ip route A.B.C.D/M dev (inside\|outside) [kni_host]`  |config节点	|取消配置NAT依赖的路由信息                                       |
+|`no ip route A.B.C.D/M via A.B.C.D dev (inside\|outside)` |config节点	|取消配置NAT依赖的路由信息                                       |
 |`no local ip A.B.C.D/M`	                              |config节点	|取消配置本地地址，用于管理访问的kni口地址                       |
 |`member ip A.B.C.D/M`	                                  |pool节点	    |配置池内单地址成员                                              |
 |`member range A.B.C.D A.B.C.D masklen <0-32>`	          |pool节点	    |配置池内一段连续地址成员                                        |
