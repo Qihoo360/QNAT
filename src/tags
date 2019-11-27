@@ -1,0 +1,1410 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+ARP_ENTRY_BUFF_SIZE_DEF	neigh.c	38;"	d	file:
+ARP_ENTRY_BUFF_SIZE_MAX	neigh.c	40;"	d	file:
+ARP_ENTRY_BUFF_SIZE_MIN	neigh.c	39;"	d	file:
+ARP_PKTPOOL_CACHE_MBUF_DEF	neigh.c	46;"	d	file:
+ARP_PKTPOOL_CACHE_MBUF_MAX	neigh.c	48;"	d	file:
+ARP_PKTPOOL_CACHE_MBUF_MIN	neigh.c	47;"	d	file:
+ARP_PKTPOOL_NB_MBUF_DEF	neigh.c	42;"	d	file:
+ARP_PKTPOOL_NB_MBUF_MAX	neigh.c	44;"	d	file:
+ARP_PKTPOOL_NB_MBUF_MIN	neigh.c	43;"	d	file:
+ARP_RING_SIZE	netif.c	67;"	d	file:
+ARP_TAB_BITS	neigh.c	34;"	d	file:
+ARP_TAB_MASK	neigh.c	36;"	d	file:
+ARP_TAB_SIZE	neigh.c	35;"	d	file:
+BIG_LOOP_THRESH	netif.c	3629;"	d	file:
+COOKIEBITS	ipvs/ip_vs_synproxy.c	161;"	d	file:
+COOKIEMASK	ipvs/ip_vs_synproxy.c	162;"	d	file:
+DEF_MAX_PORT	sa_pool.c	59;"	d	file:
+DEF_MIN_PORT	sa_pool.c	58;"	d	file:
+DPDKDIR	dpdk.mk	/^DPDKDIR := $(RTE_SDK)\/$(RTE_TARGET)$/;"	m
+DPVS	main.c	35;"	d	file:
+DPVS_BLKLST_TAB_BITS	ipvs/ip_vs_blklst.c	38;"	d	file:
+DPVS_BLKLST_TAB_MASK	ipvs/ip_vs_blklst.c	40;"	d	file:
+DPVS_BLKLST_TAB_SIZE	ipvs/ip_vs_blklst.c	39;"	d	file:
+DPVS_CONN_CACHE_SIZE_DEF	ipvs/ip_vs_conn.c	45;"	d	file:
+DPVS_CONN_INIT_TIMEOUT_DEF	ipvs/ip_vs_conn.c	48;"	d	file:
+DPVS_CONN_POOL_SIZE_DEF	ipvs/ip_vs_conn.c	42;"	d	file:
+DPVS_CONN_POOL_SIZE_MIN	ipvs/ip_vs_conn.c	43;"	d	file:
+DPVS_CONN_TAB_BITS	ipvs/ip_vs_conn.c	37;"	d	file:
+DPVS_CONN_TAB_MASK	ipvs/ip_vs_conn.c	39;"	d	file:
+DPVS_CONN_TAB_SIZE	ipvs/ip_vs_conn.c	38;"	d	file:
+DPVS_MAX_PROTOS	ipvs/ip_vs_proto.c	27;"	d	file:
+DPVS_MSG_BITS	ctrl.c	40;"	d	file:
+DPVS_MSG_LEN	ctrl.c	41;"	d	file:
+DPVS_MSG_MASK	ctrl.c	42;"	d	file:
+DPVS_MSG_MC_QLEN_MAX	ctrl.c	53;"	d	file:
+DPVS_MSG_MC_QLEN_MIN	ctrl.c	52;"	d	file:
+DPVS_MSG_RING_SIZE_DEF	ctrl.c	44;"	d	file:
+DPVS_MSG_RING_SIZE_MAX	ctrl.c	46;"	d	file:
+DPVS_MSG_RING_SIZE_MIN	ctrl.c	45;"	d	file:
+DPVS_MULTICAST_LIST_LEN_DEF	ctrl.c	51;"	d	file:
+DPVS_NEIGH_TIMEOUT_DEF	neigh.c	50;"	d	file:
+DPVS_NEIGH_TIMEOUT_MAX	neigh.c	52;"	d	file:
+DPVS_NEIGH_TIMEOUT_MIN	neigh.c	51;"	d	file:
+DPVS_TIMER_HZ	timer.c	53;"	d	file:
+DP_VS_RTAB_BITS	ipvs/ip_vs_dest.c	38;"	d	file:
+DP_VS_RTAB_MASK	ipvs/ip_vs_dest.c	40;"	d	file:
+DP_VS_RTAB_SIZE	ipvs/ip_vs_dest.c	39;"	d	file:
+DP_VS_SVC_TAB_BITS	ipvs/ip_vs_service.c	38;"	d	file:
+DP_VS_SVC_TAB_MASK	ipvs/ip_vs_service.c	40;"	d	file:
+DP_VS_SVC_TAB_SIZE	ipvs/ip_vs_service.c	39;"	d	file:
+DP_VS_SYNPROXY_ACK_CACHE_SIZE	ipvs/ip_vs_synproxy.c	66;"	d	file:
+DP_VS_SYNPROXY_ACK_MBUFPOOL_SIZE	ipvs/ip_vs_synproxy.c	65;"	d	file:
+DP_VS_SYNPROXY_CONN_REUSE_CL_DEFAULT	ipvs/ip_vs_synproxy.c	43;"	d	file:
+DP_VS_SYNPROXY_CONN_REUSE_CW_DEFAULT	ipvs/ip_vs_synproxy.c	46;"	d	file:
+DP_VS_SYNPROXY_CONN_REUSE_DEFAULT	ipvs/ip_vs_synproxy.c	42;"	d	file:
+DP_VS_SYNPROXY_CONN_REUSE_FW_DEFAULT	ipvs/ip_vs_synproxy.c	45;"	d	file:
+DP_VS_SYNPROXY_CONN_REUSE_LA_DEFAULT	ipvs/ip_vs_synproxy.c	47;"	d	file:
+DP_VS_SYNPROXY_CONN_REUSE_TW_DEFAULT	ipvs/ip_vs_synproxy.c	44;"	d	file:
+DP_VS_SYNPROXY_COUNTER_TRIES	ipvs/ip_vs_synproxy.c	257;"	d	file:
+DP_VS_SYNPROXY_DEFER_DEFAULT	ipvs/ip_vs_synproxy.c	39;"	d	file:
+DP_VS_SYNPROXY_DUP_ACK_DEFAULT	ipvs/ip_vs_synproxy.c	40;"	d	file:
+DP_VS_SYNPROXY_INIT_MSS_DEFAULT	ipvs/ip_vs_synproxy.c	34;"	d	file:
+DP_VS_SYNPROXY_MAX_ACK_SAVED_DEFAULT	ipvs/ip_vs_synproxy.c	41;"	d	file:
+DP_VS_SYNPROXY_SACK_DEFAULT	ipvs/ip_vs_synproxy.c	36;"	d	file:
+DP_VS_SYNPROXY_SYN_RETRY_DEFAULT	ipvs/ip_vs_synproxy.c	48;"	d	file:
+DP_VS_SYNPROXY_TIMESTAMP_DEFAULT	ipvs/ip_vs_synproxy.c	38;"	d	file:
+DP_VS_SYNPROXY_TTL_DEFAULT	ipvs/ip_vs_synproxy.c	35;"	d	file:
+DP_VS_SYNPROXY_WSCALE_DEFAULT	ipvs/ip_vs_synproxy.c	37;"	d	file:
+DTIMER	timer.c	37;"	d	file:
+EMBUF	mbuf.c	26;"	d	file:
+ICMP	icmp.c	24;"	d	file:
+IFA	inetaddr.c	32;"	d	file:
+INET	inet.c	28;"	d	file:
+INET_ADDR_HSIZE	inetaddr.c	36;"	d	file:
+INET_ADDR_HSIZE_SHIFT	inetaddr.c	35;"	d	file:
+INET_DEF_TTL	ipv4.c	34;"	d	file:
+INET_HOOK	ipv4.c	/^int INET_HOOK(unsigned int hook, struct rte_mbuf *mbuf,$/;"	f
+INET_MAX_PROTS	ipv4.c	33;"	d	file:
+IP4FRAG	ipv4_frag.c	29;"	d	file:
+IP4FRAG_PREFETCH_OFFSET	ipv4_frag.c	32;"	d	file:
+IP4_FRAG_BUCKETS_DEF	ipv4_frag.c	40;"	d	file:
+IP4_FRAG_BUCKETS_MAX	ipv4_frag.c	42;"	d	file:
+IP4_FRAG_BUCKETS_MIN	ipv4_frag.c	41;"	d	file:
+IP4_FRAG_BUCKET_ENTRIES_DEF	ipv4_frag.c	44;"	d	file:
+IP4_FRAG_BUCKET_ENTRIES_MAX	ipv4_frag.c	46;"	d	file:
+IP4_FRAG_BUCKET_ENTRIES_MIN	ipv4_frag.c	45;"	d	file:
+IP4_FRAG_TTL_DEF	ipv4_frag.c	48;"	d	file:
+IP4_IDENTS_SZ	ipv4.c	102;"	d	file:
+IPV4	ipv4.c	30;"	d	file:
+IPV4_FORWARD_DEF	ipv4.c	36;"	d	file:
+KNI_DEF_MBUF_SIZE	kni.c	44;"	d	file:
+KNI_MBUFPOOL_CACHE_SIZE	kni.c	46;"	d	file:
+KNI_MBUFPOOL_ELEMS	kni.c	45;"	d	file:
+Kni	kni.c	41;"	d	file:
+LCONFCHK_DISCONTINUOUS_QUEUE_ID	netif.c	1277;"	d	file:
+LCONFCHK_INCORRECT_TX_QUEUE_NUM	netif.c	1279;"	d	file:
+LCONFCHK_LCORE_NOT_INDEXED	netif.c	1274;"	d	file:
+LCONFCHK_MARK	netif.c	1272;"	d	file:
+LCONFCHK_NO_SLAVE_LCORES	netif.c	1280;"	d	file:
+LCONFCHK_OK	netif.c	1273;"	d	file:
+LCONFCHK_PORT_NOT_ENOUGH	netif.c	1278;"	d	file:
+LCONFCHK_REPEATED_RX_QUEUE_ID	netif.c	1275;"	d	file:
+LCONFCHK_REPEATED_TX_QUEUE_ID	netif.c	1276;"	d	file:
+LCORE_CONF_BUFFER_LEN	main.c	38;"	d	file:
+LEVEL_DEPTH	timer.c	61;"	d	file:
+LEVEL_SIZE	timer.c	60;"	d	file:
+LOCAL_ROUTE_TAB_MASK	route.c	27;"	d	file:
+LOCAL_ROUTE_TAB_SIZE	route.c	26;"	d	file:
+MAC_RING_SIZE	neigh.c	683;"	d	file:
+MAX_FDIR_PROTO	sa_pool.c	64;"	d	file:
+MAX_ICMP_CTRL	icmp.c	32;"	d	file:
+MAX_PORT	sa_pool.c	56;"	d	file:
+MSG_TIMEOUT_US	ctrl.c	37;"	d	file:
+NEIGHBOUR_BUILD	neigh.c	79;"	d	file:
+NEIGHBOUR_COMPLETED	neigh.c	81;"	d	file:
+NEIGHBOUR_HASHED	neigh.c	82;"	d	file:
+NEIGHBOUR_SEND	neigh.c	80;"	d	file:
+NEIGHBOUR_STATIC	neigh.c	83;"	d	file:
+NEIGH_PROCESS_MAC_RING_INTERVAL	neigh.c	85;"	d	file:
+NETIF_BOND_MODE_DEF	netif.c	82;"	d	file:
+NETIF_CTRL_BUFFER_LEN	netif.c	141;"	d	file:
+NETIF_CTRL_BUFFER_LEN	netif.c	3841;"	d	file:
+NETIF_ISOL_RXQ_RING_SZ_DEF	netif.c	65;"	d	file:
+NETIF_JOB_COUNT	netif.c	2344;"	d	file:
+NETIF_NB_RX_DESC_DEF	netif.c	56;"	d	file:
+NETIF_NB_RX_DESC_MAX	netif.c	58;"	d	file:
+NETIF_NB_RX_DESC_MIN	netif.c	57;"	d	file:
+NETIF_NB_TX_DESC_DEF	netif.c	60;"	d	file:
+NETIF_NB_TX_DESC_MAX	netif.c	62;"	d	file:
+NETIF_NB_TX_DESC_MIN	netif.c	61;"	d	file:
+NETIF_PKTPOOL_MBUF_CACHE_DEF	netif.c	51;"	d	file:
+NETIF_PKTPOOL_MBUF_CACHE_MAX	netif.c	53;"	d	file:
+NETIF_PKTPOOL_MBUF_CACHE_MIN	netif.c	52;"	d	file:
+NETIF_PKTPOOL_NB_MBUF_DEF	netif.c	46;"	d	file:
+NETIF_PKTPOOL_NB_MBUF_MAX	netif.c	48;"	d	file:
+NETIF_PKTPOOL_NB_MBUF_MIN	netif.c	47;"	d	file:
+NETIF_PKT_PREFETCH_OFFSET	netif.c	64;"	d	file:
+NETIF_PKT_TYPE_TABLE_BITS	netif.c	892;"	d	file:
+NETIF_PKT_TYPE_TABLE_BUCKETS	netif.c	893;"	d	file:
+NETIF_PKT_TYPE_TABLE_MASK	netif.c	894;"	d	file:
+NETIF_PORT_TABLE_BITS	netif.c	132;"	d	file:
+NETIF_PORT_TABLE_BUCKETS	netif.c	133;"	d	file:
+NETIF_PORT_TABLE_MASK	netif.c	134;"	d	file:
+NET_ROUTE_TAB_MASK	route.c	29;"	d	file:
+NET_ROUTE_TAB_SIZE	route.c	28;"	d	file:
+NUM_MSS	ipvs/ip_vs_synproxy.c	249;"	d	file:
+OBJS	Makefile	/^OBJS := $(patsubst %.c,%.o,$(OBJS))$/;"	m
+OBJS	Makefile	/^OBJS := $(shell find $(SRCDIR) -name '*.c' | sort)$/;"	m
+PFIFO_FAST_BANDS	tc/sch_pfifo_fast.c	37;"	d	file:
+RTE_LOGTYPE_DPVS	main.c	36;"	d	file:
+RTE_LOGTYPE_DTIMER	timer.c	38;"	d	file:
+RTE_LOGTYPE_EMBUF	mbuf.c	27;"	d	file:
+RTE_LOGTYPE_ICMP	icmp.c	25;"	d	file:
+RTE_LOGTYPE_IFA	inetaddr.c	33;"	d	file:
+RTE_LOGTYPE_INET	inet.c	29;"	d	file:
+RTE_LOGTYPE_IP4FRAG	ipv4_frag.c	30;"	d	file:
+RTE_LOGTYPE_IPV4	ipv4.c	31;"	d	file:
+RTE_LOGTYPE_Kni	kni.c	42;"	d	file:
+RTE_LOGTYPE_ROUTE	route.c	25;"	d	file:
+RTE_LOGTYPE_SAPOOL	sa_pool.c	62;"	d	file:
+RTE_LOGTYPE_VLAN	vlan.c	37;"	d	file:
+RTE_TARGET	dpdk.mk	/^RTE_TARGET ?= build$/;"	m
+SAPOOL	sa_pool.c	61;"	d	file:
+SAPOOL_DEF_HASH_SZ	sa_pool.c	66;"	d	file:
+SAPOOL_MAX_HASH_SZ	sa_pool.c	68;"	d	file:
+SAPOOL_MIN_HASH_SZ	sa_pool.c	67;"	d	file:
+SA_F_USED	sa_pool.c	/^    SA_F_USED               = 0x01,$/;"	e	enum:__anon1	file:
+SRCDIR	Makefile	/^SRCDIR := $(dir $(realpath $(firstword $(MAKEFILE_LIST))))$/;"	m
+TARGET	Makefile	/^TARGET := dpvs$/;"	m
+TC_PRIO_MAX	tc/sch_pfifo_fast.c	31;"	d	file:
+TIMER_MAX_SECS	timer.c	65;"	d	file:
+TIMER_MAX_TICKS	timer.c	64;"	d	file:
+TIMER_SCHED_INTERVAL_DEF	timer.c	570;"	d	file:
+TIMER_SCHED_INTERVAL_MAX	timer.c	572;"	d	file:
+TIMER_SCHED_INTERVAL_MIN	timer.c	571;"	d	file:
+UNIX_DOMAIN_DEF	ctrl.c	924;"	d	file:
+VLAN	vlan.c	36;"	d	file:
+_GNU_SOURCE	main.c	18;"	d	file:
+___ifa_remove	inetaddr.c	/^static inline void ___ifa_remove(struct inet_ifaddr *ifa)$/;"	f	file:
+__add_del_filter	sa_pool.c	/^static int __add_del_filter(struct netif_port *dev, lcoreid_t cid,$/;"	f	file:
+__cls_ops_lookup	tc/tc.c	/^static struct tc_cls_ops *__cls_ops_lookup(const char *name)$/;"	f	file:
+__conn_hash	ipvs/ip_vs_conn.c	/^static inline int __conn_hash(struct dp_vs_conn *conn,$/;"	f	file:
+__dp_vs_bind_svc	ipvs/ip_vs_service.c	/^__dp_vs_bind_svc(struct dp_vs_dest *dest, struct dp_vs_service *svc)$/;"	f
+__dp_vs_del_dest	ipvs/ip_vs_dest.c	/^void __dp_vs_del_dest(struct dp_vs_dest *dest)$/;"	f
+__dp_vs_del_service	ipvs/ip_vs_service.c	/^static void __dp_vs_del_service(struct dp_vs_service *svc)$/;"	f	file:
+__dp_vs_rs_lock	ipvs/ip_vs_dest.c	/^static rte_rwlock_t __dp_vs_rs_lock;$/;"	v	file:
+__dp_vs_sched_lock	ipvs/ip_vs_sched.c	/^static rte_rwlock_t __dp_vs_sched_lock;$/;"	v	file:
+__dp_vs_service_get	ipvs/ip_vs_service.c	/^struct dp_vs_service *__dp_vs_service_get(int af, uint16_t protocol, $/;"	f
+__dp_vs_stats_clear	ipvs/ip_vs_stats.c	/^static void __dp_vs_stats_clear(struct dp_vs_stats *stats)$/;"	f	file:
+__dp_vs_svc_fwm_get	ipvs/ip_vs_service.c	/^struct dp_vs_service *__dp_vs_svc_fwm_get(int af, uint32_t fwmark)$/;"	f
+__dp_vs_svc_match_find	ipvs/ip_vs_service.c	/^__dp_vs_svc_match_find(int af, uint8_t proto, const struct dp_vs_match *match)$/;"	f	file:
+__dp_vs_svc_match_get	ipvs/ip_vs_service.c	/^__dp_vs_svc_match_get(int af, const struct rte_mbuf *mbuf)$/;"	f	file:
+__dp_vs_unbind_svc	ipvs/ip_vs_service.c	/^void __dp_vs_unbind_svc(struct dp_vs_dest *dest)$/;"	f
+__dp_vs_unlink_dest	ipvs/ip_vs_dest.c	/^void __dp_vs_unlink_dest(struct dp_vs_service *svc,$/;"	f
+__dp_vs_update_dest	ipvs/ip_vs_dest.c	/^static void __dp_vs_update_dest(struct dp_vs_service *svc,$/;"	f	file:
+__dpvs_timer_sched	timer.c	/^static int __dpvs_timer_sched(struct timer_scheduler *sched,$/;"	f	file:
+__get_laddr	ipvs/ip_vs_laddr.c	/^static inline struct dp_vs_laddr *__get_laddr(struct dp_vs_service *svc)$/;"	f	file:
+__ifa_insert	inetaddr.c	/^static int __ifa_insert(struct inet_device *idev, struct inet_ifaddr *ifa)$/;"	f	file:
+__ifa_lookup	inetaddr.c	/^static struct inet_ifaddr *__ifa_lookup(struct inet_device *idev, $/;"	f	file:
+__ifa_remove	inetaddr.c	/^static int __ifa_remove(struct inet_device *idev, const union inet_addr *addr, $/;"	f	file:
+__inet_addr_get_iface	inetaddr.c	/^static struct netif_port *__inet_addr_get_iface(int af, union inet_addr *addr)$/;"	f	file:
+__inet_register_hooks	ipv4.c	/^static int __inet_register_hooks(struct list_head *head,$/;"	f	file:
+__lcore_conn_table_dump	ipvs/ip_vs_conn.c	/^static int __lcore_conn_table_dump(const struct list_head *cplist)$/;"	f	file:
+__netif_hw_addr_add	netif_addr.c	/^static int __netif_hw_addr_add(struct netif_hw_addr_list *list,$/;"	f	file:
+__netif_hw_addr_del	netif_addr.c	/^static int __netif_hw_addr_del(struct netif_hw_addr_list *list,$/;"	f	file:
+__netif_hw_addr_sync	netif_addr.c	/^static int __netif_hw_addr_sync(struct netif_hw_addr_list *to,$/;"	f	file:
+__netif_hw_addr_sync_multiple	netif_addr.c	/^static int __netif_hw_addr_sync_multiple(struct netif_hw_addr_list *to,$/;"	f	file:
+__netif_hw_addr_unsync	netif_addr.c	/^static int __netif_hw_addr_unsync(struct netif_hw_addr_list *to,$/;"	f	file:
+__netif_hw_addr_unsync_multiple	netif_addr.c	/^static int __netif_hw_addr_unsync_multiple(struct netif_hw_addr_list *to,$/;"	f	file:
+__netif_mc_add	netif_addr.c	/^int __netif_mc_add(struct netif_port *dev, const struct ether_addr *addr)$/;"	f
+__netif_mc_del	netif_addr.c	/^int __netif_mc_del(struct netif_port *dev, const struct ether_addr *addr)$/;"	f
+__netif_mc_dump	netif_addr.c	/^int __netif_mc_dump(struct netif_port *dev,$/;"	f
+__netif_mc_sync	netif_addr.c	/^int __netif_mc_sync(struct netif_port *to, struct netif_port *from)$/;"	f
+__netif_mc_sync_multiple	netif_addr.c	/^int __netif_mc_sync_multiple(struct netif_port *to, struct netif_port *from)$/;"	f
+__netif_mc_unsync	netif_addr.c	/^int __netif_mc_unsync(struct netif_port *to, struct netif_port *from)$/;"	f
+__netif_mc_unsync_multiple	netif_addr.c	/^int __netif_mc_unsync_multiple(struct netif_port *to, struct netif_port *from)$/;"	f
+__netif_set_mc_list	netif.c	/^int __netif_set_mc_list(struct netif_port *dev)$/;"	f
+__qsch_destroy	tc/sch_generic.c	/^static void __qsch_destroy(struct Qsch *sch)$/;"	f	file:
+__qsch_ops_lookup	tc/tc.c	/^static struct Qsch_ops *__qsch_ops_lookup(const char *name)$/;"	f	file:
+__rte_cache_aligned	neigh.c	/^} __rte_cache_aligned;$/;"	v	typeref:struct:neighbour_entry
+__rte_cache_aligned	neigh.c	/^} __rte_cache_aligned;$/;"	v	typeref:struct:neighbour_mbuf_entry
+__rte_cache_aligned	neigh.c	/^} __rte_cache_aligned;$/;"	v	typeref:struct:raw_neigh
+__svc_in_range	ipvs/ip_vs_service.c	/^static inline bool __svc_in_range(int af,$/;"	f	file:
+__syn_proxy_reuse_conn	ipvs/ip_vs_synproxy.c	/^static inline int __syn_proxy_reuse_conn(struct dp_vs_conn *cp,$/;"	f	file:
+__tc_so_cls_get	tc/tc_ctrl.c	/^static int __tc_so_cls_get(struct netif_tc *tc, tc_oper_t oper,$/;"	f	file:
+__tc_so_cls_set	tc/tc_ctrl.c	/^static int __tc_so_cls_set(struct netif_tc *tc, tc_oper_t oper,$/;"	f	file:
+__tc_so_qsch_get	tc/tc_ctrl.c	/^static int __tc_so_qsch_get(struct netif_tc *tc, tc_oper_t oper,$/;"	f	file:
+__tc_so_qsch_set	tc/tc_ctrl.c	/^static int __tc_so_qsch_set(struct netif_tc *tc, tc_oper_t oper,$/;"	f	file:
+__time_now	timer.c	/^static void __time_now(struct timer_scheduler *sched, struct timeval *now)$/;"	f	file:
+ack_storm_thresh_handler	ipvs/ip_vs_synproxy.c	/^static void ack_storm_thresh_handler(vector_t tokens)$/;"	f	file:
+add	neigh.c	/^    bool add;$/;"	m	struct:raw_neigh	file:
+add_bond_slaves	netif.c	/^static int add_bond_slaves(struct netif_port *port)$/;"	f	file:
+addr	ipvs/ip_vs_laddr.c	/^    union inet_addr         addr;$/;"	m	struct:dp_vs_laddr	typeref:union:dp_vs_laddr::inet_addr	file:
+addr	sa_pool.c	/^    union inet_addr         addr;$/;"	m	struct:sa_entry	typeref:union:sa_entry::inet_addr	file:
+alloc_percpu_stats	ipvs/ip_vs_stats.c	/^static struct dp_vs_stats* alloc_percpu_stats(void)$/;"	f	file:
+alloc_value_block	parser.c	/^void alloc_value_block(void (*alloc_func)(vector_t))$/;"	f
+alloc_vlan_info	vlan.c	/^static int alloc_vlan_info(struct netif_port *dev)$/;"	f	file:
+arp_init	neigh.c	/^static int arp_init(void)$/;"	f	file:
+arp_list	neigh.c	/^    struct list_head arp_list;$/;"	m	struct:neighbour_entry	typeref:struct:neighbour_entry::list_head	file:
+arp_pkt_type	neigh.c	/^static struct pkt_type arp_pkt_type = {$/;"	v	typeref:struct:pkt_type	file:
+arp_pktpool_cache	neigh.c	/^static int arp_pktpool_cache = ARP_PKTPOOL_CACHE_MBUF_DEF;$/;"	v	file:
+arp_pktpool_size	neigh.c	/^static int arp_pktpool_size = ARP_PKTPOOL_NB_MBUF_DEF;$/;"	v	file:
+arp_ring	netif.c	/^static struct rte_ring *arp_ring[NETIF_MAX_LCORES];$/;"	v	typeref:struct:rte_ring	file:
+arp_timeout	neigh.c	/^static int arp_timeout = DPVS_NEIGH_TIMEOUT_DEF;$/;"	v	file:
+arp_unres_qlen	neigh.c	/^static int arp_unres_qlen = ARP_ENTRY_BUFF_SIZE_DEF;$/;"	v	file:
+array	ipvs/ip_vs_conn.c	/^    ipvs_conn_entry_t array[0];$/;"	m	struct:ip_vs_conn_array_list	file:
+band2list	tc/sch_pfifo_fast.c	/^static inline struct tc_mbuf_head *band2list(struct pfifo_fast_priv *priv,$/;"	f	file:
+band2list_cpu	tc/sch_pfifo_fast.c	/^static inline struct tc_mbuf_head *band2list_cpu(struct pfifo_fast_priv *priv,$/;"	f	file:
+bfifo_enqueue	tc/sch_fifo.c	/^static int bfifo_enqueue(struct Qsch *sch, struct rte_mbuf *mbuf)$/;"	f	file:
+bfifo_sch_ops	tc/sch_fifo.c	/^struct Qsch_ops bfifo_sch_ops = {$/;"	v	typeref:struct:Qsch_ops
+bitmap	tc/sch_pfifo_fast.c	/^    uint32_t bitmap[RTE_MAX_LCORE];$/;"	m	struct:pfifo_fast_priv	file:
+bitmap2band	tc/sch_pfifo_fast.c	/^static const int bitmap2band[] = {-1, 0, 1, 0, 2, 0, 1, 0};$/;"	v	file:
+blklst_add_msg_cb	ipvs/ip_vs_blklst.c	/^inline static int blklst_add_msg_cb(struct dpvs_msg *msg)$/;"	f	file:
+blklst_del_msg_cb	ipvs/ip_vs_blklst.c	/^inline static int blklst_del_msg_cb(struct dpvs_msg *msg)$/;"	f	file:
+blklst_expire	ipvs/ip_vs_blklst.c	/^static void blklst_expire(void *priv)$/;"	f	file:
+blklst_fill_conf	ipvs/ip_vs_blklst.c	/^static void blklst_fill_conf(int af, struct dp_vs_blklst_conf *cf,$/;"	f	file:
+blklst_hashkey	ipvs/ip_vs_blklst.c	/^static inline uint32_t blklst_hashkey(const union inet_addr *vaddr,$/;"	f	file:
+blklst_lcore_init	ipvs/ip_vs_blklst.c	/^static int blklst_lcore_init(void *args)$/;"	f	file:
+blklst_lcore_term	ipvs/ip_vs_blklst.c	/^static int blklst_lcore_term(void *args)$/;"	f	file:
+blklst_msg_process	ipvs/ip_vs_blklst.c	/^static int blklst_msg_process(bool add, struct dpvs_msg *msg)$/;"	f	file:
+blklst_sockopt_get	ipvs/ip_vs_blklst.c	/^static int blklst_sockopt_get(sockoptid_t opt, const void *conf, size_t size, $/;"	f	file:
+blklst_sockopt_set	ipvs/ip_vs_blklst.c	/^static int blklst_sockopt_set(sockoptid_t opt, const void *conf, size_t size)$/;"	f	file:
+blklst_sockopts	ipvs/ip_vs_blklst.c	/^static struct dpvs_sockopts blklst_sockopts = {$/;"	v	typeref:struct:dpvs_sockopts	file:
+bond_conf_stream	netif.c	/^struct bond_conf_stream {$/;"	s	file:
+bond_list	netif.c	/^static struct list_head bond_list;      \/* bonding configurations from cfgfile *\/$/;"	v	typeref:struct:list_head	file:
+bond_list_node	netif.c	/^    struct list_head bond_list_node;$/;"	m	struct:bond_conf_stream	typeref:struct:bond_conf_stream::list_head	file:
+bond_netif_ops	netif.c	/^static struct netif_ops bond_netif_ops = {$/;"	v	typeref:struct:netif_ops	file:
+bond_pid_base	netif.c	/^static portid_t bond_pid_base = -1;$/;"	v	file:
+bond_pid_end	netif.c	/^static portid_t bond_pid_end = -1; \/\/ not inclusive$/;"	v	file:
+bond_set_fdir_filt	netif.c	/^static int bond_set_fdir_filt(struct netif_port *dev, enum rte_filter_op op,$/;"	f	file:
+bond_set_mc_list	netif.c	/^static int bond_set_mc_list(struct netif_port *dev)$/;"	f	file:
+bonding_handler	netif.c	/^static void bonding_handler(vector_t tokens)$/;"	f	file:
+bonding_kni_name_handler	netif.c	/^static void bonding_kni_name_handler(vector_t tokens)$/;"	f	file:
+bonding_mode_handler	netif.c	/^static void bonding_mode_handler(vector_t tokens)$/;"	f	file:
+bonding_primary_handler	netif.c	/^static void bonding_primary_handler(vector_t tokens)$/;"	f	file:
+bonding_slave_handler	netif.c	/^static void bonding_slave_handler(vector_t tokens)$/;"	f	file:
+buffer	tc/sch_tbf.c	/^    int64_t                 buffer;     \/* Token bucket depth\/rate: in time.$/;"	m	struct:tbf_sch_priv	file:
+build_port_queue_lcore_map	netif.c	/^static int build_port_queue_lcore_map(void)$/;"	f	file:
+ca_list	ipvs/ip_vs_conn.c	/^    struct list_head ca_list;$/;"	m	struct:ip_vs_conn_array_list	typeref:struct:ip_vs_conn_array_list::list_head	file:
+cfgfile_init	cfgfile.c	/^int cfgfile_init(void)$/;"	f
+cfgfile_term	cfgfile.c	/^int cfgfile_term(void)$/;"	f
+check_include	parser.c	/^int check_include(char *buf)$/;"	f
+check_lcore_conf	netif.c	/^static int check_lcore_conf(int lcores, const struct netif_lcore_conf *lcore_conf)$/;"	f	file:
+check_tcp_syn_cookie	ipvs/ip_vs_synproxy.c	/^static uint32_t  check_tcp_syn_cookie(uint32_t cookie,$/;"	f	file:
+cl	ipvs/ip_vs_wrr.c	/^    struct list_head *cl;   \/* current list head *\/$/;"	m	struct:dp_vs_wrr_mark	typeref:struct:dp_vs_wrr_mark::list_head	file:
+cls	tc/cls_match.c	/^    struct tc_cls           *cls;$/;"	m	struct:match_cls_priv	typeref:struct:match_cls_priv::tc_cls	file:
+cls_alloc	tc/cls.c	/^static struct tc_cls *cls_alloc(struct Qsch *sch, struct tc_cls_ops *ops)$/;"	f	file:
+cls_alloc_handle	tc/cls.c	/^static inline tc_handle_t cls_alloc_handle(struct Qsch *sch)$/;"	f	file:
+cls_free	tc/cls.c	/^static void cls_free(struct tc_cls *cls)$/;"	f	file:
+cls_ops_base	tc/tc.c	/^static struct list_head cls_ops_base;$/;"	v	typeref:struct:list_head	file:
+cls_ops_lock	tc/tc.c	/^static rte_rwlock_t cls_ops_lock;$/;"	v	file:
+config_lcores	netif.c	/^static void config_lcores(struct list_head *worker_list)$/;"	f	file:
+conn_bind_dest	ipvs/ip_vs_conn.c	/^static int conn_bind_dest(struct dp_vs_conn *conn, struct dp_vs_dest *dest)$/;"	f	file:
+conn_counts	ipvs/ip_vs_laddr.c	/^    rte_atomic32_t          conn_counts;$/;"	m	struct:dp_vs_laddr	file:
+conn_ctrl_init	ipvs/ip_vs_conn.c	/^static int conn_ctrl_init(void)$/;"	f	file:
+conn_ctrl_term	ipvs/ip_vs_conn.c	/^static void conn_ctrl_term(void)$/;"	f	file:
+conn_dump	ipvs/ip_vs_conn.c	/^static inline void conn_dump(const char *msg, struct dp_vs_conn *conn)$/;"	f	file:
+conn_expire	ipvs/ip_vs_conn.c	/^static void conn_expire(void *priv)$/;"	f	file:
+conn_expire_quiescent_template	ipvs/ip_vs_conn.c	/^static bool conn_expire_quiescent_template = false;$/;"	v	file:
+conn_expire_quiscent_template_handler	ipvs/ip_vs_conn.c	/^static void conn_expire_quiscent_template_handler(vector_t tokens)$/;"	f	file:
+conn_fast_xmit_handler	ipvs/ip_vs_xmit.c	/^static void conn_fast_xmit_handler(vector_t tockens)$/;"	f	file:
+conn_flush	ipvs/ip_vs_conn.c	/^static void conn_flush(void)$/;"	f	file:
+conn_get_all_msgcb_slave	ipvs/ip_vs_conn.c	/^static int conn_get_all_msgcb_slave(struct dpvs_msg *msg)$/;"	f	file:
+conn_get_msgcb_slave	ipvs/ip_vs_conn.c	/^static int conn_get_msgcb_slave(struct dpvs_msg *msg)$/;"	f	file:
+conn_hash	ipvs/ip_vs_conn.c	/^static inline int conn_hash(struct dp_vs_conn *conn)$/;"	f	file:
+conn_hashkey	ipvs/ip_vs_conn.c	/^static inline uint32_t conn_hashkey(int af,$/;"	f	file:
+conn_init_lcore	ipvs/ip_vs_conn.c	/^static int conn_init_lcore(void *arg)$/;"	f	file:
+conn_init_timeout	ipvs/ip_vs_conn.c	/^static int conn_init_timeout = DPVS_CONN_INIT_TIMEOUT_DEF;$/;"	v	file:
+conn_init_timeout_handler	ipvs/ip_vs_conn.c	/^static void conn_init_timeout_handler(vector_t tokens)$/;"	f	file:
+conn_pool_cache	ipvs/ip_vs_conn.c	/^static int conn_pool_cache = DPVS_CONN_CACHE_SIZE_DEF;$/;"	v	file:
+conn_pool_cache_handler	ipvs/ip_vs_conn.c	/^static void conn_pool_cache_handler(vector_t tokens)$/;"	f	file:
+conn_pool_size	ipvs/ip_vs_conn.c	/^static int conn_pool_size = DPVS_CONN_POOL_SIZE_DEF;$/;"	v	file:
+conn_pool_size_handler	ipvs/ip_vs_conn.c	/^static void conn_pool_size_handler(vector_t tokens)$/;"	f	file:
+conn_reuse_close_handler	ipvs/ip_vs_synproxy.c	/^static void conn_reuse_close_handler(vector_t tokens)$/;"	f	file:
+conn_reuse_closewait_handler	ipvs/ip_vs_synproxy.c	/^static void conn_reuse_closewait_handler(vector_t tokens)$/;"	f	file:
+conn_reuse_finwait_handler	ipvs/ip_vs_synproxy.c	/^static void conn_reuse_finwait_handler(vector_t tokens)$/;"	f	file:
+conn_reuse_handler	ipvs/ip_vs_synproxy.c	/^static void conn_reuse_handler(vector_t tokens)$/;"	f	file:
+conn_reuse_lastack_handler	ipvs/ip_vs_synproxy.c	/^static void conn_reuse_lastack_handler(vector_t tokens)$/;"	f	file:
+conn_reuse_timewait_handler	ipvs/ip_vs_synproxy.c	/^static void conn_reuse_timewait_handler(vector_t tokens)$/;"	f	file:
+conn_sockopts	ipvs/ip_vs_conn.c	/^static struct dpvs_sockopts conn_sockopts = {$/;"	v	typeref:struct:dpvs_sockopts	file:
+conn_tab_dump	ipvs/ip_vs_conn.c	/^static inline void conn_tab_dump(void)$/;"	f	file:
+conn_term_lcore	ipvs/ip_vs_conn.c	/^static int conn_term_lcore(void *arg)$/;"	f	file:
+conn_to_dump	ipvs/ip_vs_conn.c	/^static struct list_head conn_to_dump;$/;"	v	typeref:struct:list_head	file:
+conn_tuplehash_dump	ipvs/ip_vs_conn.c	/^static inline void conn_tuplehash_dump(const char *msg,$/;"	f	file:
+conn_unbind_dest	ipvs/ip_vs_conn.c	/^static int conn_unbind_dest(struct dp_vs_conn *conn)$/;"	f	file:
+conn_unhash	ipvs/ip_vs_conn.c	/^static inline int conn_unhash(struct dp_vs_conn *conn)$/;"	f	file:
+control_keyword_value_init	ctrl.c	/^void control_keyword_value_init(void)$/;"	f
+cookie_hash	ipvs/ip_vs_synproxy.c	/^static uint32_t cookie_hash(uint32_t saddr, uint32_t daddr, uint16_t sport,$/;"	f	file:
+copy_dev_info	netif.c	/^static inline void copy_dev_info(netif_nic_dev_get_t *get,$/;"	f	file:
+copy_port_stats	netif.c	/^static inline void copy_port_stats(netif_nic_stats_get_t *get,$/;"	f	file:
+cpu_id	netif.c	/^    int cpu_id;$/;"	m	struct:worker_conf_stream	file:
+cpu_id_handler	netif.c	/^static void cpu_id_handler(vector_t tokens)$/;"	f	file:
+ctrl_init	ctrl.c	/^int ctrl_init(void)$/;"	f
+ctrl_lcore_job	ctrl.c	/^struct netif_lcore_loop_job ctrl_lcore_job;$/;"	v	typeref:struct:netif_lcore_loop_job
+ctrl_term	ctrl.c	/^int ctrl_term(void)$/;"	f
+cursors	timer.c	/^    uint32_t            cursors[LEVEL_DEPTH];$/;"	m	struct:timer_scheduler	file:
+cw	ipvs/ip_vs_wrr.c	/^    int cw;         \/* current weight *\/$/;"	m	struct:dp_vs_wrr_mark	file:
+cycles_per_sec	netif.c	/^static uint64_t cycles_per_sec;$/;"	v	file:
+death_tbl	ipv4_frag.c	/^	struct rte_ip_frag_death_row	death_tbl; \/* frags to be free *\/$/;"	m	struct:ipv4_frag	typeref:struct:ipv4_frag::rte_ip_frag_death_row	file:
+default_mc_msg_cb	ctrl.c	/^inline static int default_mc_msg_cb(__rte_unused struct dpvs_multicast_queue *mcq)$/;"	f	file:
+default_port_conf	netif.c	/^static struct rte_eth_conf default_port_conf = {$/;"	v	typeref:struct:rte_eth_conf	file:
+default_qsch_ops	tc/tc.c	/^static struct Qsch_ops *default_qsch_ops = &pfifo_fast_ops;$/;"	v	typeref:struct:Qsch_ops	file:
+defence_tcp_drop_handler	ipvs/ip_vs_proto_tcp.c	/^static void defence_tcp_drop_handler(vector_t tokens)$/;"	f	file:
+defence_udp_drop_handler	ipvs/ip_vs_proto_udp.c	/^static void defence_udp_drop_handler(vector_t tokens)$/;"	f	file:
+defer_rs_syn_handler	ipvs/ip_vs_synproxy.c	/^static void defer_rs_syn_handler(vector_t tokens)$/;"	f	file:
+dev	netif.c	/^    struct netif_port *dev;$/;"	m	struct:master_xmit_msg_data	typeref:struct:master_xmit_msg_data::netif_port	file:
+dev_get_idev	inetaddr.c	/^static inline struct inet_device *dev_get_idev(const struct netif_port *dev)$/;"	f	file:
+dev_tx_weight	tc/sch_generic.c	/^static int dev_tx_weight = 64;$/;"	v	file:
+deviation_measure	timer.c	/^static inline void deviation_measure(void)$/;"	f	file:
+device_handler	netif.c	/^static void device_handler(vector_t tokens)$/;"	f	file:
+di	ipvs/ip_vs_wrr.c	/^    int di;         \/* decreasing interval *\/$/;"	m	struct:dp_vs_wrr_mark	file:
+do_lcore_job	netif.c	/^static inline void do_lcore_job(struct netif_lcore_loop_job *job)$/;"	f	file:
+dp_svc_stats_clear	ipvs/ip_vs_stats.c	/^void dp_svc_stats_clear(struct dp_vs_stats *stats)$/;"	f
+dp_vs_add_dest	ipvs/ip_vs_dest.c	/^dp_vs_add_dest(struct dp_vs_service *svc, struct dp_vs_dest_conf *udest)$/;"	f
+dp_vs_add_service	ipvs/ip_vs_service.c	/^int dp_vs_add_service(struct dp_vs_service_conf *u, $/;"	f
+dp_vs_bind_scheduler	ipvs/ip_vs_sched.c	/^int dp_vs_bind_scheduler(struct dp_vs_service *svc,$/;"	f
+dp_vs_blklst_add	ipvs/ip_vs_blklst.c	/^static int dp_vs_blklst_add(const union inet_addr *vaddr, const union inet_addr *blklst)$/;"	f	file:
+dp_vs_blklst_add_lcore	ipvs/ip_vs_blklst.c	/^static int dp_vs_blklst_add_lcore(const union inet_addr *vaddr, const union inet_addr *blklst)$/;"	f	file:
+dp_vs_blklst_del	ipvs/ip_vs_blklst.c	/^static int dp_vs_blklst_del(const union inet_addr *vaddr, const union inet_addr *blklst)$/;"	f	file:
+dp_vs_blklst_del_lcore	ipvs/ip_vs_blklst.c	/^static int dp_vs_blklst_del_lcore(const union inet_addr *vaddr, const union inet_addr *blklst)$/;"	f	file:
+dp_vs_blklst_flush	ipvs/ip_vs_blklst.c	/^void  dp_vs_blklst_flush(struct dp_vs_service *svc)$/;"	f
+dp_vs_blklst_flush_all	ipvs/ip_vs_blklst.c	/^static void dp_vs_blklst_flush_all(void)$/;"	f	file:
+dp_vs_blklst_init	ipvs/ip_vs_blklst.c	/^int dp_vs_blklst_init(void)$/;"	f
+dp_vs_blklst_lookup	ipvs/ip_vs_blklst.c	/^struct blklst_entry *dp_vs_blklst_lookup(const union inet_addr *vaddr,$/;"	f
+dp_vs_blklst_rnd	ipvs/ip_vs_blklst.c	/^static uint32_t dp_vs_blklst_rnd;$/;"	v	file:
+dp_vs_blklst_term	ipvs/ip_vs_blklst.c	/^int dp_vs_blklst_term(void)$/;"	f
+dp_vs_check_template	ipvs/ip_vs_conn.c	/^int dp_vs_check_template(struct dp_vs_conn *ct)$/;"	f
+dp_vs_conn_cache	ipvs/ip_vs_conn.c	/^static struct rte_mempool *dp_vs_conn_cache[DPVS_MAX_SOCKET];$/;"	v	typeref:struct:rte_mempool	file:
+dp_vs_conn_get	ipvs/ip_vs_conn.c	/^struct dp_vs_conn *dp_vs_conn_get(int af, uint16_t proto,$/;"	f
+dp_vs_conn_init	ipvs/ip_vs_conn.c	/^int dp_vs_conn_init(void)$/;"	f
+dp_vs_conn_new	ipvs/ip_vs_conn.c	/^struct dp_vs_conn * dp_vs_conn_new(struct rte_mbuf *mbuf,$/;"	f
+dp_vs_conn_put	ipvs/ip_vs_conn.c	/^void dp_vs_conn_put(struct dp_vs_conn *conn)$/;"	f
+dp_vs_conn_put_no_reset	ipvs/ip_vs_conn.c	/^void dp_vs_conn_put_no_reset(struct dp_vs_conn *conn)$/;"	f
+dp_vs_conn_rnd	ipvs/ip_vs_conn.c	/^static uint32_t dp_vs_conn_rnd; \/* hash random *\/$/;"	v	file:
+dp_vs_conn_term	ipvs/ip_vs_conn.c	/^int dp_vs_conn_term(void)$/;"	f
+dp_vs_copy_service	ipvs/ip_vs_service.c	/^dp_vs_copy_service(struct dp_vs_service_entry *dst, struct dp_vs_service *src)$/;"	f	file:
+dp_vs_copy_stats	ipvs/ip_vs_stats.c	/^int dp_vs_copy_stats(struct dp_vs_stats* dst, struct dp_vs_stats* src)$/;"	f
+dp_vs_copy_udest_compat	ipvs/ip_vs_service.c	/^static void dp_vs_copy_udest_compat(struct dp_vs_dest_conf *udest,$/;"	f	file:
+dp_vs_copy_usvc_compat	ipvs/ip_vs_service.c	/^static int dp_vs_copy_usvc_compat(struct dp_vs_service_conf *conf,$/;"	f	file:
+dp_vs_ct_in_get	ipvs/ip_vs_conn.c	/^struct dp_vs_conn *dp_vs_ct_in_get(int af, uint16_t proto,$/;"	f
+dp_vs_ct_lock	ipvs/ip_vs_conn.c	/^static rte_spinlock_t dp_vs_ct_lock;$/;"	v	file:
+dp_vs_ct_tab	ipvs/ip_vs_conn.c	/^static struct list_head *dp_vs_ct_tab;$/;"	v	typeref:struct:list_head	file:
+dp_vs_del_blklst_later	ipvs/ip_vs_blklst.c	/^static inline void dp_vs_del_blklst_later(struct blklst_entry *blklst)$/;"	f	file:
+dp_vs_del_dest	ipvs/ip_vs_dest.c	/^dp_vs_del_dest(struct dp_vs_service *svc, struct dp_vs_dest_conf *udest)$/;"	f
+dp_vs_del_service	ipvs/ip_vs_service.c	/^int dp_vs_del_service(struct dp_vs_service *svc)$/;"	f
+dp_vs_del_stats	ipvs/ip_vs_stats.c	/^void dp_vs_del_stats(struct dp_vs_stats *p)$/;"	f
+dp_vs_dest_init	ipvs/ip_vs_dest.c	/^int dp_vs_dest_init(void)$/;"	f
+dp_vs_dest_term	ipvs/ip_vs_dest.c	/^int dp_vs_dest_term(void)$/;"	f
+dp_vs_dest_trash	ipvs/ip_vs_dest.c	/^struct list_head dp_vs_dest_trash = LIST_HEAD_INIT(dp_vs_dest_trash);$/;"	v	typeref:struct:list_head
+dp_vs_edit_dest	ipvs/ip_vs_dest.c	/^dp_vs_edit_dest(struct dp_vs_service *svc, struct dp_vs_dest_conf *udest)$/;"	f
+dp_vs_edit_service	ipvs/ip_vs_service.c	/^dp_vs_edit_service(struct dp_vs_service *svc, struct dp_vs_service_conf *u)$/;"	f
+dp_vs_estats_clear	ipvs/ip_vs_stats.c	/^void dp_vs_estats_clear(void)$/;"	f
+dp_vs_estats_get	ipvs/ip_vs_stats.c	/^uint64_t dp_vs_estats_get(enum dp_vs_estats_type field)$/;"	f
+dp_vs_estats_inc	ipvs/ip_vs_stats.c	/^void dp_vs_estats_inc(enum dp_vs_estats_type field)$/;"	f
+dp_vs_fast_outxmit_fnat	ipvs/ip_vs_xmit.c	/^static int dp_vs_fast_outxmit_fnat(struct dp_vs_proto *proto,$/;"	f	file:
+dp_vs_fast_xmit_fnat	ipvs/ip_vs_xmit.c	/^static int dp_vs_fast_xmit_fnat(struct dp_vs_proto *proto,$/;"	f	file:
+dp_vs_fill_iphdr	ipvs/ip_vs_core.c	/^static inline int dp_vs_fill_iphdr(int af, const struct rte_mbuf *mbuf, $/;"	f	file:
+dp_vs_find_dest	ipvs/ip_vs_dest.c	/^struct dp_vs_dest *dp_vs_find_dest(int af, const union inet_addr *daddr,$/;"	f
+dp_vs_flush	ipvs/ip_vs_service.c	/^int dp_vs_flush(void)$/;"	f
+dp_vs_get_conn_timeout	ipvs/ip_vs_service.c	/^unsigned dp_vs_get_conn_timeout(struct dp_vs_conn *conn)$/;"	f
+dp_vs_get_dest_entries	ipvs/ip_vs_dest.c	/^int dp_vs_get_dest_entries(const struct dp_vs_service *svc,$/;"	f
+dp_vs_get_service_entries	ipvs/ip_vs_service.c	/^int dp_vs_get_service_entries(const struct dp_vs_get_services *get, $/;"	f
+dp_vs_get_svc	ipvs/ip_vs_service.c	/^static int dp_vs_get_svc(sockoptid_t opt, const void *user, size_t len, void **out, size_t *outlen)$/;"	f	file:
+dp_vs_in	ipvs/ip_vs_core.c	/^static int dp_vs_in(void *priv, struct rte_mbuf *mbuf, $/;"	f	file:
+dp_vs_in_icmp	ipvs/ip_vs_core.c	/^static int dp_vs_in_icmp(struct rte_mbuf *mbuf, int *related)$/;"	f	file:
+dp_vs_init	ipvs/ip_vs_core.c	/^int dp_vs_init(void)$/;"	f
+dp_vs_laddr	ipvs/ip_vs_laddr.c	/^struct dp_vs_laddr {$/;"	s	file:
+dp_vs_laddr_add	ipvs/ip_vs_laddr.c	/^int dp_vs_laddr_add(struct dp_vs_service *svc, const union inet_addr *addr, $/;"	f
+dp_vs_laddr_bind	ipvs/ip_vs_laddr.c	/^int dp_vs_laddr_bind(struct dp_vs_conn *conn, struct dp_vs_service *svc)$/;"	f
+dp_vs_laddr_del	ipvs/ip_vs_laddr.c	/^int dp_vs_laddr_del(struct dp_vs_service *svc, const union inet_addr *addr)$/;"	f
+dp_vs_laddr_flush	ipvs/ip_vs_laddr.c	/^int dp_vs_laddr_flush(struct dp_vs_service *svc)$/;"	f
+dp_vs_laddr_getall	ipvs/ip_vs_laddr.c	/^static int dp_vs_laddr_getall(struct dp_vs_service *svc, $/;"	f	file:
+dp_vs_laddr_init	ipvs/ip_vs_laddr.c	/^int dp_vs_laddr_init(void)$/;"	f
+dp_vs_laddr_max_trails	ipvs/ip_vs_laddr.c	/^static uint32_t dp_vs_laddr_max_trails = 16;$/;"	v	file:
+dp_vs_laddr_term	ipvs/ip_vs_laddr.c	/^int dp_vs_laddr_term(void)$/;"	f
+dp_vs_laddr_unbind	ipvs/ip_vs_laddr.c	/^int dp_vs_laddr_unbind(struct dp_vs_conn *conn)$/;"	f
+dp_vs_lookup_dest	ipvs/ip_vs_dest.c	/^struct dp_vs_dest *dp_vs_lookup_dest(struct dp_vs_service *svc,$/;"	f
+dp_vs_lookup_vip	ipvs/ip_vs_service.c	/^struct dp_vs_service *dp_vs_lookup_vip(int af, uint16_t protocol,$/;"	f
+dp_vs_match_parse	ipvs/ip_vs_service.c	/^int dp_vs_match_parse(int af, const char *srange, const char *drange,$/;"	f
+dp_vs_new_dest	ipvs/ip_vs_dest.c	/^int dp_vs_new_dest(struct dp_vs_service *svc, struct dp_vs_dest_conf *udest,$/;"	f
+dp_vs_new_stats	ipvs/ip_vs_stats.c	/^int dp_vs_new_stats(struct dp_vs_stats **p)$/;"	f
+dp_vs_num_services	ipvs/ip_vs_service.c	/^static int dp_vs_num_services = 0;$/;"	v	file:
+dp_vs_ops	ipvs/ip_vs_core.c	/^static struct inet_hook_ops dp_vs_ops[] = {$/;"	v	typeref:struct:inet_hook_ops	file:
+dp_vs_out_xmit_fnat	ipvs/ip_vs_xmit.c	/^int dp_vs_out_xmit_fnat(struct dp_vs_proto *proto,$/;"	f
+dp_vs_out_xmit_snat	ipvs/ip_vs_xmit.c	/^int dp_vs_out_xmit_snat(struct dp_vs_proto *proto, struct dp_vs_conn *conn,$/;"	f
+dp_vs_pre_routing	ipvs/ip_vs_core.c	/^static int dp_vs_pre_routing(void *priv, struct rte_mbuf *mbuf,$/;"	f	file:
+dp_vs_proto_icmp	ipvs/ip_vs_proto_icmp.c	/^struct dp_vs_proto dp_vs_proto_icmp = {$/;"	v	typeref:struct:dp_vs_proto
+dp_vs_proto_init	ipvs/ip_vs_proto.c	/^int dp_vs_proto_init(void)$/;"	f
+dp_vs_proto_lookup	ipvs/ip_vs_proto.c	/^struct dp_vs_proto *dp_vs_proto_lookup(uint8_t proto)$/;"	f
+dp_vs_proto_tcp	ipvs/ip_vs_proto_tcp.c	/^struct dp_vs_proto dp_vs_proto_tcp = {$/;"	v	typeref:struct:dp_vs_proto
+dp_vs_proto_term	ipvs/ip_vs_proto.c	/^int dp_vs_proto_term(void)$/;"	f
+dp_vs_proto_udp	ipvs/ip_vs_proto_udp.c	/^struct dp_vs_proto dp_vs_proto_udp = {$/;"	v	typeref:struct:dp_vs_proto
+dp_vs_protocols	ipvs/ip_vs_proto.c	/^static struct dp_vs_proto *dp_vs_protocols[DPVS_MAX_PROTOS];$/;"	v	typeref:struct:dp_vs_proto	file:
+dp_vs_rr_init	ipvs/ip_vs_rr.c	/^int dp_vs_rr_init(void)$/;"	f
+dp_vs_rr_init_svc	ipvs/ip_vs_rr.c	/^static int dp_vs_rr_init_svc(struct dp_vs_service *svc)$/;"	f	file:
+dp_vs_rr_schedule	ipvs/ip_vs_rr.c	/^static struct dp_vs_dest *dp_vs_rr_schedule(struct dp_vs_service *svc,$/;"	f	file:
+dp_vs_rr_scheduler	ipvs/ip_vs_rr.c	/^static struct dp_vs_scheduler dp_vs_rr_scheduler = {$/;"	v	typeref:struct:dp_vs_scheduler	file:
+dp_vs_rr_term	ipvs/ip_vs_rr.c	/^int dp_vs_rr_term(void)$/;"	f
+dp_vs_rr_update_svc	ipvs/ip_vs_rr.c	/^static int dp_vs_rr_update_svc(struct dp_vs_service *svc)$/;"	f	file:
+dp_vs_rs_hash	ipvs/ip_vs_dest.c	/^static int dp_vs_rs_hash(struct dp_vs_dest *dest)$/;"	f	file:
+dp_vs_rs_hashkey	ipvs/ip_vs_dest.c	/^static inline unsigned dp_vs_rs_hashkey(int af,$/;"	f	file:
+dp_vs_rs_unhash	ipvs/ip_vs_dest.c	/^static int dp_vs_rs_unhash(struct dp_vs_dest *dest)$/;"	f	file:
+dp_vs_rtable	ipvs/ip_vs_dest.c	/^static struct list_head dp_vs_rtable[DP_VS_RTAB_SIZE];$/;"	v	typeref:struct:list_head	file:
+dp_vs_save_outxmit_info	ipvs/ip_vs_xmit.c	/^static void dp_vs_save_outxmit_info(struct rte_mbuf *mbuf,$/;"	f	file:
+dp_vs_save_xmit_info	ipvs/ip_vs_xmit.c	/^static void dp_vs_save_xmit_info(struct rte_mbuf *mbuf, $/;"	f	file:
+dp_vs_sched_init	ipvs/ip_vs_sched.c	/^int dp_vs_sched_init(void)$/;"	f
+dp_vs_sched_persist	ipvs/ip_vs_core.c	/^static struct dp_vs_conn *dp_vs_sched_persist(struct dp_vs_service *svc,$/;"	f	file:
+dp_vs_sched_term	ipvs/ip_vs_sched.c	/^int dp_vs_sched_term(void)$/;"	f
+dp_vs_schedule	ipvs/ip_vs_core.c	/^struct dp_vs_conn *dp_vs_schedule(struct dp_vs_service *svc, $/;"	f
+dp_vs_scheduler_get	ipvs/ip_vs_sched.c	/^struct dp_vs_scheduler *dp_vs_scheduler_get(const char *sched_name)$/;"	f
+dp_vs_schedulers	ipvs/ip_vs_sched.c	/^static struct list_head dp_vs_schedulers;$/;"	v	typeref:struct:list_head	file:
+dp_vs_service_init	ipvs/ip_vs_service.c	/^int dp_vs_service_init(void)$/;"	f
+dp_vs_service_lookup	ipvs/ip_vs_service.c	/^struct dp_vs_service *dp_vs_service_lookup(int af, uint16_t protocol,$/;"	f
+dp_vs_service_term	ipvs/ip_vs_service.c	/^int dp_vs_service_term(void)$/;"	f
+dp_vs_set_svc	ipvs/ip_vs_service.c	/^static int dp_vs_set_svc(sockoptid_t opt, const void *user, size_t len)$/;"	f	file:
+dp_vs_stats_clear	ipvs/ip_vs_stats.c	/^void dp_vs_stats_clear(void)$/;"	f
+dp_vs_stats_conn	ipvs/ip_vs_stats.c	/^void dp_vs_stats_conn(struct dp_vs_conn *conn)$/;"	f
+dp_vs_stats_in	ipvs/ip_vs_stats.c	/^int dp_vs_stats_in(struct dp_vs_conn *conn, struct rte_mbuf *mbuf)$/;"	f
+dp_vs_stats_init	ipvs/ip_vs_stats.c	/^int dp_vs_stats_init(void)$/;"	f
+dp_vs_stats_out	ipvs/ip_vs_stats.c	/^int dp_vs_stats_out(struct dp_vs_conn *conn, struct rte_mbuf *mbuf)$/;"	f
+dp_vs_stats_term	ipvs/ip_vs_stats.c	/^int dp_vs_stats_term(void)$/;"	f
+dp_vs_svc_fwm_hashkey	ipvs/ip_vs_service.c	/^static inline unsigned dp_vs_svc_fwm_hashkey(uint32_t fwmark)$/;"	f	file:
+dp_vs_svc_fwm_table	ipvs/ip_vs_service.c	/^static struct list_head dp_vs_svc_fwm_table[DP_VS_SVC_TAB_SIZE];$/;"	v	typeref:struct:list_head	file:
+dp_vs_svc_hash	ipvs/ip_vs_service.c	/^static int dp_vs_svc_hash(struct dp_vs_service *svc)$/;"	f	file:
+dp_vs_svc_hashkey	ipvs/ip_vs_service.c	/^static inline unsigned dp_vs_svc_hashkey(int af, unsigned proto, const union inet_addr *addr)$/;"	f	file:
+dp_vs_svc_match_list	ipvs/ip_vs_service.c	/^static struct list_head dp_vs_svc_match_list;$/;"	v	typeref:struct:list_head	file:
+dp_vs_svc_table	ipvs/ip_vs_service.c	/^static struct list_head dp_vs_svc_table[DP_VS_SVC_TAB_SIZE];$/;"	v	typeref:struct:list_head	file:
+dp_vs_svc_unhash	ipvs/ip_vs_service.c	/^static int dp_vs_svc_unhash(struct dp_vs_service *svc)$/;"	f	file:
+dp_vs_synproxy_ack_mbufpool	ipvs/ip_vs_synproxy.c	/^struct rte_mempool *dp_vs_synproxy_ack_mbufpool[DPVS_MAX_SOCKET];$/;"	v	typeref:struct:rte_mempool
+dp_vs_synproxy_ack_rcv	ipvs/ip_vs_synproxy.c	/^int dp_vs_synproxy_ack_rcv(int af, struct rte_mbuf *mbuf,$/;"	f
+dp_vs_synproxy_ctrl_conn_reuse	ipvs/ip_vs_synproxy.c	/^int dp_vs_synproxy_ctrl_conn_reuse = DP_VS_SYNPROXY_CONN_REUSE_DEFAULT;$/;"	v
+dp_vs_synproxy_ctrl_conn_reuse_cl	ipvs/ip_vs_synproxy.c	/^int dp_vs_synproxy_ctrl_conn_reuse_cl = DP_VS_SYNPROXY_CONN_REUSE_CL_DEFAULT;$/;"	v
+dp_vs_synproxy_ctrl_conn_reuse_cw	ipvs/ip_vs_synproxy.c	/^int dp_vs_synproxy_ctrl_conn_reuse_cw = DP_VS_SYNPROXY_CONN_REUSE_CW_DEFAULT;$/;"	v
+dp_vs_synproxy_ctrl_conn_reuse_fw	ipvs/ip_vs_synproxy.c	/^int dp_vs_synproxy_ctrl_conn_reuse_fw = DP_VS_SYNPROXY_CONN_REUSE_FW_DEFAULT;$/;"	v
+dp_vs_synproxy_ctrl_conn_reuse_la	ipvs/ip_vs_synproxy.c	/^int dp_vs_synproxy_ctrl_conn_reuse_la = DP_VS_SYNPROXY_CONN_REUSE_LA_DEFAULT;$/;"	v
+dp_vs_synproxy_ctrl_conn_reuse_tw	ipvs/ip_vs_synproxy.c	/^int dp_vs_synproxy_ctrl_conn_reuse_tw = DP_VS_SYNPROXY_CONN_REUSE_TW_DEFAULT;$/;"	v
+dp_vs_synproxy_ctrl_defer	ipvs/ip_vs_synproxy.c	/^int dp_vs_synproxy_ctrl_defer = DP_VS_SYNPROXY_DEFER_DEFAULT;$/;"	v
+dp_vs_synproxy_ctrl_dup_ack_thresh	ipvs/ip_vs_synproxy.c	/^int dp_vs_synproxy_ctrl_dup_ack_thresh = DP_VS_SYNPROXY_DUP_ACK_DEFAULT;$/;"	v
+dp_vs_synproxy_ctrl_init_mss	ipvs/ip_vs_synproxy.c	/^int dp_vs_synproxy_ctrl_init_mss = DP_VS_SYNPROXY_INIT_MSS_DEFAULT;$/;"	v
+dp_vs_synproxy_ctrl_max_ack_saved	ipvs/ip_vs_synproxy.c	/^int dp_vs_synproxy_ctrl_max_ack_saved = DP_VS_SYNPROXY_MAX_ACK_SAVED_DEFAULT;$/;"	v
+dp_vs_synproxy_ctrl_sack	ipvs/ip_vs_synproxy.c	/^int dp_vs_synproxy_ctrl_sack = DP_VS_SYNPROXY_SACK_DEFAULT;$/;"	v
+dp_vs_synproxy_ctrl_syn_retry	ipvs/ip_vs_synproxy.c	/^int dp_vs_synproxy_ctrl_syn_retry = DP_VS_SYNPROXY_SYN_RETRY_DEFAULT;$/;"	v
+dp_vs_synproxy_ctrl_synack_ttl	ipvs/ip_vs_synproxy.c	/^int dp_vs_synproxy_ctrl_synack_ttl = DP_VS_SYNPROXY_TTL_DEFAULT;$/;"	v
+dp_vs_synproxy_ctrl_timestamp	ipvs/ip_vs_synproxy.c	/^int dp_vs_synproxy_ctrl_timestamp = DP_VS_SYNPROXY_TIMESTAMP_DEFAULT;$/;"	v
+dp_vs_synproxy_ctrl_wscale	ipvs/ip_vs_synproxy.c	/^int dp_vs_synproxy_ctrl_wscale = DP_VS_SYNPROXY_WSCALE_DEFAULT;$/;"	v
+dp_vs_synproxy_dnat_handler	ipvs/ip_vs_synproxy.c	/^void dp_vs_synproxy_dnat_handler(struct tcphdr *tcph, struct dp_vs_seq *sp_seq)$/;"	f
+dp_vs_synproxy_filter_ack	ipvs/ip_vs_synproxy.c	/^int dp_vs_synproxy_filter_ack(struct rte_mbuf *mbuf, struct dp_vs_conn *cp,$/;"	f
+dp_vs_synproxy_init	ipvs/ip_vs_synproxy.c	/^int dp_vs_synproxy_init(void)$/;"	f
+dp_vs_synproxy_reuse_conn	ipvs/ip_vs_synproxy.c	/^int dp_vs_synproxy_reuse_conn(int af, struct rte_mbuf *mbuf,$/;"	f
+dp_vs_synproxy_snat_handler	ipvs/ip_vs_synproxy.c	/^int dp_vs_synproxy_snat_handler(struct tcphdr *tcph, struct dp_vs_conn *cp)$/;"	f
+dp_vs_synproxy_syn_rcv	ipvs/ip_vs_synproxy.c	/^int dp_vs_synproxy_syn_rcv(int af, struct rte_mbuf *mbuf,$/;"	f
+dp_vs_synproxy_synack_rcv	ipvs/ip_vs_synproxy.c	/^int dp_vs_synproxy_synack_rcv(struct rte_mbuf *mbuf, struct dp_vs_conn *cp,$/;"	f
+dp_vs_synproxy_term	ipvs/ip_vs_synproxy.c	/^int dp_vs_synproxy_term(void)$/;"	f
+dp_vs_term	ipvs/ip_vs_core.c	/^int dp_vs_term(void)$/;"	f
+dp_vs_trash_cleanup	ipvs/ip_vs_dest.c	/^void dp_vs_trash_cleanup(void)$/;"	f
+dp_vs_trash_get_dest	ipvs/ip_vs_dest.c	/^struct dp_vs_dest *dp_vs_trash_get_dest(struct dp_vs_service *svc,$/;"	f
+dp_vs_unbind_scheduler	ipvs/ip_vs_sched.c	/^int dp_vs_unbind_scheduler(struct dp_vs_service *svc)$/;"	f
+dp_vs_wlc_dest_overhead	ipvs/ip_vs_wlc.c	/^static inline unsigned int dp_vs_wlc_dest_overhead(struct dp_vs_dest *dest)$/;"	f	file:
+dp_vs_wlc_init	ipvs/ip_vs_wlc.c	/^int dp_vs_wlc_init(void)$/;"	f
+dp_vs_wlc_schedule	ipvs/ip_vs_wlc.c	/^static struct dp_vs_dest *dp_vs_wlc_schedule(struct dp_vs_service *svc,$/;"	f	file:
+dp_vs_wlc_scheduler	ipvs/ip_vs_wlc.c	/^static struct dp_vs_scheduler dp_vs_wlc_scheduler = {$/;"	v	typeref:struct:dp_vs_scheduler	file:
+dp_vs_wlc_term	ipvs/ip_vs_wlc.c	/^int dp_vs_wlc_term(void)$/;"	f
+dp_vs_wrr_done_svc	ipvs/ip_vs_wrr.c	/^static int dp_vs_wrr_done_svc(struct dp_vs_service *svc)$/;"	f	file:
+dp_vs_wrr_gcd_weight	ipvs/ip_vs_wrr.c	/^static int dp_vs_wrr_gcd_weight(struct dp_vs_service *svc)$/;"	f	file:
+dp_vs_wrr_init	ipvs/ip_vs_wrr.c	/^int  dp_vs_wrr_init(void)$/;"	f
+dp_vs_wrr_init_svc	ipvs/ip_vs_wrr.c	/^static int dp_vs_wrr_init_svc(struct dp_vs_service *svc)$/;"	f	file:
+dp_vs_wrr_mark	ipvs/ip_vs_wrr.c	/^struct dp_vs_wrr_mark {$/;"	s	file:
+dp_vs_wrr_max_weight	ipvs/ip_vs_wrr.c	/^static int dp_vs_wrr_max_weight(struct dp_vs_service *svc)$/;"	f	file:
+dp_vs_wrr_schedule	ipvs/ip_vs_wrr.c	/^static struct dp_vs_dest *dp_vs_wrr_schedule(struct dp_vs_service *svc,$/;"	f	file:
+dp_vs_wrr_scheduler	ipvs/ip_vs_wrr.c	/^static struct dp_vs_scheduler dp_vs_wrr_scheduler = {$/;"	v	typeref:struct:dp_vs_scheduler	file:
+dp_vs_wrr_term	ipvs/ip_vs_wrr.c	/^int  dp_vs_wrr_term(void)$/;"	f
+dp_vs_wrr_update_svc	ipvs/ip_vs_wrr.c	/^static int dp_vs_wrr_update_svc(struct dp_vs_service *svc)$/;"	f	file:
+dp_vs_xmit_dr	ipvs/ip_vs_xmit.c	/^int dp_vs_xmit_dr(struct dp_vs_proto *proto,$/;"	f
+dp_vs_xmit_fnat	ipvs/ip_vs_xmit.c	/^int dp_vs_xmit_fnat(struct dp_vs_proto *proto,$/;"	f
+dp_vs_xmit_icmp	ipvs/ip_vs_xmit.c	/^void dp_vs_xmit_icmp(struct rte_mbuf *mbuf, struct dp_vs_proto *prot,$/;"	f
+dp_vs_xmit_snat	ipvs/ip_vs_xmit.c	/^int dp_vs_xmit_snat(struct dp_vs_proto *proto, struct dp_vs_conn *conn,$/;"	f
+dp_vs_zero_all	ipvs/ip_vs_service.c	/^int dp_vs_zero_all(void)$/;"	f
+dp_vs_zero_service	ipvs/ip_vs_service.c	/^int dp_vs_zero_service(struct dp_vs_service *svc)$/;"	f
+dp_vs_zero_stats	ipvs/ip_vs_stats.c	/^void dp_vs_zero_stats(struct dp_vs_stats* stats)$/;"	f
+dpdk_netif_ops	netif.c	/^static struct netif_ops dpdk_netif_ops = {$/;"	v	typeref:struct:netif_ops	file:
+dpdk_set_fdir_filt	netif.c	/^static int dpdk_set_fdir_filt(struct netif_port *dev, enum rte_filter_op op,$/;"	f	file:
+dpdk_set_mc_list	netif.c	/^static int dpdk_set_mc_list(struct netif_port *dev)$/;"	f	file:
+dpvs_err_tab	common.c	/^struct dpvs_err_tab {$/;"	s	file:
+dpvs_estats	ipvs/ip_vs_stats.c	/^static struct dp_vs_estats dpvs_estats[NETIF_MAX_LCORES];$/;"	v	typeref:struct:dp_vs_estats	file:
+dpvs_running	pidfile.c	/^bool dpvs_running(const char *pid_file)$/;"	f
+dpvs_state_get	common.c	/^dpvs_state_t dpvs_state_get(void)$/;"	f
+dpvs_state_set	common.c	/^void dpvs_state_set(dpvs_state_t stat)$/;"	f
+dpvs_stats	ipvs/ip_vs_stats.c	/^static struct dp_vs_stats dpvs_stats[NETIF_MAX_LCORES];$/;"	v	typeref:struct:dp_vs_stats	file:
+dpvs_strerror	common.c	/^const char *dpvs_strerror(int err)$/;"	f
+dpvs_time_now	timer.c	/^int dpvs_time_now(struct timeval *now, bool global)$/;"	f
+dpvs_time_rand_delay	timer.c	/^void dpvs_time_rand_delay(struct timeval *tv, long delay_us)$/;"	f
+dpvs_timer_cancel	timer.c	/^int dpvs_timer_cancel(struct dpvs_timer *timer, bool global)$/;"	f
+dpvs_timer_init	timer.c	/^int dpvs_timer_init(void)$/;"	f
+dpvs_timer_reset	timer.c	/^int dpvs_timer_reset(struct dpvs_timer *timer, bool global)$/;"	f
+dpvs_timer_sched	timer.c	/^int dpvs_timer_sched(struct dpvs_timer *timer, struct timeval *delay, $/;"	f
+dpvs_timer_sched_abs	timer.c	/^int dpvs_timer_sched_abs(struct dpvs_timer *timer, struct timeval *expire, $/;"	f
+dpvs_timer_sched_interval_get	timer.c	/^int dpvs_timer_sched_interval_get(void)$/;"	f
+dpvs_timer_sched_period	timer.c	/^int dpvs_timer_sched_period(struct dpvs_timer *timer, struct timeval *intv, $/;"	f
+dpvs_timer_term	timer.c	/^int dpvs_timer_term(void)$/;"	f
+dpvs_timer_update	timer.c	/^int dpvs_timer_update(struct dpvs_timer *timer, struct timeval *delay, bool global)$/;"	f
+dump_arp_hdr	neigh.c	/^static inline void dump_arp_hdr(const char *msg, const struct arp_hdr *ah, portid_t port)$/;"	f	file:
+dump_arp_hdr	neigh.c	/^static void dump_arp_hdr(const char *msg, const struct arp_hdr *ah, portid_t port)$/;"	f	file:
+dump_keywords	parser.c	/^void dump_keywords(vector_t keywords, int level)$/;"	f
+errcode	common.c	/^    int errcode;$/;"	m	struct:dpvs_err_tab	file:
+errmsg	common.c	/^    const char *errmsg;$/;"	m	struct:dpvs_err_tab	file:
+eth_addr	neigh.c	/^    struct ether_addr eth_addr;$/;"	m	struct:neighbour_entry	typeref:struct:neighbour_entry::ether_addr	file:
+eth_addr	neigh.c	/^    struct ether_addr eth_addr;$/;"	m	struct:raw_neigh	typeref:struct:raw_neigh::ether_addr	file:
+eth_addr_itoa	neigh.c	/^static inline char *eth_addr_itoa(const struct ether_addr *src, char *dst, size_t size)$/;"	f	file:
+eth_type_parse	netif.c	/^static inline eth_type_t eth_type_parse(const struct ether_hdr *eth_hdr,$/;"	f	file:
+fast_xmit_close	ipvs/ip_vs_xmit.c	/^static bool fast_xmit_close = false;$/;"	v	file:
+fifo_create_dflt	tc/sch_fifo.c	/^struct Qsch *fifo_create_dflt(struct Qsch *sch, struct Qsch_ops *ops,$/;"	f
+fifo_dump	tc/sch_fifo.c	/^static int fifo_dump(struct Qsch *sch, void *arg)$/;"	f	file:
+fifo_init	tc/sch_fifo.c	/^static int fifo_init(struct Qsch *sch, const void *arg)$/;"	f	file:
+fifo_set_limit	tc/sch_fifo.c	/^int fifo_set_limit(struct Qsch *sch, unsigned int limit)$/;"	f
+fill_cls_param	tc/tc_ctrl.c	/^static int fill_cls_param(struct tc_cls *cls, struct tc_cls_param *pr)$/;"	f	file:
+fill_port_config	netif.c	/^static void fill_port_config(struct netif_port *port, char *promisc_on)$/;"	f	file:
+fill_qsch_param	tc/tc_ctrl.c	/^static int fill_qsch_param(struct Qsch *sch, struct tc_qsch_param *pr)$/;"	f	file:
+filter_id	sa_pool.c	/^    uint32_t                filter_id[MAX_FDIR_PROTO];$/;"	m	struct:sa_pool	file:
+find_conf_kni_name	netif.c	/^static char *find_conf_kni_name(portid_t id)$/;"	f	file:
+flag	neigh.c	/^    uint8_t flag;$/;"	m	struct:neighbour_entry	file:
+flag	neigh.c	/^    uint8_t flag;$/;"	m	struct:raw_neigh	file:
+flags	sa_pool.c	/^    uint32_t                flags;      \/* SA_F_XXX *\/$/;"	m	struct:sa_entry	file:
+frag_bucket_entries_handler	ipv4_frag.c	/^static void frag_bucket_entries_handler(vector_t tokens)$/;"	f	file:
+frag_bucket_number_handler	ipv4_frag.c	/^static void frag_bucket_number_handler(vector_t tokens)$/;"	f	file:
+frag_job	ipv4_frag.c	/^static struct netif_lcore_loop_job frag_job;$/;"	v	typeref:struct:netif_lcore_loop_job	file:
+frag_max_entries_handler	ipv4_frag.c	/^static void frag_max_entries_handler(vector_t tokens)$/;"	f	file:
+frag_ttl_handler	ipv4_frag.c	/^static void frag_ttl_handler(vector_t tokens)$/;"	f	file:
+free_cnt	ctrl.c	/^    int32_t free_cnt;$/;"	m	struct:multicast_wait_list	file:
+free_cnt	sa_pool.c	/^    rte_atomic16_t          free_cnt;$/;"	m	struct:sa_entry_pool	file:
+free_enties	sa_pool.c	/^    struct list_head        free_enties;$/;"	m	struct:sa_entry_pool	typeref:struct:sa_entry_pool::list_head	file:
+free_keywords	parser.c	/^void free_keywords(vector_t keywords)$/;"	f
+free_mbufs	netif.c	/^static inline void free_mbufs(struct rte_mbuf **pkts, unsigned num)$/;"	f	file:
+g_cid	neigh.c	/^static lcoreid_t g_cid = 0;$/;"	v	file:
+g_current_conf_file	parser.c	/^static char *g_current_conf_file;$/;"	v	file:
+g_current_keywords	parser.c	/^static vector_t g_current_keywords;$/;"	v	file:
+g_current_stream	parser.c	/^FILE *g_current_stream;$/;"	v
+g_defence_tcp_drop	ipvs/ip_vs_proto_tcp.c	/^static int g_defence_tcp_drop = 0;$/;"	v	file:
+g_defence_udp_drop	ipvs/ip_vs_proto_udp.c	/^int g_defence_udp_drop = 0;$/;"	v
+g_dpvs_tate	common.c	/^static dpvs_state_t g_dpvs_tate = DPVS_STATE_STOP;$/;"	v	file:
+g_isol_rx_lcore_mask	netif.c	/^static uint64_t g_isol_rx_lcore_mask;$/;"	v	file:
+g_isol_rx_lcore_num	netif.c	/^static uint8_t g_isol_rx_lcore_num;$/;"	v	file:
+g_keyword_level	parser.c	/^static int g_keyword_level = 0;$/;"	v	file:
+g_keywords	parser.c	/^vector_t g_keywords;$/;"	v
+g_log_stream	global_conf.c	/^static FILE *g_log_stream;$/;"	v	file:
+g_master_lcore_id	netif.c	/^lcoreid_t g_master_lcore_id;$/;"	v
+g_minute_count	ipvs/ip_vs_synproxy.c	/^static rte_atomic32_t g_minute_count;$/;"	v	file:
+g_minute_timer	ipvs/ip_vs_synproxy.c	/^static struct dpvs_timer g_minute_timer;$/;"	v	typeref:struct:dpvs_timer	file:
+g_net_secret	ipvs/ip_vs_synproxy.c	/^static uint32_t g_net_secret[2];$/;"	v	file:
+g_nports	netif.c	/^static uint8_t g_nports;$/;"	v	file:
+g_reload	parser.c	/^bool g_reload = false;$/;"	v
+g_sched_interval	timer.c	/^static rte_atomic32_t g_sched_interval;$/;"	v	file:
+g_second_timer	ipvs/ip_vs_synproxy.c	/^static struct dpvs_timer g_second_timer;$/;"	v	typeref:struct:dpvs_timer	file:
+g_slave_lcore_mask	ipvs/ip_vs_conn.c	/^static uint64_t g_slave_lcore_mask;$/;"	v	file:
+g_slave_lcore_mask	netif.c	/^static uint64_t g_slave_lcore_mask;$/;"	v	file:
+g_slave_lcore_nb	ipvs/ip_vs_conn.c	/^static uint8_t g_slave_lcore_nb;$/;"	v	file:
+g_slave_lcore_num	netif.c	/^static uint8_t g_slave_lcore_num;$/;"	v	file:
+g_sublevel	parser.c	/^static int g_sublevel = 0;$/;"	v	file:
+g_timer_sched	timer.c	/^static struct timer_scheduler g_timer_sched;$/;"	v	typeref:struct:timer_scheduler	file:
+gcd	ipvs/ip_vs_wrr.c	/^static int gcd(int a, int b)$/;"	f	file:
+get_bond_status	netif.c	/^static int get_bond_status(portid_t pid, void **out, size_t *out_len)$/;"	f	file:
+get_configured_port_nb	netif.c	/^static uint8_t get_configured_port_nb(int lcores, const struct netif_lcore_conf *lcore_conf)$/;"	f	file:
+get_conn_state_name	ipvs/ip_vs_conn.c	/^static inline char* get_conn_state_name(uint16_t proto, uint16_t state)$/;"	f	file:
+get_lcore_basic	netif.c	/^static int get_lcore_basic(lcoreid_t cid, void **out, size_t *out_len)$/;"	f	file:
+get_lcore_mask	netif.c	/^static int get_lcore_mask(void **out, size_t *out_len)$/;"	f	file:
+get_lcore_stats	netif.c	/^static int get_lcore_stats(lcoreid_t cid, void **out, size_t *out_len)$/;"	f	file:
+get_level_ticks	timer.c	/^static inline dpvs_tick_t get_level_ticks(int level)$/;"	f	file:
+get_master_xmit_lcore	netif.c	/^static inline lcoreid_t get_master_xmit_lcore(void)$/;"	f	file:
+get_mbuf_pool	ipvs/ip_vs_proto_tcp.c	/^struct rte_mempool *get_mbuf_pool(const struct dp_vs_conn *conn, int dir)$/;"	f
+get_port_basic	netif.c	/^static int get_port_basic(portid_t pid, void **out, size_t *out_len)$/;"	f	file:
+get_port_cf_queues	netif.c	/^static int get_port_cf_queues(portid_t pid, void **out, size_t *out_len)$/;"	f	file:
+get_port_conf_stream	netif.c	/^static inline struct port_conf_stream *get_port_conf_stream(const char *name)$/;"	f	file:
+get_port_dev_info	netif.c	/^static int get_port_dev_info(portid_t pid, void **out, size_t *out_len)$/;"	f	file:
+get_port_mbufpool	netif.c	/^static int get_port_mbufpool(portid_t pid, void **out, size_t *out_len)$/;"	f	file:
+get_port_mc_list	netif.c	/^static int get_port_mc_list(portid_t pid, void **out, size_t *out_len)$/;"	f	file:
+get_port_num	netif.c	/^static int get_port_num(void **out, size_t *out_len)$/;"	f	file:
+get_port_stats	netif.c	/^static int get_port_stats(portid_t pid, void **out, size_t *out_len)$/;"	f	file:
+get_stats_uc_cb	ipvs/ip_vs_stats.c	/^static int get_stats_uc_cb(struct dpvs_msg *msg)$/;"	f	file:
+global_conf_init	global_conf.c	/^int global_conf_init(void)$/;"	f
+global_conf_term	global_conf.c	/^int global_conf_term(void)$/;"	f
+gratuitous_arp_send_vip	ipvs/ip_vs_service.c	/^static int gratuitous_arp_send_vip(struct in_addr *vip)$/;"	f	file:
+handler	icmp.c	/^    int (*handler)(struct rte_mbuf *mbuf);$/;"	m	struct:icmp_ctrl	file:
+hashs	timer.c	/^    struct list_head    *hashs[LEVEL_DEPTH];$/;"	m	struct:timer_scheduler	typeref:struct:timer_scheduler::list_head	file:
+head	ipvs/ip_vs_conn.c	/^    int head;$/;"	m	struct:ip_vs_conn_array_list	file:
+high	sa_pool.c	/^    uint16_t                high;       \/* max port *\/$/;"	m	struct:sa_pool	file:
+icmp4_id	ipvs/ip_vs_core.c	36;"	d	file:
+icmp_conn_lookup	ipvs/ip_vs_proto_icmp.c	/^static struct dp_vs_conn *icmp_conn_lookup(struct dp_vs_proto *proto,$/;"	f	file:
+icmp_conn_sched	ipvs/ip_vs_proto_icmp.c	/^static int icmp_conn_sched(struct dp_vs_proto *proto,$/;"	f	file:
+icmp_ctrl	icmp.c	/^struct icmp_ctrl {$/;"	s	file:
+icmp_ctrls	icmp.c	/^static struct icmp_ctrl icmp_ctrls[MAX_ICMP_CTRL] = {$/;"	v	typeref:struct:icmp_ctrl	file:
+icmp_dump_hdr	icmp.c	/^static void icmp_dump_hdr(const struct rte_mbuf *mbuf)$/;"	f	file:
+icmp_echo	icmp.c	/^static int icmp_echo(struct rte_mbuf *mbuf)$/;"	f	file:
+icmp_init	icmp.c	/^int icmp_init(void)$/;"	f
+icmp_invert_type	ipvs/ip_vs_proto_icmp.c	/^static bool icmp_invert_type(uint8_t *type, uint8_t orig)$/;"	f	file:
+icmp_protocol	icmp.c	/^static struct inet_protocol icmp_protocol = {$/;"	v	typeref:struct:inet_protocol	file:
+icmp_rcv	icmp.c	/^static int icmp_rcv(struct rte_mbuf *mbuf)$/;"	f	file:
+icmp_send	icmp.c	/^void icmp_send(struct rte_mbuf *imbuf, int type, int code, uint32_t info)$/;"	f
+icmp_state_trans	ipvs/ip_vs_proto_icmp.c	/^static int icmp_state_trans(struct dp_vs_proto *proto, struct dp_vs_conn *conn,$/;"	f	file:
+icmp_term	icmp.c	/^int icmp_term(void)$/;"	f
+icmp_timeouts	ipvs/ip_vs_proto_icmp.c	/^static int icmp_timeouts[DPVS_ICMP_S_LAST + 1] = {$/;"	v	file:
+idev_put	inetaddr.c	/^static void idev_put(struct inet_device *idev)$/;"	f	file:
+ifa	sa_pool.c	/^    struct inet_ifaddr      *ifa;       \/* back-pointer *\/$/;"	m	struct:sa_pool	typeref:struct:sa_pool::inet_ifaddr	file:
+ifa_add_route	inetaddr.c	/^static int ifa_add_route(struct inet_ifaddr *ifa)$/;"	f	file:
+ifa_add_set	inetaddr.c	/^static int ifa_add_set(int af, const struct netif_port *dev, $/;"	f	file:
+ifa_del_route	inetaddr.c	/^static int ifa_del_route(struct inet_ifaddr *ifa)$/;"	f	file:
+ifa_expire	inetaddr.c	/^static void ifa_expire(void *arg)$/;"	f	file:
+ifa_fill_param	inetaddr.c	/^static void ifa_fill_param(int af, struct inet_addr_param *param,$/;"	f	file:
+ifa_prefix_check	inetaddr.c	/^static inline bool ifa_prefix_check(int af, const union inet_addr *addr, $/;"	f	file:
+ifa_set_lifetime	inetaddr.c	/^static void ifa_set_lifetime(struct inet_ifaddr *ifa, $/;"	f	file:
+ifa_sockopt_get	inetaddr.c	/^static int ifa_sockopt_get(sockoptid_t opt, const void *conf, size_t size, $/;"	f	file:
+ifa_sockopt_set	inetaddr.c	/^static int ifa_sockopt_set(sockoptid_t opt, const void *conf, size_t size)$/;"	f	file:
+ifa_sockopts	inetaddr.c	/^static struct dpvs_sockopts ifa_sockopts = {$/;"	v	typeref:struct:dpvs_sockopts	file:
+iface	ipvs/ip_vs_laddr.c	/^    struct netif_port       *iface;$/;"	m	struct:dp_vs_laddr	typeref:struct:dp_vs_laddr::netif_port	file:
+in_addr_cnt	inetaddr.c	/^static rte_atomic32_t       in_addr_cnt;$/;"	v	file:
+in_addr_hash	inetaddr.c	/^static uint32_t inline in_addr_hash(struct in_addr *in)$/;"	f	file:
+in_addr_lock	inetaddr.c	/^static rte_rwlock_t         in_addr_lock;$/;"	v	file:
+in_addr_tab	inetaddr.c	/^static struct list_head     in_addr_tab[INET_ADDR_HSIZE];$/;"	v	typeref:struct:list_head	file:
+inet_addr_add	inetaddr.c	/^int inet_addr_add(int af, const struct netif_port *dev, $/;"	f
+inet_addr_del	inetaddr.c	/^int inet_addr_del(int af, struct netif_port *dev,$/;"	f
+inet_addr_equal	inet.c	/^bool inet_addr_equal(int af, const union inet_addr *a1, $/;"	f
+inet_addr_flush	inetaddr.c	/^int inet_addr_flush(int af, struct netif_port *dev)$/;"	f
+inet_addr_get_iface	inetaddr.c	/^struct netif_port *inet_addr_get_iface(int af, union inet_addr *addr)$/;"	f
+inet_addr_ifa_get	inetaddr.c	/^struct inet_ifaddr *inet_addr_ifa_get(int af, const struct netif_port *dev,$/;"	f
+inet_addr_init	inetaddr.c	/^int inet_addr_init(void)$/;"	f
+inet_addr_mod	inetaddr.c	/^int inet_addr_mod(int af, const struct netif_port *dev, $/;"	f
+inet_addr_net	inet.c	/^int inet_addr_net(int af, const union inet_addr *addr, $/;"	f
+inet_addr_same_net	inet.c	/^bool inet_addr_same_net(int af, uint8_t plen,$/;"	f
+inet_addr_select	inetaddr.c	/^void inet_addr_select(int af, const struct netif_port *dev, $/;"	f
+inet_addr_term	inetaddr.c	/^int inet_addr_term(void)$/;"	f
+inet_def_ttl	ipv4.c	/^static uint32_t inet_def_ttl = INET_DEF_TTL;$/;"	v	file:
+inet_hook_lock	ipv4.c	/^static rte_rwlock_t inet_hook_lock;$/;"	v	file:
+inet_hooks	ipv4.c	/^static struct list_head inet_hooks[INET_HOOK_NUMHOOKS];$/;"	v	typeref:struct:list_head	file:
+inet_init	inet.c	/^int inet_init(void)$/;"	f
+inet_is_addr_any	inet.c	/^bool inet_is_addr_any(int af, const union inet_addr *addr)$/;"	f
+inet_plen_to_mask	inet.c	/^int inet_plen_to_mask(int af, uint8_t plen, union inet_addr *mask)$/;"	f
+inet_prot_lock	ipv4.c	/^static rte_spinlock_t inet_prot_lock; \/* to see if rwlock is better *\/$/;"	v	file:
+inet_prots	ipv4.c	/^static const struct inet_protocol *inet_prots[INET_MAX_PROTS];$/;"	v	typeref:struct:inet_protocol	file:
+inet_term	inet.c	/^int inet_term(void)$/;"	f
+init_data	parser.c	/^void init_data(char *conf_file, vector_t (*init_keywords)(void))$/;"	f
+install_control_keywords	ctrl.c	/^void install_control_keywords(void)$/;"	f
+install_global_keywords	global_conf.c	/^void install_global_keywords(void)$/;"	f
+install_ip4_frag_keywords	ipv4_frag.c	/^void install_ip4_frag_keywords(void)$/;"	f
+install_ipv4_keywords	ipv4.c	/^void install_ipv4_keywords(void)$/;"	f
+install_ipvs_conn_keywords	ipvs/ip_vs_conn.c	/^void install_ipvs_conn_keywords(void)$/;"	f
+install_keyword	parser.c	/^void install_keyword(char *str, keyword_callback_t handler, keyword_type_t type)$/;"	f
+install_keyword_root	parser.c	/^void install_keyword_root(char *str, keyword_callback_t handler)$/;"	f
+install_keywords	cfgfile.c	/^static vector_t install_keywords(void)$/;"	f	file:
+install_neighbor_keywords	neigh.c	/^void install_neighbor_keywords(void)$/;"	f
+install_netif_keywords	netif.c	/^void install_netif_keywords(void)$/;"	f
+install_proto_tcp_keywords	ipvs/ip_vs_proto_tcp.c	/^void install_proto_tcp_keywords(void)$/;"	f
+install_proto_udp_keywords	ipvs/ip_vs_proto_udp.c	/^void install_proto_udp_keywords(void)$/;"	f
+install_sa_pool_keywords	sa_pool.c	/^void install_sa_pool_keywords(void)$/;"	f
+install_sublevel	parser.c	/^void install_sublevel(void)$/;"	f
+install_sublevel_end	parser.c	/^void install_sublevel_end(void)$/;"	f
+install_synproxy_keywords	ipvs/ip_vs_synproxy.c	/^void install_synproxy_keywords(void)$/;"	f
+install_timer_keywords	timer.c	/^void install_timer_keywords(void)$/;"	f
+install_xmit_keywords	ipvs/ip_vs_xmit.c	/^void install_xmit_keywords(void)$/;"	f
+invmap	ipvs/ip_vs_proto_icmp.c	/^static const uint8_t invmap[] = {$/;"	v	file:
+ip4_defrag	ipv4.c	/^int ip4_defrag(struct rte_mbuf *mbuf, int user)$/;"	f
+ip4_dump_hdr	ipv4.c	/^static void ip4_dump_hdr(const struct ipv4_hdr *iph, portid_t port)$/;"	f	file:
+ip4_frag_bucket_entries	ipv4_frag.c	/^static uint32_t ip4_frag_bucket_entries = IP4_FRAG_BUCKET_ENTRIES_DEF;$/;"	v	file:
+ip4_frag_buckets	ipv4_frag.c	/^static uint32_t ip4_frag_buckets = IP4_FRAG_BUCKETS_DEF;$/;"	v	file:
+ip4_frag_keyword_value_init	ipv4_frag.c	/^void ip4_frag_keyword_value_init(void)$/;"	f
+ip4_frag_max_entries	ipv4_frag.c	/^static uint32_t ip4_frag_max_entries = IP4_FRAG_BUCKETS_DEF;$/;"	v	file:
+ip4_frag_ttl	ipv4_frag.c	/^static uint32_t ip4_frag_ttl = IP4_FRAG_TTL_DEF; \/* seconds *\/$/;"	v	file:
+ip4_frags	ipv4_frag.c	/^static struct ipv4_frag ip4_frags[RTE_MAX_LCORE];$/;"	v	typeref:struct:ipv4_frag	file:
+ip4_id_hashrnd	ipv4.c	/^static uint32_t ip4_id_hashrnd;$/;"	v	file:
+ip4_idents	ipv4.c	/^static rte_atomic32_t *ip4_idents;$/;"	v	file:
+ip4_pkt_type	ipv4.c	/^static struct pkt_type ip4_pkt_type = {$/;"	v	typeref:struct:pkt_type	file:
+ip4_rcv_options	ipv4.c	/^static int ip4_rcv_options(struct rte_mbuf *mbuf)$/;"	f	file:
+ip4_select_id	ipv4.c	/^static inline uint32_t ip4_select_id(struct ipv4_hdr *iph)$/;"	f	file:
+ip4_statistics	ipv4.c	/^struct ip4_stats ip4_statistics;$/;"	v	typeref:struct:ip4_stats
+ip4_stats_lock	ipv4.c	/^rte_spinlock_t ip4_stats_lock;$/;"	v
+ip_addr	neigh.c	/^    struct in_addr ip_addr;$/;"	m	struct:neighbour_entry	typeref:struct:neighbour_entry::in_addr	file:
+ip_addr	neigh.c	/^    struct in_addr ip_addr;$/;"	m	struct:raw_neigh	typeref:struct:raw_neigh::in_addr	file:
+ip_vs_conn_array_list	ipvs/ip_vs_conn.c	/^struct ip_vs_conn_array_list {$/;"	s	file:
+ipc_unix_domain	ctrl.c	/^char ipc_unix_domain[256];$/;"	v
+ipc_unix_domain_handler	ctrl.c	/^static void ipc_unix_domain_handler(vector_t tokens)$/;"	f	file:
+ipv4_default_ttl_handler	ipv4.c	/^static void ipv4_default_ttl_handler(vector_t tokens)$/;"	f	file:
+ipv4_forward	ipv4.c	/^static int ipv4_forward(struct rte_mbuf *mbuf)$/;"	f	file:
+ipv4_forward_fin	ipv4.c	/^static int ipv4_forward_fin(struct rte_mbuf *mbuf)$/;"	f	file:
+ipv4_forward_handler	ipv4.c	/^static void ipv4_forward_handler(vector_t tokens)$/;"	f	file:
+ipv4_forward_switch	ipv4.c	/^static bool ipv4_forward_switch = IPV4_FORWARD_DEF;$/;"	v	file:
+ipv4_frag	ipv4_frag.c	/^struct ipv4_frag {$/;"	s	file:
+ipv4_frag_init	ipv4_frag.c	/^int ipv4_frag_init(void)$/;"	f
+ipv4_frag_job	ipv4_frag.c	/^static void ipv4_frag_job(void *arg)$/;"	f	file:
+ipv4_frag_term	ipv4_frag.c	/^int ipv4_frag_term(void)$/;"	f
+ipv4_fragment	ipv4_frag.c	/^int ipv4_fragment(struct rte_mbuf *mbuf, unsigned int mtu,$/;"	f
+ipv4_init	ipv4.c	/^int ipv4_init(void)$/;"	f
+ipv4_keyword_value_init	ipv4.c	/^void ipv4_keyword_value_init(void)$/;"	f
+ipv4_local_in	ipv4.c	/^static int ipv4_local_in(struct rte_mbuf *mbuf)$/;"	f	file:
+ipv4_local_in_fin	ipv4.c	/^static int ipv4_local_in_fin(struct rte_mbuf *mbuf)$/;"	f	file:
+ipv4_local_out	ipv4.c	/^static int ipv4_local_out(struct rte_mbuf *mbuf)$/;"	f	file:
+ipv4_output	ipv4.c	/^int ipv4_output(struct rte_mbuf *mbuf)$/;"	f
+ipv4_output_fin	ipv4.c	/^static int ipv4_output_fin(struct rte_mbuf *mbuf)$/;"	f	file:
+ipv4_output_fin2	ipv4.c	/^static int ipv4_output_fin2(struct rte_mbuf *mbuf)$/;"	f	file:
+ipv4_rcv	ipv4.c	/^static int ipv4_rcv(struct rte_mbuf *mbuf, struct netif_port *port)$/;"	f	file:
+ipv4_rcv_fin	ipv4.c	/^static int ipv4_rcv_fin(struct rte_mbuf *mbuf)$/;"	f	file:
+ipv4_reassamble	ipv4_frag.c	/^int ipv4_reassamble(struct rte_mbuf *mbuf)$/;"	f
+ipv4_register_hooks	ipv4.c	/^int ipv4_register_hooks(struct inet_hook_ops *reg, size_t n)$/;"	f
+ipv4_register_protocol	ipv4.c	/^int ipv4_register_protocol(struct inet_protocol *prot,$/;"	f
+ipv4_term	ipv4.c	/^int ipv4_term(void)$/;"	f
+ipv4_unregister_hooks	ipv4.c	/^int ipv4_unregister_hooks(struct inet_hook_ops *reg, size_t n)$/;"	f
+ipv4_unregister_protocol	ipv4.c	/^int ipv4_unregister_protocol(struct inet_protocol *prot,$/;"	f
+ipv4_xmit	ipv4.c	/^int ipv4_xmit(struct rte_mbuf *mbuf, const struct flow4 *fl4)$/;"	f
+ipvs_conn_keyword_value_init	ipvs/ip_vs_conn.c	/^void ipvs_conn_keyword_value_init(void)$/;"	f
+is_error	icmp.c	/^    bool is_error;          \/* ICMP error message *\/$/;"	m	struct:icmp_ctrl	file:
+is_icmp_reply	ipvs/ip_vs_proto_icmp.c	/^static bool is_icmp_reply(uint8_t type)$/;"	f	file:
+is_ipv4_pkt_valid	netif.c	/^static inline int is_ipv4_pkt_valid(struct ipv4_hdr *iph, uint32_t link_len)$/;"	f	file:
+is_isol_rxq_lcore	netif.c	/^inline static bool is_isol_rxq_lcore(lcoreid_t cid)$/;"	f	file:
+is_lcore_id_fwd	netif.c	/^static bool is_lcore_id_fwd(lcoreid_t cid) $/;"	f	file:
+is_lcore_id_valid	netif.c	/^bool is_lcore_id_valid(lcoreid_t cid)$/;"	f
+is_port_id_valid	netif.c	/^static inline bool is_port_id_valid(portid_t pid)$/;"	f	file:
+is_power2	common.c	/^bool is_power2(int num, int offset, int *lower)$/;"	f
+isol_rx_cpu_ids_handler	netif.c	/^static void isol_rx_cpu_ids_handler(vector_t tokens)$/;"	f	file:
+isol_rxq_add	netif.c	/^static int isol_rxq_add(lcoreid_t cid, portid_t pid, queueid_t qid,$/;"	f	file:
+isol_rxq_del	netif.c	/^static void isol_rxq_del(struct rx_partner *isol_rxq, bool force)$/;"	f	file:
+isol_rxq_init	netif.c	/^static inline void isol_rxq_init(void)$/;"	f	file:
+isol_rxq_lcore_ids	netif.c	/^    int isol_rxq_lcore_ids[NETIF_MAX_QUEUES];$/;"	m	struct:queue_conf_stream	file:
+isol_rxq_ring_sz	netif.c	/^    int isol_rxq_ring_sz;$/;"	m	struct:queue_conf_stream	file:
+isol_rxq_ring_sz_handler	netif.c	/^static void isol_rxq_ring_sz_handler(vector_t tokens)$/;"	f	file:
+isol_rxq_tab	netif.c	/^static struct list_head isol_rxq_tab[NETIF_MAX_LCORES];$/;"	v	typeref:struct:list_head	file:
+judge_id_betw	ctrl.c	/^static inline int judge_id_betw(sockoptid_t num, sockoptid_t min, sockoptid_t max)$/;"	f	file:
+keyword_alloc	parser.c	/^void keyword_alloc(vector_t keywords_vec, char *str, keyword_callback_t handler)$/;"	f
+keyword_alloc_sub	parser.c	/^void keyword_alloc_sub(vector_t keywords_vec, char *str, keyword_callback_t handler)$/;"	f
+keyword_value_init	cfgfile.c	/^static void keyword_value_init(void)$/;"	f	file:
+kni_add_dev	kni.c	/^int kni_add_dev(struct netif_port *dev, const char *kniname)$/;"	f
+kni_del_dev	kni.c	/^int kni_del_dev(struct netif_port *dev)$/;"	f
+kni_fill_conf	kni.c	/^static void kni_fill_conf(const struct netif_port *dev, const char *ifname,$/;"	f	file:
+kni_ingress	netif.c	/^static void kni_ingress(struct rte_mbuf *mbuf, struct netif_port *dev, $/;"	f	file:
+kni_init	kni.c	/^int kni_init(void)$/;"	f
+kni_lock	netif.c	/^static rte_spinlock_t kni_lock;$/;"	v	file:
+kni_mbuf_pool	kni.c	/^static struct rte_mempool *kni_mbuf_pool[NETIF_MAX_SOCKETS];$/;"	v	typeref:struct:rte_mempool	file:
+kni_mc_list_cmp_set	kni.c	/^static int kni_mc_list_cmp_set(struct netif_port *dev,$/;"	f	file:
+kni_name	netif.c	/^    char kni_name[32];$/;"	m	struct:bond_conf_stream	file:
+kni_name	netif.c	/^    char kni_name[32];$/;"	m	struct:port_conf_stream	file:
+kni_name_handler	netif.c	/^static void kni_name_handler(vector_t tokens)$/;"	f	file:
+kni_process_on_master	netif.c	/^void kni_process_on_master(void)$/;"	f
+kni_rtnl_check	kni.c	/^static void kni_rtnl_check(void *arg)$/;"	f	file:
+kni_rtnl_init	kni.c	/^static int kni_rtnl_init(struct netif_port *dev)$/;"	f	file:
+kni_send2kern_loop	netif.c	/^static void kni_send2kern_loop(uint8_t port_id, struct netif_queue_conf *qconf)$/;"	f	file:
+kni_send2port_loop	netif.c	/^static void kni_send2port_loop(struct netif_port *port)$/;"	f	file:
+kni_update_maddr	kni.c	/^static int kni_update_maddr(struct netif_port *dev)$/;"	f	file:
+laddr_sockopt_get	ipvs/ip_vs_laddr.c	/^static int laddr_sockopt_get(sockoptid_t opt, const void *conf, size_t size,$/;"	f	file:
+laddr_sockopt_set	ipvs/ip_vs_laddr.c	/^static int laddr_sockopt_set(sockoptid_t opt, const void *conf, size_t size)$/;"	f	file:
+laddr_sockopts	ipvs/ip_vs_laddr.c	/^static struct dpvs_sockopts laddr_sockopts = {$/;"	v	typeref:struct:dpvs_sockopts	file:
+lcore	sa_pool.c	/^    lcoreid_t               lcore;$/;"	m	struct:sa_fdir	file:
+lcore2index	netif.c	/^lcoreid_t lcore2index[NETIF_MAX_LCORES];$/;"	v
+lcore_conf	netif.c	/^static struct netif_lcore_conf lcore_conf[NETIF_MAX_LCORES + 1];$/;"	v	typeref:struct:netif_lcore_conf	file:
+lcore_index_init	netif.c	/^static void lcore_index_init(void)$/;"	f	file:
+lcore_job_recv_fwd	netif.c	/^static void lcore_job_recv_fwd(void *arg)$/;"	f	file:
+lcore_job_timer_manage	netif.c	/^static void lcore_job_timer_manage(void *args)$/;"	f	file:
+lcore_job_xmit	netif.c	/^static void lcore_job_xmit(void *args)$/;"	f	file:
+lcore_process_arp_ring	netif.c	/^static void lcore_process_arp_ring(struct netif_queue_conf *qconf, lcoreid_t cid)$/;"	f	file:
+lcore_process_packets	netif.c	/^static void lcore_process_packets(struct netif_queue_conf *qconf, struct rte_mbuf **mbufs,$/;"	f	file:
+lcore_stats	netif.c	/^static struct netif_lcore_stats lcore_stats[NETIF_MAX_LCORES];$/;"	v	typeref:struct:netif_lcore_stats	file:
+lcore_stats_burst	netif.c	/^static inline void lcore_stats_burst(struct netif_lcore_stats *stats,$/;"	f	file:
+lcore_stats_msg_cb	netif.c	/^static int lcore_stats_msg_cb(struct dpvs_msg *msg)$/;"	f	file:
+lcore_stats_msg_init	netif.c	/^static inline int lcore_stats_msg_init(void)$/;"	f	file:
+lcore_stats_msg_term	netif.c	/^static inline int lcore_stats_msg_term(void)$/;"	f	file:
+limit	tc/sch_tbf.c	/^    uint32_t                limit;      \/* Maximal length of backlog: bytes *\/$/;"	m	struct:tbf_sch_priv	file:
+linux_hw_mc_add	common.c	/^int linux_hw_mc_add(const char *ifname, const uint8_t hwma[ETH_ALEN])$/;"	f
+linux_hw_mc_del	common.c	/^int linux_hw_mc_del(const char *ifname, const uint8_t hwma[ETH_ALEN])$/;"	f
+linux_hw_mc_mod	common.c	/^static int linux_hw_mc_mod(const char *ifname,$/;"	f	file:
+linux_set_if_mac	common.c	/^int linux_set_if_mac(const char *ifname, const unsigned char mac[ETH_ALEN])$/;"	f
+list	ctrl.c	/^    struct list_head list;$/;"	m	struct:multicast_wait_list	typeref:struct:multicast_wait_list::list_head	file:
+list	ipvs/ip_vs_laddr.c	/^    struct list_head        list;       \/* svc->laddr_list elem *\/$/;"	m	struct:dp_vs_laddr	typeref:struct:dp_vs_laddr::list_head	file:
+list	sa_pool.c	/^    struct list_head        list;       \/* node of sa_pool. *\/$/;"	m	struct:sa_entry	typeref:struct:sa_entry::list_head	file:
+load_conf_file	cfgfile.c	/^static inline void load_conf_file(char *cfg_file)$/;"	f	file:
+local_route_table	route.c	/^    struct list_head local_route_table[LOCAL_ROUTE_TAB_SIZE];$/;"	m	struct:route_lcore	typeref:struct:route_lcore::list_head	file:
+lock	timer.c	/^    rte_spinlock_t      lock;$/;"	m	struct:timer_scheduler	file:
+log_current_time	global_conf.c	/^static void log_current_time(void)$/;"	f	file:
+log_file_handler	global_conf.c	/^static void log_file_handler(vector_t tokens)$/;"	f	file:
+log_level_handler	global_conf.c	/^static void log_level_handler(vector_t tokens)$/;"	f	file:
+longest_lcore_loop	netif.c	/^static uint32_t longest_lcore_loop[NETIF_MAX_LCORES] = { 0 };$/;"	v	file:
+low	sa_pool.c	/^    uint16_t                low;        \/* min port *\/$/;"	m	struct:sa_pool	file:
+m	neigh.c	/^    struct rte_mbuf *m;$/;"	m	struct:neighbour_mbuf_entry	typeref:struct:neighbour_mbuf_entry::rte_mbuf	file:
+mac_addr	netif.c	/^    char mac_addr[18];$/;"	m	struct:port_queue_lcore_map	file:
+main	main.c	/^int main(int argc, char *argv[])$/;"	f
+mask	sa_pool.c	/^    uint16_t                mask;       \/* filter's port mask *\/$/;"	m	struct:sa_fdir	file:
+master_cid	neigh.c	/^static lcoreid_t master_cid = 0;$/;"	v	file:
+master_lcore	ctrl.c	/^lcoreid_t master_lcore;        \/* master lcore id *\/$/;"	v
+master_xmit_msg_data	netif.c	/^struct master_xmit_msg_data {$/;"	s	file:
+match	tc/cls_match.c	/^    struct dp_vs_match      match;$/;"	m	struct:match_cls_priv	typeref:struct:match_cls_priv::dp_vs_match	file:
+match_classify	tc/cls_match.c	/^static int match_classify(struct tc_cls *cls, struct rte_mbuf *mbuf,$/;"	f	file:
+match_cls_ops	tc/cls_match.c	/^struct tc_cls_ops match_cls_ops = {$/;"	v	typeref:struct:tc_cls_ops
+match_cls_priv	tc/cls_match.c	/^struct match_cls_priv {$/;"	s	file:
+match_dump	tc/cls_match.c	/^static int match_dump(struct tc_cls *cls, void *arg)$/;"	f	file:
+match_init	tc/cls_match.c	/^static int match_init(struct tc_cls *cls, const void *arg)$/;"	f	file:
+max_ack_saved_handler	ipvs/ip_vs_synproxy.c	/^static void max_ack_saved_handler(vector_t tokens)$/;"	f	file:
+max_size	tc/sch_tbf.c	/^    uint32_t                max_size;   \/* max sigle packet size for enqueue.$/;"	m	struct:tbf_sch_priv	file:
+mbuf	netif.c	/^    struct rte_mbuf *mbuf;$/;"	m	struct:master_xmit_msg_data	typeref:struct:master_xmit_msg_data::rte_mbuf	file:
+mbuf_copy	mbuf.c	/^struct rte_mbuf *mbuf_copy(struct rte_mbuf *md, struct rte_mempool *mp)$/;"	f
+mbuf_copy_metadata	mbuf.c	/^void mbuf_copy_metadata(struct rte_mbuf *mi, struct rte_mbuf *m)$/;"	f
+mbuf_may_pull	mbuf.c	/^int mbuf_may_pull(struct rte_mbuf *mbuf, unsigned int len)$/;"	f
+mc_queue_get	ctrl.c	/^static inline struct dpvs_multicast_queue* mc_queue_get(msgid_t type, uint32_t seq)$/;"	f	file:
+mc_wait_list	ctrl.c	/^struct multicast_wait_list mc_wait_list;$/;"	v	typeref:struct:multicast_wait_list
+mc_wait_lock	ctrl.c	/^rte_rwlock_t mc_wait_lock;$/;"	v
+minute_timer_expire	ipvs/ip_vs_synproxy.c	/^static void minute_timer_expire( void *priv)$/;"	f	file:
+miss_cnt	sa_pool.c	/^    uint32_t                miss_cnt;$/;"	m	struct:sa_entry_pool	file:
+mode	netif.c	/^    int mode;$/;"	m	struct:bond_conf_stream	file:
+msg_destroy	ctrl.c	/^int msg_destroy(struct dpvs_msg **pmsg)$/;"	f
+msg_init	ctrl.c	/^static inline int msg_init(void)$/;"	f	file:
+msg_make	ctrl.c	/^struct dpvs_msg* msg_make(msgid_t type, uint32_t seq,$/;"	f
+msg_master_process	ctrl.c	/^int msg_master_process(void)$/;"	f
+msg_mc_qlen	ctrl.c	/^static uint32_t msg_mc_qlen = DPVS_MULTICAST_LIST_LEN_DEF;$/;"	v	file:
+msg_mc_qlen_handler	ctrl.c	/^static void msg_mc_qlen_handler(vector_t tokens)$/;"	f	file:
+msg_ring	ctrl.c	/^struct rte_ring *msg_ring[NETIF_MAX_LCORES];$/;"	v	typeref:struct:rte_ring
+msg_ring_size	ctrl.c	/^static uint32_t msg_ring_size = DPVS_MSG_RING_SIZE_DEF;$/;"	v	file:
+msg_ring_size_handler	ctrl.c	/^static void msg_ring_size_handler(vector_t tokens)$/;"	f	file:
+msg_send	ctrl.c	/^int msg_send(struct dpvs_msg *msg, lcoreid_t cid, uint32_t flags, struct dpvs_msg_reply **reply)$/;"	f
+msg_slave_process	ctrl.c	/^int msg_slave_process(void)$/;"	f
+msg_term	ctrl.c	/^static inline int msg_term(void)$/;"	f	file:
+msg_timeout	ctrl.c	/^static int msg_timeout = MSG_TIMEOUT_US;$/;"	v	file:
+msg_timeout_handler	ctrl.c	/^static void msg_timeout_handler(vector_t tokens)$/;"	f	file:
+msg_type_array_t	ctrl.c	/^typedef struct list_head msg_type_array_t[DPVS_MSG_LEN];$/;"	t	typeref:struct:list_head	file:
+msg_type_get	ctrl.c	/^static struct dpvs_msg_type* msg_type_get(msgid_t type, \/*DPVS_MSG_MODE mode, *\/lcoreid_t cid)$/;"	f	file:
+msg_type_lock_t	ctrl.c	/^typedef rte_rwlock_t msg_type_lock_t[DPVS_MSG_LEN];$/;"	t	file:
+msg_type_master_xmit_cb	netif.c	/^static int msg_type_master_xmit_cb(struct dpvs_msg *msg)$/;"	f	file:
+msg_type_mc_register	ctrl.c	/^int msg_type_mc_register(const struct dpvs_msg_type *msg_type)$/;"	f
+msg_type_mc_unregister	ctrl.c	/^int msg_type_mc_unregister(const struct dpvs_msg_type *msg_type)$/;"	f
+msg_type_put	ctrl.c	/^static inline void msg_type_put(struct dpvs_msg_type *mt)$/;"	f	file:
+msg_type_reg_cb	ctrl.c	/^static int msg_type_reg_cb(struct dpvs_msg *msg)$/;"	f	file:
+msg_type_register	ctrl.c	/^int msg_type_register(const struct dpvs_msg_type *msg_type)$/;"	f
+msg_type_table_print	ctrl.c	/^int msg_type_table_print(char *buf, int len)$/;"	f
+msg_type_unreg_cb	ctrl.c	/^static int msg_type_unreg_cb(struct dpvs_msg *msg)$/;"	f	file:
+msg_type_unregister	ctrl.c	/^int msg_type_unregister(const struct dpvs_msg_type *msg_type)$/;"	f
+msstab	ipvs/ip_vs_synproxy.c	/^static uint16_t const msstab[] = {$/;"	v	file:
+mt_array	ctrl.c	/^msg_type_array_t mt_array[NETIF_MAX_LCORES];$/;"	v
+mt_hashkey	ctrl.c	/^static inline int mt_hashkey(msgid_t type)$/;"	f	file:
+mt_lock	ctrl.c	/^msg_type_lock_t mt_lock[NETIF_MAX_LCORES];$/;"	v
+mtu	tc/sch_tbf.c	/^    int64_t                 mtu;        \/* or "minburst", in time *\/$/;"	m	struct:tbf_sch_priv	file:
+multicast_msg_send	ctrl.c	/^int multicast_msg_send(struct dpvs_msg *msg, uint32_t flags, struct dpvs_multicast_queue **reply)$/;"	f
+multicast_wait_list	ctrl.c	/^struct multicast_wait_list {$/;"	s	file:
+mw	ipvs/ip_vs_wrr.c	/^    int mw;         \/* maximum weight *\/$/;"	m	struct:dp_vs_wrr_mark	file:
+name	netif.c	/^    char name[32];$/;"	m	struct:bond_conf_stream	file:
+name	netif.c	/^    char name[32];$/;"	m	struct:port_conf_stream	file:
+name	netif.c	/^    char name[32];$/;"	m	struct:worker_conf_stream	file:
+neigh_add_table	neigh.c	/^neigh_add_table(uint32_t ipaddr, const struct ether_addr* eth_addr,$/;"	f	file:
+neigh_edit	neigh.c	/^static int neigh_edit(struct neighbour_entry *neighbour, struct ether_addr* eth_addr,$/;"	f	file:
+neigh_entry_expire	neigh.c	/^static void neigh_entry_expire(void *data)$/;"	f	file:
+neigh_fill_mac	neigh.c	/^static void neigh_fill_mac(struct neighbour_entry *neighbour, struct rte_mbuf *m)$/;"	f	file:
+neigh_fill_param	neigh.c	/^static void neigh_fill_param(struct dp_vs_neigh_conf  *param,$/;"	f	file:
+neigh_gratuitous_arp	neigh.c	/^int neigh_gratuitous_arp(struct in_addr *src_ip, struct netif_port *port)$/;"	f
+neigh_hash	neigh.c	/^static inline int neigh_hash(struct neighbour_entry *neighbour, unsigned int hashkey)$/;"	f	file:
+neigh_hashkey	neigh.c	/^static inline unsigned int neigh_hashkey(uint32_t ip_addr, struct netif_port *port)$/;"	f	file:
+neigh_init	neigh.c	/^int neigh_init(void)$/;"	f
+neigh_key_cmp	neigh.c	/^static inline bool neigh_key_cmp(const struct neighbour_entry *neighbour,$/;"	f	file:
+neigh_keyword_value_init	neigh.c	/^void neigh_keyword_value_init(void)$/;"	f
+neigh_lookup_entry	neigh.c	/^static struct neighbour_entry *neigh_lookup_entry(const void *key, const struct netif_port* port, unsigned int hashkey)$/;"	f	file:
+neigh_mbuf_list	neigh.c	/^    struct list_head neigh_mbuf_list;$/;"	m	struct:neighbour_mbuf_entry	typeref:struct:neighbour_mbuf_entry::list_head	file:
+neigh_pktmbuf_pool	neigh.c	/^struct rte_mempool *neigh_pktmbuf_pool[NETIF_MAX_SOCKETS];$/;"	v	typeref:struct:rte_mempool
+neigh_process_ring	neigh.c	/^void neigh_process_ring(void *arg)$/;"	f
+neigh_resolve_input	neigh.c	/^int neigh_resolve_input(struct rte_mbuf *m, struct netif_port *port)$/;"	f
+neigh_resolve_output	neigh.c	/^int neigh_resolve_output(struct in_addr *nexhop, struct rte_mbuf *m,$/;"	f
+neigh_ring	neigh.c	/^static struct rte_ring *neigh_ring[NETIF_MAX_LCORES];$/;"	v	typeref:struct:rte_ring	file:
+neigh_ring_clone_entry	neigh.c	/^static struct raw_neigh* neigh_ring_clone_entry(const struct neighbour_entry* neighbour, bool add)$/;"	f	file:
+neigh_ring_clone_param	neigh.c	/^static struct raw_neigh* neigh_ring_clone_param(const struct dp_vs_neigh_conf *param, bool add)$/;"	f	file:
+neigh_ring_init	neigh.c	/^static int neigh_ring_init(void)$/;"	f	file:
+neigh_send_arp	neigh.c	/^static int neigh_send_arp(struct netif_port *port, uint32_t src_ip, uint32_t dst_ip)$/;"	f	file:
+neigh_send_mbuf_cach	neigh.c	/^static void neigh_send_mbuf_cach(struct neighbour_entry *neighbour)$/;"	f	file:
+neigh_sockopt_get	neigh.c	/^static int neigh_sockopt_get(sockoptid_t opt, const void *conf, size_t size,$/;"	f	file:
+neigh_sockopt_set	neigh.c	/^static int neigh_sockopt_set(sockoptid_t opt, const void *conf, size_t size)$/;"	f	file:
+neigh_sockopts	neigh.c	/^static struct dpvs_sockopts neigh_sockopts = {$/;"	v	typeref:struct:dpvs_sockopts	file:
+neigh_sync_job	neigh.c	/^static struct netif_lcore_loop_job neigh_sync_job;$/;"	v	typeref:struct:netif_lcore_loop_job	file:
+neigh_table	neigh.c	/^static struct list_head neigh_table[NETIF_MAX_LCORES][ARP_TAB_SIZE];$/;"	v	typeref:struct:list_head	file:
+neigh_term	neigh.c	/^int neigh_term(void)$/;"	f
+neigh_unhash	neigh.c	/^static inline int neigh_unhash(struct neighbour_entry *neighbour)$/;"	f	file:
+neighbour_entry	neigh.c	/^struct neighbour_entry {$/;"	s	file:
+neighbour_mbuf_entry	neigh.c	/^struct neighbour_mbuf_entry {$/;"	s	file:
+net_cmp	route.c	/^static inline bool net_cmp(const struct netif_port *port, uint32_t dest,$/;"	f	file:
+net_route_table	route.c	/^    struct list_head net_route_table;$/;"	m	struct:route_lcore	typeref:struct:route_lcore::list_head	file:
+netif_alloc	netif.c	/^struct netif_port *netif_alloc(size_t priv_size, const char *namefmt,$/;"	f
+netif_arp_ring_init	netif.c	/^static int netif_arp_ring_init(void)$/;"	f	file:
+netif_cfgfile_init	netif.c	/^void netif_cfgfile_init(void)$/;"	f
+netif_cfgfile_term	netif.c	/^static void netif_cfgfile_term(void)$/;"	f	file:
+netif_copy_lcore_stats	netif.c	/^static inline void netif_copy_lcore_stats(struct netif_lcore_stats *stats)$/;"	f	file:
+netif_ctrl_init	netif.c	/^int netif_ctrl_init(void)$/;"	f
+netif_ctrl_term	netif.c	/^int netif_ctrl_term(void)$/;"	f
+netif_defs_handler	netif.c	/^static void netif_defs_handler(vector_t tokens)$/;"	f	file:
+netif_deliver_mbuf	netif.c	/^static inline int netif_deliver_mbuf(struct rte_mbuf *mbuf,$/;"	f	file:
+netif_fdir_filter_set	netif.c	/^int netif_fdir_filter_set(struct netif_port *port, enum rte_filter_op opcode, $/;"	f
+netif_free	netif.c	/^int netif_free(struct netif_port *dev)$/;"	f
+netif_get_isol_rx_lcores	netif.c	/^static void netif_get_isol_rx_lcores(uint8_t *nb, uint64_t *mask)$/;"	f	file:
+netif_get_link	netif.c	/^int netif_get_link(struct netif_port *dev, struct rte_eth_link *link)$/;"	f
+netif_get_promisc	netif.c	/^int netif_get_promisc(struct netif_port *dev, bool *promisc)$/;"	f
+netif_get_queue	netif.c	/^int netif_get_queue(struct netif_port *port, lcoreid_t cid, queueid_t *qid)$/;"	f
+netif_get_slave_lcores	netif.c	/^void netif_get_slave_lcores(uint8_t *nb, uint64_t *mask)$/;"	f
+netif_get_stats	netif.c	/^int netif_get_stats(struct netif_port *dev, struct rte_eth_stats *stats)$/;"	f
+netif_hard_xmit	netif.c	/^int netif_hard_xmit(struct rte_mbuf *mbuf, struct netif_port *dev)$/;"	f
+netif_init	netif.c	/^int netif_init(const struct rte_eth_conf *conf)$/;"	f
+netif_jobs	netif.c	/^struct netif_lcore_loop_job netif_jobs[NETIF_JOB_COUNT];$/;"	v	typeref:struct:netif_lcore_loop_job
+netif_keyword_value_init	netif.c	/^void netif_keyword_value_init(void)$/;"	f
+netif_lcore_cleanup	netif.c	/^static inline void netif_lcore_cleanup(void)$/;"	f	file:
+netif_lcore_init	netif.c	/^static void netif_lcore_init(void)$/;"	f	file:
+netif_lcore_jobs	netif.c	/^struct list_head netif_lcore_jobs[NETIF_LCORE_JOB_TYPE_MAX];$/;"	v	typeref:struct:list_head
+netif_lcore_jobs_init	netif.c	/^static inline void netif_lcore_jobs_init(void)$/;"	f	file:
+netif_lcore_loop_job_register	netif.c	/^int netif_lcore_loop_job_register(struct netif_lcore_loop_job *lcore_job)$/;"	f
+netif_lcore_loop_job_unregister	netif.c	/^int netif_lcore_loop_job_unregister(struct netif_lcore_loop_job *lcore_job)$/;"	f
+netif_lcore_start	netif.c	/^int netif_lcore_start(void)$/;"	f
+netif_loop	netif.c	/^static int netif_loop(void *dummy)$/;"	f	file:
+netif_loop_tick	netif.c	/^static uint32_t netif_loop_tick[NETIF_MAX_LCORES] = { 0 };$/;"	v	file:
+netif_max_pid	netif.c	/^portid_t netif_max_pid;$/;"	v
+netif_max_qid	netif.c	/^queueid_t netif_max_qid;$/;"	v
+netif_mc_add	netif_addr.c	/^int netif_mc_add(struct netif_port *dev, const struct ether_addr *addr)$/;"	f
+netif_mc_del	netif_addr.c	/^int netif_mc_del(struct netif_port *dev, const struct ether_addr *addr)$/;"	f
+netif_mc_dump	netif_addr.c	/^int netif_mc_dump(struct netif_port *dev,$/;"	f
+netif_mc_flush	netif_addr.c	/^void netif_mc_flush(struct netif_port *dev)$/;"	f
+netif_mc_init	netif_addr.c	/^void netif_mc_init(struct netif_port *dev)$/;"	f
+netif_mc_sync	netif_addr.c	/^int netif_mc_sync(struct netif_port *to, struct netif_port *from)$/;"	f
+netif_mc_sync_multiple	netif_addr.c	/^int netif_mc_sync_multiple(struct netif_port *to,$/;"	f
+netif_mc_unsync	netif_addr.c	/^int netif_mc_unsync(struct netif_port *to, struct netif_port *from)$/;"	f
+netif_mc_unsync_multiple	netif_addr.c	/^int netif_mc_unsync_multiple(struct netif_port *to, struct netif_port *from)$/;"	f
+netif_pkt_type_tab_init	netif.c	/^static inline void netif_pkt_type_tab_init(void)$/;"	f	file:
+netif_pktmbuf_pool_init	netif.c	/^static inline void netif_pktmbuf_pool_init(void)$/;"	f	file:
+netif_pktpool_mbuf_cache	netif.c	/^static int netif_pktpool_mbuf_cache = NETIF_PKTPOOL_MBUF_CACHE_DEF;$/;"	v	file:
+netif_pktpool_nb_mbuf	netif.c	/^static int netif_pktpool_nb_mbuf = NETIF_PKTPOOL_NB_MBUF_DEF;$/;"	v	file:
+netif_port_alloc	netif.c	/^static struct netif_port* netif_port_alloc(portid_t id, int nrxq, $/;"	f	file:
+netif_port_conf_get	netif.c	/^int netif_port_conf_get(struct netif_port *port, struct rte_eth_conf *eth_conf)$/;"	f
+netif_port_conf_set	netif.c	/^int netif_port_conf_set(struct netif_port *port, const struct rte_eth_conf *conf)$/;"	f
+netif_port_fdir_dstport_mask_set	netif.c	/^inline static int netif_port_fdir_dstport_mask_set(struct netif_port *port)$/;"	f	file:
+netif_port_get	netif.c	/^struct netif_port* netif_port_get(portid_t id)$/;"	f
+netif_port_get_by_name	netif.c	/^struct netif_port* netif_port_get_by_name(const char *name)$/;"	f
+netif_port_id_alloc	netif.c	/^static inline portid_t netif_port_id_alloc(void)$/;"	f	file:
+netif_port_init	netif.c	/^inline static void netif_port_init(const struct rte_eth_conf *conf)$/;"	f	file:
+netif_port_register	netif.c	/^int netif_port_register(struct netif_port *port)$/;"	f
+netif_port_start	netif.c	/^int netif_port_start(struct netif_port *port)$/;"	f
+netif_port_stop	netif.c	/^int netif_port_stop(struct netif_port *port)$/;"	f
+netif_port_unregister	netif.c	/^int netif_port_unregister(struct netif_port *port)$/;"	f
+netif_print_isol_lcore_conf	netif.c	/^static int netif_print_isol_lcore_conf(lcoreid_t cid, char *buf, int *len, bool has_title)$/;"	f	file:
+netif_print_lcore_conf	netif.c	/^int netif_print_lcore_conf(char *buf, int *len, bool is_all, portid_t pid)$/;"	f
+netif_print_lcore_queue_conf	netif.c	/^int netif_print_lcore_queue_conf(lcoreid_t cid, char *buf, int *len, bool has_title)$/;"	f
+netif_print_port_conf	netif.c	/^int netif_print_port_conf(const struct rte_eth_conf *port_conf, char *buf, int *len)$/;"	f
+netif_print_port_queue_conf	netif.c	/^int netif_print_port_queue_conf(portid_t pid, char *buf, int *len)$/;"	f
+netif_register_master_xmit_msg	netif.c	/^int netif_register_master_xmit_msg(void)$/;"	f
+netif_register_pkt	netif.c	/^int netif_register_pkt(struct pkt_type *pt)$/;"	f
+netif_rx_burst	netif.c	/^static inline uint16_t netif_rx_burst(portid_t pid, struct netif_queue_conf *qconf)$/;"	f	file:
+netif_set_mc_list	netif.c	/^int netif_set_mc_list(struct netif_port *dev)$/;"	f
+netif_sockopt	netif.c	/^struct dpvs_sockopts netif_sockopt = {$/;"	v	typeref:struct:dpvs_sockopts
+netif_sockopt_get	netif.c	/^static int netif_sockopt_get(sockoptid_t opt, const void *in, size_t inlen,$/;"	f	file:
+netif_sockopt_set	netif.c	/^static int netif_sockopt_set(sockoptid_t opt, const void *in, size_t inlen)$/;"	f	file:
+netif_term	netif.c	/^int netif_term(void)$/;"	f
+netif_tx_burst	netif.c	/^static inline void netif_tx_burst(lcoreid_t cid, portid_t pid, queueid_t qindex)$/;"	f	file:
+netif_unregister_pkt	netif.c	/^int netif_unregister_pkt(struct pkt_type *pt)$/;"	f
+netif_update_master_loop_cnt	netif.c	/^void netif_update_master_loop_cnt(void)$/;"	f
+netif_virtual_devices_add	netif.c	/^int netif_virtual_devices_add(void)$/;"	f
+netif_xmit	netif.c	/^int netif_xmit(struct rte_mbuf *mbuf, struct netif_port *dev)$/;"	f
+num_neighbours	neigh.c	/^static int  num_neighbours = 0;$/;"	v	file:
+parse_ether_hdr	netif.c	/^static inline int parse_ether_hdr(struct rte_mbuf *mbuf, uint16_t port, uint16_t queue) {$/;"	f	file:
+parse_ipv4_hdr	netif.c	/^static void parse_ipv4_hdr(struct rte_mbuf *mbuf, uint16_t port, uint16_t queue)$/;"	f	file:
+peak	tc/sch_tbf.c	/^    struct qsch_rate        peak;       \/* max burst rate *\/$/;"	m	struct:tbf_sch_priv	typeref:struct:tbf_sch_priv::qsch_rate	file:
+pfifo_enqueue	tc/sch_fifo.c	/^static int pfifo_enqueue(struct Qsch *sch, struct rte_mbuf *mbuf)$/;"	f	file:
+pfifo_fast_dequeue	tc/sch_pfifo_fast.c	/^static struct rte_mbuf *pfifo_fast_dequeue(struct Qsch *sch)$/;"	f	file:
+pfifo_fast_dump	tc/sch_pfifo_fast.c	/^static int pfifo_fast_dump(struct Qsch *sch, void *arg)$/;"	f	file:
+pfifo_fast_enqueue	tc/sch_pfifo_fast.c	/^static int pfifo_fast_enqueue(struct Qsch *sch, struct rte_mbuf *mbuf)$/;"	f	file:
+pfifo_fast_init	tc/sch_pfifo_fast.c	/^static int pfifo_fast_init(struct Qsch *sch, const void *arg)$/;"	f	file:
+pfifo_fast_ops	tc/sch_pfifo_fast.c	/^struct Qsch_ops pfifo_fast_ops = {$/;"	v	typeref:struct:Qsch_ops
+pfifo_fast_peek	tc/sch_pfifo_fast.c	/^static struct rte_mbuf *pfifo_fast_peek(struct Qsch *sch)$/;"	f	file:
+pfifo_fast_priv	tc/sch_pfifo_fast.c	/^struct pfifo_fast_priv {$/;"	s	file:
+pfifo_fast_reset	tc/sch_pfifo_fast.c	/^static void pfifo_fast_reset(struct Qsch *sch)$/;"	f	file:
+pfifo_sch_ops	tc/sch_fifo.c	/^struct Qsch_ops pfifo_sch_ops = {$/;"	v	typeref:struct:Qsch_ops
+phy_pid_base	netif.c	/^static portid_t phy_pid_base = 0;$/;"	v	file:
+phy_pid_end	netif.c	/^static portid_t phy_pid_end = -1; \/\/ not inclusive$/;"	v	file:
+pid	netif.c	/^    portid_t pid;$/;"	m	struct:port_queue_lcore_map	file:
+pidfile_rm	pidfile.c	/^void pidfile_rm(const char *pid_file)$/;"	f
+pidfile_write	pidfile.c	/^int pidfile_write(const char *pid_file, int pid)$/;"	f
+pkt_send_back	netif.c	/^__rte_unused static void pkt_send_back(struct rte_mbuf *mbuf, struct netif_port *port)$/;"	f	file:
+pkt_type_get	netif.c	/^static struct pkt_type *pkt_type_get(uint16_t type, struct netif_port *port)$/;"	f	file:
+pkt_type_tab	netif.c	/^static struct list_head pkt_type_tab[NETIF_PKT_TYPE_TABLE_BUCKETS];$/;"	v	typeref:struct:list_head	file:
+pkt_type_tab_hashkey	netif.c	/^static inline int pkt_type_tab_hashkey(uint16_t type)$/;"	f	file:
+pktmbuf_pool	netif.c	/^static struct rte_mempool *pktmbuf_pool[NETIF_MAX_SOCKETS];$/;"	v	typeref:struct:rte_mempool	file:
+pktpool_cache_handler	neigh.c	/^static void pktpool_cache_handler(vector_t tokens)$/;"	f	file:
+pktpool_cache_handler	netif.c	/^static void pktpool_cache_handler(vector_t tokens)$/;"	f	file:
+pktpool_size_handler	neigh.c	/^static void pktpool_size_handler(vector_t tokens)$/;"	f	file:
+pktpool_size_handler	netif.c	/^static void pktpool_size_handler(vector_t tokens)$/;"	f	file:
+pool_hash	sa_pool.c	/^    struct sa_entry_pool    *pool_hash;$/;"	m	struct:sa_pool	typeref:struct:sa_pool::sa_entry_pool	file:
+pool_hash_sz	sa_pool.c	/^    uint8_t                 pool_hash_sz;$/;"	m	struct:sa_pool	file:
+port	neigh.c	/^    struct netif_port *port;$/;"	m	struct:neighbour_entry	typeref:struct:neighbour_entry::netif_port	file:
+port	neigh.c	/^    struct netif_port *port;$/;"	m	struct:raw_neigh	typeref:struct:raw_neigh::netif_port	file:
+port	sa_pool.c	/^    __be16                  port;$/;"	m	struct:sa_entry	file:
+port2index	netif.c	/^portid_t port2index[NETIF_MAX_LCORES][NETIF_MAX_PORTS];$/;"	v
+port_base	sa_pool.c	/^    __be16                  port_base;$/;"	m	struct:sa_fdir	file:
+port_conf_stream	netif.c	/^struct port_conf_stream {$/;"	s	file:
+port_id	netif.c	/^    int port_id;$/;"	m	struct:bond_conf_stream	file:
+port_id	netif.c	/^    int port_id;$/;"	m	struct:port_conf_stream	file:
+port_id_end	netif.c	/^static portid_t port_id_end = 0;$/;"	v	file:
+port_index_init	netif.c	/^static void port_index_init(void)$/;"	f	file:
+port_list	netif.c	/^    struct list_head port_list;$/;"	m	struct:worker_conf_stream	typeref:struct:worker_conf_stream::list_head	file:
+port_list	netif.c	/^static struct list_head port_list;      \/* device configurations from cfgfile *\/$/;"	v	typeref:struct:list_head	file:
+port_list_node	netif.c	/^    struct list_head port_list_node;$/;"	m	struct:port_conf_stream	typeref:struct:port_conf_stream::list_head	file:
+port_mtu_set	netif.c	/^static inline void port_mtu_set(struct netif_port *port)$/;"	f	file:
+port_name	netif.c	/^    char port_name[32];$/;"	m	struct:queue_conf_stream	file:
+port_name_alloc	netif.c	/^static inline int port_name_alloc(portid_t pid, char *pname, size_t buflen)$/;"	f	file:
+port_ntab	netif.c	/^static struct list_head port_ntab[NETIF_PORT_TABLE_BUCKETS]; \/* hashed by name *\/$/;"	v	typeref:struct:list_head	file:
+port_ntab_hashkey	netif.c	/^static unsigned int port_ntab_hashkey(const char *name, size_t len)$/;"	f	file:
+port_ntab_init	netif.c	/^static inline void port_ntab_init(void)$/;"	f	file:
+port_queue_lcore_map	netif.c	/^struct port_queue_lcore_map {$/;"	s	file:
+port_rx_queues_get	netif.c	/^static int port_rx_queues_get(portid_t pid)$/;"	f	file:
+port_tab	netif.c	/^static struct list_head port_tab[NETIF_PORT_TABLE_BUCKETS]; \/* hashed by id *\/$/;"	v	typeref:struct:list_head	file:
+port_tab_hashkey	netif.c	/^static inline int port_tab_hashkey(portid_t id)$/;"	f	file:
+port_tab_init	netif.c	/^static inline void port_tab_init(void)$/;"	f	file:
+port_tx_queues_get	netif.c	/^static int port_tx_queues_get(portid_t pid)$/;"	f	file:
+pql_map	netif.c	/^struct port_queue_lcore_map pql_map[NETIF_MAX_PORTS];$/;"	v	typeref:struct:port_queue_lcore_map
+primary	netif.c	/^    char primary[32];$/;"	m	struct:bond_conf_stream	file:
+print_job_time	netif.c	/^static void print_job_time(char *buf, size_t len)$/;"	f	file:
+print_kni_sent2kern_loop_debug	netif.c	/^static void print_kni_sent2kern_loop_debug(struct netif_queue_conf *qconf, $/;"	f	file:
+prio2band	tc/sch_pfifo_fast.c	/^static const uint8_t prio2band[TC_PRIO_MAX + 1] = {$/;"	v	file:
+process_stream	parser.c	/^void process_stream(vector_t keywords)$/;"	f
+promisc_mode	netif.c	/^    bool promisc_mode;$/;"	m	struct:port_conf_stream	file:
+promisc_mode_handler	netif.c	/^static void promisc_mode_handler(vector_t tokens)$/;"	f	file:
+proto	tc/cls_match.c	/^    uint8_t                 proto;      \/* IPPROTO_XXX *\/$/;"	m	struct:match_cls_priv	file:
+proto_register	ipvs/ip_vs_proto.c	/^static int proto_register(struct dp_vs_proto *proto)$/;"	f	file:
+proto_unregister	ipvs/ip_vs_proto.c	/^static int proto_unregister(struct dp_vs_proto *proto)$/;"	f	file:
+ptokens	tc/sch_tbf.c	/^    int64_t                 ptokens;    \/* current peak tokens, in time *\/$/;"	m	struct:tbf_sch_priv	file:
+put_laddr	ipvs/ip_vs_laddr.c	/^static inline void put_laddr(struct dp_vs_laddr *laddr)$/;"	f	file:
+q	tc/sch_pfifo_fast.c	/^    struct tc_mbuf_head q[RTE_MAX_LCORE][PFIFO_FAST_BANDS];$/;"	m	struct:pfifo_fast_priv	typeref:struct:pfifo_fast_priv::tc_mbuf_head	file:
+qsch	tc/sch_tbf.c	/^    struct Qsch             *qsch;      \/* backlog queue *\/$/;"	m	struct:tbf_sch_priv	typeref:struct:tbf_sch_priv::Qsch	file:
+qsch_change	tc/sch_generic.c	/^int qsch_change(struct Qsch *sch, const void *arg)$/;"	f
+qsch_create	tc/sch_generic.c	/^struct Qsch *qsch_create(struct netif_port *dev, const char *kind,$/;"	f
+qsch_create_dflt	tc/sch_generic.c	/^struct Qsch *qsch_create_dflt(struct netif_port *dev, struct Qsch_ops *ops,$/;"	f
+qsch_destroy	tc/sch_generic.c	/^void qsch_destroy(struct Qsch *sch)$/;"	f
+qsch_do_sched	tc/sch_generic.c	/^void qsch_do_sched(struct Qsch *sch)$/;"	f
+qsch_hash_add	tc/sch_generic.c	/^void qsch_hash_add(struct Qsch *sch, bool invisible)$/;"	f
+qsch_hash_del	tc/sch_generic.c	/^void qsch_hash_del(struct Qsch *sch)$/;"	f
+qsch_lookup	tc/sch_generic.c	/^struct Qsch *qsch_lookup(const struct netif_tc *tc, tc_handle_t handle)$/;"	f
+qsch_lookup_noref	tc/sch_generic.c	/^struct Qsch *qsch_lookup_noref(const struct netif_tc *tc, tc_handle_t handle)$/;"	f
+qsch_ops_base	tc/tc.c	/^static struct list_head qsch_ops_base;$/;"	v	typeref:struct:list_head	file:
+qsch_ops_lock	tc/tc.c	/^static rte_rwlock_t qsch_ops_lock;$/;"	v	file:
+qsch_recycle_timeout	tc/sch_generic.c	/^static int qsch_recycle_timeout = 5;$/;"	v	file:
+qsch_reset	tc/sch_generic.c	/^void qsch_reset(struct Qsch *sch)$/;"	f
+que_num	neigh.c	/^    uint32_t que_num;$/;"	m	struct:neighbour_entry	file:
+queue_conf_stream	netif.c	/^struct queue_conf_stream {$/;"	s	file:
+queue_list	neigh.c	/^    struct list_head queue_list;$/;"	m	struct:neighbour_entry	typeref:struct:neighbour_entry::list_head	file:
+queue_list_node	netif.c	/^    struct list_head queue_list_node;$/;"	m	struct:queue_conf_stream	typeref:struct:queue_conf_stream::list_head	file:
+rate	tc/sch_tbf.c	/^    struct qsch_rate        rate;       \/* token fill speed *\/$/;"	m	struct:tbf_sch_priv	typeref:struct:tbf_sch_priv::qsch_rate	file:
+raw_neigh	neigh.c	/^struct raw_neigh {$/;"	s	file:
+read_conf_file	parser.c	/^void read_conf_file(char *conf_file)$/;"	f
+read_line	parser.c	/^int read_line(char *buf, int size)$/;"	f
+read_value_block	parser.c	/^vector_t read_value_block(void)$/;"	f
+readn	common.c	/^ssize_t readn(int fd, void *vptr, size_t n)$/;"	f
+reasm_tbl	ipv4_frag.c	/^	struct rte_ip_frag_tbl		*reasm_tbl;$/;"	m	struct:ipv4_frag	typeref:struct:ipv4_frag::rte_ip_frag_tbl	file:
+recv_on_isol_lcore	netif.c	/^inline static void recv_on_isol_lcore(void)$/;"	f	file:
+refcnt	ipvs/ip_vs_laddr.c	/^    rte_atomic32_t          refcnt;$/;"	m	struct:dp_vs_laddr	file:
+refcnt	sa_pool.c	/^    rte_atomic32_t          refcnt;$/;"	m	struct:sa_pool	file:
+register_built_in_msg	ctrl.c	/^static int register_built_in_msg(void)$/;"	f	file:
+register_conn_get_msg	ipvs/ip_vs_conn.c	/^static int register_conn_get_msg(void)$/;"	f	file:
+register_dp_vs_scheduler	ipvs/ip_vs_sched.c	/^int register_dp_vs_scheduler(struct dp_vs_scheduler *scheduler)$/;"	f
+register_stats_cb	ipvs/ip_vs_stats.c	/^static void register_stats_cb(void)$/;"	f	file:
+relate_bonding_device	netif.c	/^static int relate_bonding_device(void)$/;"	f	file:
+result	tc/cls_match.c	/^    struct tc_cls_result    result;$/;"	m	struct:match_cls_priv	typeref:struct:match_cls_priv::tc_cls_result	file:
+route4_input	route.c	/^struct route_entry *route4_input(const struct rte_mbuf *mbuf,$/;"	f
+route4_local	route.c	/^struct route_entry *route4_local(uint32_t src, struct netif_port *port)$/;"	f
+route4_output	route.c	/^struct route_entry *route4_output(const struct flow4 *fl4)$/;"	f
+route_add	route.c	/^int route_add(struct in_addr* dest,uint8_t netmask, uint32_t flag,$/;"	f
+route_add_del	route.c	/^static int route_add_del(bool add, struct in_addr* dest,$/;"	f	file:
+route_add_lcore	route.c	/^static int route_add_lcore(struct in_addr* dest,uint8_t netmask, uint32_t flag,$/;"	f	file:
+route_add_msg_cb	route.c	/^static int route_add_msg_cb(struct dpvs_msg *msg)$/;"	f	file:
+route_del	route.c	/^int route_del(struct in_addr* dest,uint8_t netmask, uint32_t flag,$/;"	f
+route_del_lcore	route.c	/^static int route_del_lcore(struct in_addr* dest,uint8_t netmask, uint32_t flag,$/;"	f	file:
+route_del_msg_cb	route.c	/^static int route_del_msg_cb(struct dpvs_msg *msg)$/;"	f	file:
+route_fill_conf	route.c	/^static void route_fill_conf(int af, struct dp_vs_route_conf *cf, $/;"	f	file:
+route_flush	route.c	/^int route_flush(void)$/;"	f
+route_in_net_lookup	route.c	/^static struct route_entry *route_in_net_lookup(const struct netif_port *port,$/;"	f	file:
+route_init	route.c	/^int route_init(void)$/;"	f
+route_lcore	route.c	/^struct route_lcore {$/;"	s	file:
+route_lcore_init	route.c	/^static int route_lcore_init(void *arg)$/;"	f	file:
+route_lcore_term	route.c	/^static int route_lcore_term(void *arg)$/;"	f	file:
+route_local_add	route.c	/^static int route_local_add(struct in_addr* dest, uint8_t netmask, uint32_t flag,$/;"	f	file:
+route_local_del	route.c	/^static int route_local_del(struct route_entry *route)$/;"	f	file:
+route_local_hash	route.c	/^static int route_local_hash(struct route_entry *route)$/;"	f	file:
+route_local_hashkey	route.c	/^route_local_hashkey(uint32_t ip_addr, const struct netif_port *port)$/;"	f	file:
+route_local_lookup	route.c	/^static struct route_entry *route_local_lookup(uint32_t dest, const struct netif_port *port)$/;"	f	file:
+route_local_unhash	route.c	/^static int route_local_unhash(struct route_entry *route)$/;"	f	file:
+route_msg_process	route.c	/^static int route_msg_process(bool add, struct dpvs_msg *msg)$/;"	f	file:
+route_net_add	route.c	/^static int route_net_add(struct in_addr *dest, uint8_t netmask, uint32_t flag, $/;"	f	file:
+route_net_del	route.c	/^static int route_net_del(struct route_entry *route)$/;"	f	file:
+route_net_lookup	route.c	/^static struct route_entry *route_net_lookup(struct netif_port *port, $/;"	f	file:
+route_new_entry	route.c	/^static struct route_entry *route_new_entry(struct in_addr* dest, $/;"	f	file:
+route_out_local_lookup	route.c	/^struct route_entry *route_out_local_lookup(uint32_t dest)$/;"	f
+route_out_net_lookup	route.c	/^static struct route_entry *route_out_net_lookup(const struct in_addr *dest)$/;"	f	file:
+route_select_addr	route.c	/^uint32_t route_select_addr(struct netif_port *port)$/;"	f
+route_sockopt_get	route.c	/^static int route_sockopt_get(sockoptid_t opt, const void *conf, size_t size, $/;"	f	file:
+route_sockopt_set	route.c	/^static int route_sockopt_set(sockoptid_t opt, const void *conf, size_t size)$/;"	f	file:
+route_sockopts	route.c	/^static struct dpvs_sockopts route_sockopts = {$/;"	v	typeref:struct:dpvs_sockopts	file:
+route_term	route.c	/^int route_term(void)$/;"	f
+rs_syn_max_retry_handler	ipvs/ip_vs_synproxy.c	/^static void rs_syn_max_retry_handler(vector_t tokens)$/;"	f	file:
+rss	netif.c	/^    char rss[32];$/;"	m	struct:port_conf_stream	file:
+rss_handler	netif.c	/^static void rss_handler(vector_t tokens)$/;"	f	file:
+rte_tim	timer.c	/^    struct rte_timer    rte_tim;$/;"	m	struct:timer_scheduler	typeref:struct:timer_scheduler::rte_timer	file:
+rte_timer_tick_cb	timer.c	/^static void rte_timer_tick_cb(struct rte_timer *tim, void *arg)$/;"	f	file:
+rx_desc_nb	netif.c	/^    int rx_desc_nb;$/;"	m	struct:port_conf_stream	file:
+rx_desc_nb_handler	netif.c	/^static void rx_desc_nb_handler(vector_t tokens)$/;"	f	file:
+rx_qid	netif.c	/^    queueid_t rx_qid[NETIF_MAX_QUEUES];$/;"	m	struct:port_queue_lcore_map	file:
+rx_queue_ids_handler	netif.c	/^static void rx_queue_ids_handler(vector_t tokens)$/;"	f	file:
+rx_queue_nb	netif.c	/^    int rx_queue_nb;$/;"	m	struct:port_conf_stream	file:
+rx_queue_number_handler	netif.c	/^static void rx_queue_number_handler(vector_t tokens)$/;"	f	file:
+rx_queues	netif.c	/^    int rx_queues[NETIF_MAX_QUEUES];$/;"	m	struct:queue_conf_stream	file:
+sa_add_filter	sa_pool.c	/^static inline int sa_add_filter(struct netif_port *dev, lcoreid_t cid,$/;"	f	file:
+sa_del_filter	sa_pool.c	/^static inline int sa_del_filter(struct netif_port *dev, lcoreid_t cid,$/;"	f	file:
+sa_entries	sa_pool.c	/^    struct sa_entry         sa_entries[MAX_PORT];$/;"	m	struct:sa_entry_pool	typeref:struct:sa_entry_pool::sa_entry	file:
+sa_entry	sa_pool.c	/^struct sa_entry {$/;"	s	file:
+sa_entry_pool	sa_pool.c	/^struct sa_entry_pool {$/;"	s	file:
+sa_fdir	sa_pool.c	/^struct sa_fdir {$/;"	s	file:
+sa_fdirs	sa_pool.c	/^static struct sa_fdir       sa_fdirs[RTE_MAX_LCORE];$/;"	v	typeref:struct:sa_fdir	file:
+sa_fetch	sa_pool.c	/^int sa_fetch(struct netif_port *dev, const struct sockaddr_in *daddr,$/;"	f
+sa_lcore_mask	sa_pool.c	/^static uint64_t             sa_lcore_mask;$/;"	v	file:
+sa_msg_get_stats	sa_pool.c	/^static int sa_msg_get_stats(struct dpvs_msg *msg)$/;"	f	file:
+sa_nlcore	sa_pool.c	/^static uint8_t              sa_nlcore;$/;"	v	file:
+sa_pool	sa_pool.c	/^struct sa_pool {$/;"	s	file:
+sa_pool_alloc_hash	sa_pool.c	/^static int sa_pool_alloc_hash(struct sa_pool *ap, uint8_t hash_sz,$/;"	f	file:
+sa_pool_create	sa_pool.c	/^int sa_pool_create(struct inet_ifaddr *ifa, uint16_t low, uint16_t high)$/;"	f
+sa_pool_destroy	sa_pool.c	/^int sa_pool_destroy(struct inet_ifaddr *ifa)$/;"	f
+sa_pool_fetch	sa_pool.c	/^static inline int sa_pool_fetch(struct sa_entry_pool *pool,$/;"	f	file:
+sa_pool_free_hash	sa_pool.c	/^static int sa_pool_free_hash(struct sa_pool *ap)$/;"	f	file:
+sa_pool_hash	sa_pool.c	/^sa_pool_hash(const struct sa_pool *ap, const struct sockaddr_in *sin)$/;"	f	file:
+sa_pool_hash_size	sa_pool.c	/^static uint8_t              sa_pool_hash_size   = SAPOOL_DEF_HASH_SZ;$/;"	v	file:
+sa_pool_hash_size_conf	sa_pool.c	/^static void sa_pool_hash_size_conf(vector_t tokens)$/;"	f	file:
+sa_pool_init	sa_pool.c	/^int sa_pool_init(void)$/;"	f
+sa_pool_release	sa_pool.c	/^static inline int sa_pool_release(struct sa_entry_pool *pool,$/;"	f	file:
+sa_pool_stats	sa_pool.c	/^int sa_pool_stats(const struct inet_ifaddr *ifa, struct sa_pool_stats *stats)$/;"	f
+sa_pool_term	sa_pool.c	/^int sa_pool_term(void)$/;"	f
+sa_release	sa_pool.c	/^int sa_release(const struct netif_port *dev, const struct sockaddr_in *daddr,$/;"	f
+sa_stats_msg	sa_pool.c	/^static struct dpvs_msg_type sa_stats_msg = {$/;"	v	typeref:struct:dpvs_msg_type	file:
+sch_alloc	tc/sch_generic.c	/^static inline struct Qsch *sch_alloc(struct netif_tc *tc, struct Qsch_ops *ops)$/;"	f	file:
+sch_alloc_handle	tc/sch_generic.c	/^static inline tc_handle_t sch_alloc_handle(struct netif_port *dev)$/;"	f	file:
+sch_dequeue_xmit	tc/sch_generic.c	/^static inline int sch_dequeue_xmit(struct Qsch *sch, int *npkt)$/;"	f	file:
+sch_dying	tc/sch_generic.c	/^static void sch_dying(struct Qsch *sch)$/;"	f	file:
+sch_free	tc/sch_generic.c	/^static inline void sch_free(struct Qsch *sch)$/;"	f	file:
+sch_hash	tc/sch_generic.c	/^static inline int sch_hash(tc_handle_t handle, int hash_size)$/;"	f	file:
+sch_qlen	tc/sch_generic.c	/^static inline int sch_qlen(struct Qsch *sch)$/;"	f	file:
+sch_recycle	tc/sch_generic.c	/^static void sch_recycle(void *arg)$/;"	f	file:
+second_timer_expire	ipvs/ip_vs_synproxy.c	/^static void second_timer_expire(void *priv)$/;"	f	file:
+secure_tcp_syn_cookie	ipvs/ip_vs_synproxy.c	/^static uint32_t secure_tcp_syn_cookie($/;"	f	file:
+sendn	common.c	/^ssize_t sendn(int fd, const void *vptr, size_t n, int flags)$/;"	f
+seq_before	ipvs/ip_vs_proto_tcp.c	/^static inline int seq_before(uint32_t seq1, uint32_t seq2)$/;"	f	file:
+seq_scale	ipvs/ip_vs_proto_tcp.c	/^static inline uint32_t seq_scale(uint32_t seq)$/;"	f	file:
+set_all_thread_affinity	main.c	/^static int set_all_thread_affinity(void)$/;"	f	file:
+set_bond	netif.c	/^static int set_bond(struct netif_port *port, const netif_bond_set_t *bond_cfg)$/;"	f	file:
+set_lcore	netif.c	/^static int set_lcore(const netif_lcore_set_t *lcore_cfg)$/;"	f	file:
+set_log_file	global_conf.c	/^static int set_log_file(const char *log_file)$/;"	f	file:
+set_log_level	global_conf.c	/^static int set_log_level(char *log_level)$/;"	f	file:
+set_port	netif.c	/^static int set_port(struct netif_port *port, const netif_nic_set_t *port_cfg)$/;"	f	file:
+set_value	parser.c	/^void *set_value(vector_t tokens)$/;"	f
+sig_callback	cfgfile.c	/^static void sig_callback(int sig)$/;"	f	file:
+sighandler_t	cfgfile.c	/^typedef void (*sighandler_t)(int);$/;"	t	file:
+sighup	cfgfile.c	/^static inline void sighup(void)$/;"	f	file:
+slave_lcore_loop_func	ctrl.c	/^static inline void slave_lcore_loop_func(__rte_unused void *dumpy)$/;"	f	file:
+slave_lcore_mask	ctrl.c	/^uint64_t slave_lcore_mask;     \/* bit-wise enabled lcores *\/$/;"	v
+slave_lcore_nb	ctrl.c	/^uint8_t slave_lcore_nb;        \/* slave lcore number *\/$/;"	v
+slaves	netif.c	/^    char slaves[NETIF_MAX_BOND_SLAVES][32];$/;"	m	struct:bond_conf_stream	file:
+sockopt_conn_get	ipvs/ip_vs_conn.c	/^static int sockopt_conn_get(sockoptid_t opt, const void *in, size_t inlen,$/;"	f	file:
+sockopt_conn_get_all	ipvs/ip_vs_conn.c	/^static int sockopt_conn_get_all(const struct ip_vs_conn_req *conn_req,$/;"	f	file:
+sockopt_conn_get_specified	ipvs/ip_vs_conn.c	/^static int sockopt_conn_get_specified(const struct ip_vs_conn_req *conn_req,$/;"	f	file:
+sockopt_ctl	ctrl.c	/^int sockopt_ctl(__rte_unused void *arg)$/;"	f
+sockopt_fill_conn_entry	ipvs/ip_vs_conn.c	/^static inline void sockopt_fill_conn_entry(const struct dp_vs_conn *conn,$/;"	f	file:
+sockopt_init	ctrl.c	/^static inline int sockopt_init(void)$/;"	f	file:
+sockopt_list	ctrl.c	/^static struct list_head sockopt_list;$/;"	v	typeref:struct:list_head	file:
+sockopt_msg_free	ctrl.c	/^static inline void sockopt_msg_free(struct dpvs_sock_msg *msg)$/;"	f	file:
+sockopt_msg_recv	ctrl.c	/^static inline int sockopt_msg_recv(int clt_fd, struct dpvs_sock_msg **pmsg)$/;"	f	file:
+sockopt_msg_send	ctrl.c	/^static int sockopt_msg_send(int clt_fd,$/;"	f	file:
+sockopt_register	ctrl.c	/^int sockopt_register(struct dpvs_sockopts *sockopts)$/;"	f
+sockopt_term	ctrl.c	/^static inline int sockopt_term(void)$/;"	f	file:
+sockopt_unregister	ctrl.c	/^int sockopt_unregister(struct dpvs_sockopts *sockopts)$/;"	f
+sockopts_exist	ctrl.c	/^static inline int sockopts_exist(struct dpvs_sockopts *sockopts)$/;"	f	file:
+sockopts_get	ctrl.c	/^static struct dpvs_sockopts* sockopts_get(struct dpvs_sock_msg *msg)$/;"	f	file:
+sockopts_svc	ipvs/ip_vs_service.c	/^struct dpvs_sockopts sockopts_svc = {$/;"	v	typeref:struct:dpvs_sockopts
+soft_id	sa_pool.c	/^    uint16_t                soft_id;    \/* current unsed soft-id,$/;"	m	struct:sa_fdir	file:
+sp_ack_refused	ipvs/ip_vs_synproxy.c	/^rte_atomic64_t sp_ack_refused;$/;"	v
+sp_ack_saved	ipvs/ip_vs_synproxy.c	/^rte_atomic32_t sp_ack_saved;$/;"	v
+sp_syn_saved	ipvs/ip_vs_synproxy.c	/^rte_atomic32_t sp_syn_saved;$/;"	v
+srv_fd	ctrl.c	/^static int srv_fd;$/;"	v	file:
+syn_proxy_ack_has_data	ipvs/ip_vs_synproxy.c	/^static inline int syn_proxy_ack_has_data(struct rte_mbuf *mbuf,$/;"	f	file:
+syn_proxy_cookie_v4_init_sequence	ipvs/ip_vs_synproxy.c	/^static uint32_t syn_proxy_cookie_v4_init_sequence(struct rte_mbuf *mbuf,$/;"	f	file:
+syn_proxy_filter_opt_outin	ipvs/ip_vs_synproxy.c	/^static inline void syn_proxy_filter_opt_outin(struct tcphdr *th, struct dp_vs_seq *sp_seq)$/;"	f	file:
+syn_proxy_is_ack_storm	ipvs/ip_vs_synproxy.c	/^static int syn_proxy_is_ack_storm(struct tcphdr *tcph, struct dp_vs_conn *cp)$/;"	f	file:
+syn_proxy_parse_set_opts	ipvs/ip_vs_synproxy.c	/^static void syn_proxy_parse_set_opts(struct rte_mbuf *mbuf, struct tcphdr *th,$/;"	f	file:
+syn_proxy_reuse_mbuf	ipvs/ip_vs_synproxy.c	/^static void syn_proxy_reuse_mbuf(int af, struct rte_mbuf *mbuf,$/;"	f	file:
+syn_proxy_send_rs_syn	ipvs/ip_vs_synproxy.c	/^static int syn_proxy_send_rs_syn(int af, const struct tcphdr *th,$/;"	f	file:
+syn_proxy_syn_build_options	ipvs/ip_vs_synproxy.c	/^static inline void syn_proxy_syn_build_options(uint32_t *ptr,$/;"	f	file:
+syn_proxy_v4_cookie_check	ipvs/ip_vs_synproxy.c	/^static int syn_proxy_v4_cookie_check(struct rte_mbuf *mbuf, uint32_t cookie,$/;"	f	file:
+synack_mss_handler	ipvs/ip_vs_synproxy.c	/^static void synack_mss_handler(vector_t tokens)$/;"	f	file:
+synack_sack_handler	ipvs/ip_vs_synproxy.c	/^static void synack_sack_handler(vector_t tokens)$/;"	f	file:
+synack_timestamp_handler	ipvs/ip_vs_synproxy.c	/^static void synack_timestamp_handler(vector_t tokens)$/;"	f	file:
+synack_ttl_handler	ipvs/ip_vs_synproxy.c	/^static void synack_ttl_handler(vector_t tokens)$/;"	f	file:
+synack_wscale_handler	ipvs/ip_vs_synproxy.c	/^static void synack_wscale_handler(vector_t tokens)$/;"	f	file:
+synproxy_keyword_value_init	ipvs/ip_vs_synproxy.c	/^void synproxy_keyword_value_init(void)$/;"	f
+t_c	tc/sch_tbf.c	/^    int64_t                 t_c;        \/* Time check-point *\/$/;"	m	struct:tbf_sch_priv	file:
+tail	ipvs/ip_vs_conn.c	/^    int tail;$/;"	m	struct:ip_vs_conn_array_list	file:
+tbf_change	tc/sch_tbf.c	/^static int tbf_change(struct Qsch *sch, const void *arg)$/;"	f	file:
+tbf_dequeue	tc/sch_tbf.c	/^static struct rte_mbuf *tbf_dequeue(struct Qsch *sch)$/;"	f	file:
+tbf_destroy	tc/sch_tbf.c	/^static void tbf_destroy(struct Qsch *sch)$/;"	f	file:
+tbf_dump	tc/sch_tbf.c	/^static int tbf_dump(struct Qsch *sch, void *arg)$/;"	f	file:
+tbf_enqueue	tc/sch_tbf.c	/^static int tbf_enqueue(struct Qsch *sch, struct rte_mbuf *mbuf)$/;"	f	file:
+tbf_init	tc/sch_tbf.c	/^static int tbf_init(struct Qsch *sch, const void *arg)$/;"	f	file:
+tbf_peak_present	tc/sch_tbf.c	/^static inline bool tbf_peak_present(const struct tbf_sch_priv *priv)$/;"	f	file:
+tbf_reset	tc/sch_tbf.c	/^static void tbf_reset(struct Qsch *sch)$/;"	f	file:
+tbf_sch_ops	tc/sch_tbf.c	/^struct Qsch_ops tbf_sch_ops = {$/;"	v	typeref:struct:Qsch_ops
+tbf_sch_priv	tc/sch_tbf.c	/^struct tbf_sch_priv {$/;"	s	file:
+tc_cls_change	tc/cls.c	/^int tc_cls_change(struct tc_cls *cls, const void *arg)$/;"	f
+tc_cls_create	tc/cls.c	/^struct tc_cls *tc_cls_create(struct Qsch *sch, const char *kind,$/;"	f
+tc_cls_destroy	tc/cls.c	/^void tc_cls_destroy(struct tc_cls *cls)$/;"	f
+tc_cls_lookup	tc/cls.c	/^struct tc_cls *tc_cls_lookup(struct Qsch *sch, tc_handle_t handle)$/;"	f
+tc_cls_ops_get	tc/tc.c	/^struct tc_cls_ops *tc_cls_ops_get(const char *name)$/;"	f
+tc_cls_ops_put	tc/tc.c	/^void tc_cls_ops_put(struct tc_cls_ops *ops)$/;"	f
+tc_ctrl_init	tc/tc_ctrl.c	/^int tc_ctrl_init(void)$/;"	f
+tc_destroy_dev	tc/tc.c	/^int tc_destroy_dev(struct netif_port *dev)$/;"	f
+tc_handle_egress	tc/tc.c	/^struct rte_mbuf *tc_handle_egress(struct netif_tc *tc,$/;"	f
+tc_init	tc/tc.c	/^int tc_init(void)$/;"	f
+tc_init_dev	tc/tc.c	/^int tc_init_dev(struct netif_port *dev)$/;"	f
+tc_mbuf_cache_size	tc/tc.c	/^static int tc_mbuf_cache_size = 128;$/;"	v	file:
+tc_mbuf_pool_size	tc/tc.c	/^static int tc_mbuf_pool_size = 8192; \/* shared by all Qsch, enough ? *\/$/;"	v	file:
+tc_mbuf_pools	tc/tc.c	/^static struct rte_mempool *tc_mbuf_pools[DPVS_MAX_SOCKET];$/;"	v	typeref:struct:rte_mempool	file:
+tc_msg_get_stats	tc/tc_ctrl.c	/^static int tc_msg_get_stats(struct dpvs_msg *msg)$/;"	f	file:
+tc_qsch_hash_size	tc/tc.c	/^static int tc_qsch_hash_size = 64;$/;"	v	file:
+tc_qsch_ops_get	tc/tc.c	/^void tc_qsch_ops_get(struct Qsch_ops *ops)$/;"	f
+tc_qsch_ops_lookup	tc/tc.c	/^struct Qsch_ops *tc_qsch_ops_lookup(const char *name)$/;"	f
+tc_qsch_ops_put	tc/tc.c	/^void tc_qsch_ops_put(struct Qsch_ops *ops)$/;"	f
+tc_register_cls	tc/tc.c	/^int tc_register_cls(struct tc_cls_ops *ops)$/;"	f
+tc_register_qsch	tc/tc.c	/^int tc_register_qsch(struct Qsch_ops *ops)$/;"	f
+tc_sockopt_get	tc/tc_ctrl.c	/^static int tc_sockopt_get(sockoptid_t opt, const void *conf, size_t size,$/;"	f	file:
+tc_sockopt_set	tc/tc_ctrl.c	/^static int tc_sockopt_set(sockoptid_t opt, const void *conf, size_t size)$/;"	f	file:
+tc_sockopts	tc/tc_ctrl.c	/^static struct dpvs_sockopts tc_sockopts = {$/;"	v	typeref:struct:dpvs_sockopts	file:
+tc_stats_msg	tc/tc_ctrl.c	/^static struct dpvs_msg_type tc_stats_msg = {$/;"	v	typeref:struct:dpvs_msg_type	file:
+tc_unregister_cls	tc/tc.c	/^int tc_unregister_cls(struct tc_cls_ops *ops)$/;"	f
+tc_unregister_qsch	tc/tc.c	/^int tc_unregister_qsch(struct Qsch_ops *ops)$/;"	f
+tcp4_send_csum	ipvs/ip_vs_proto_tcp.c	/^inline void tcp4_send_csum(struct ipv4_hdr *iph, struct tcphdr *th)$/;"	f
+tcp_conn_expire	ipvs/ip_vs_proto_tcp.c	/^static int tcp_conn_expire(struct dp_vs_proto *proto, $/;"	f	file:
+tcp_conn_lookup	ipvs/ip_vs_proto_tcp.c	/^tcp_conn_lookup(struct dp_vs_proto *proto, const struct dp_vs_iphdr *iph,$/;"	f	file:
+tcp_conn_sched	ipvs/ip_vs_proto_tcp.c	/^static int tcp_conn_sched(struct dp_vs_proto *proto, $/;"	f	file:
+tcp_exit	ipvs/ip_vs_proto_tcp.c	/^static int tcp_exit(struct dp_vs_proto *proto)$/;"	f	file:
+tcp_fnat_in_handler	ipvs/ip_vs_proto_tcp.c	/^static int tcp_fnat_in_handler(struct dp_vs_proto *proto,$/;"	f	file:
+tcp_fnat_out_handler	ipvs/ip_vs_proto_tcp.c	/^static int tcp_fnat_out_handler(struct dp_vs_proto *proto,$/;"	f	file:
+tcp_hdr	ipvs/ip_vs_proto_tcp.c	/^inline struct tcphdr *tcp_hdr(const struct rte_mbuf *mbuf)$/;"	f
+tcp_in_add_toa	ipvs/ip_vs_proto_tcp.c	/^static inline int tcp_in_add_toa(struct dp_vs_conn *conn, struct rte_mbuf *mbuf,$/;"	f	file:
+tcp_in_adjust_seq	ipvs/ip_vs_proto_tcp.c	/^static inline void tcp_in_adjust_seq(struct dp_vs_conn *conn, struct tcphdr *th)$/;"	f	file:
+tcp_in_init_seq	ipvs/ip_vs_proto_tcp.c	/^static inline void tcp_in_init_seq(struct dp_vs_conn *conn, $/;"	f	file:
+tcp_in_remove_ts	ipvs/ip_vs_proto_tcp.c	/^static void tcp_in_remove_ts(struct tcphdr *tcph)$/;"	f	file:
+tcp_init	ipvs/ip_vs_proto_tcp.c	/^static int tcp_init(struct dp_vs_proto *proto)$/;"	f	file:
+tcp_keyword_value_init	ipvs/ip_vs_proto_tcp.c	/^void tcp_keyword_value_init(void)$/;"	f
+tcp_out_adjust_mss	ipvs/ip_vs_proto_tcp.c	/^static void tcp_out_adjust_mss(struct tcphdr *tcph)$/;"	f	file:
+tcp_out_adjust_seq	ipvs/ip_vs_proto_tcp.c	/^static int tcp_out_adjust_seq(struct dp_vs_conn *conn, struct tcphdr *tcph)$/;"	f	file:
+tcp_out_init_seq	ipvs/ip_vs_proto_tcp.c	/^static void tcp_out_init_seq(struct dp_vs_conn *conn, struct tcphdr *th)$/;"	f	file:
+tcp_out_save_seq	ipvs/ip_vs_proto_tcp.c	/^static void tcp_out_save_seq(struct rte_mbuf *mbuf, $/;"	f	file:
+tcp_secret	ipvs/ip_vs_proto_tcp.c	/^static uint32_t tcp_secret;$/;"	v	file:
+tcp_secure_sequence_number	ipvs/ip_vs_proto_tcp.c	/^static inline uint32_t tcp_secure_sequence_number(uint32_t saddr, uint32_t daddr,$/;"	f	file:
+tcp_send_rst	ipvs/ip_vs_proto_tcp.c	/^static int tcp_send_rst(struct dp_vs_proto *proto, $/;"	f	file:
+tcp_snat_in_handler	ipvs/ip_vs_proto_tcp.c	/^static int tcp_snat_in_handler(struct dp_vs_proto *proto,$/;"	f	file:
+tcp_snat_out_handler	ipvs/ip_vs_proto_tcp.c	/^static int tcp_snat_out_handler(struct dp_vs_proto *proto,$/;"	f	file:
+tcp_state_idx	ipvs/ip_vs_proto_tcp.c	/^static inline int tcp_state_idx(struct tcphdr *th)$/;"	f	file:
+tcp_state_name	ipvs/ip_vs_proto_tcp.c	/^static const char *tcp_state_name(int state)$/;"	f	file:
+tcp_state_names	ipvs/ip_vs_proto_tcp.c	/^static const char *tcp_state_names[] = {$/;"	v	file:
+tcp_state_trans	ipvs/ip_vs_proto_tcp.c	/^static int tcp_state_trans(struct dp_vs_proto *proto, struct dp_vs_conn *conn,$/;"	f	file:
+tcp_states	ipvs/ip_vs_proto_tcp.c	/^static struct tcp_state tcp_states[] = {$/;"	v	typeref:struct:tcp_state	file:
+tcp_timeouts	ipvs/ip_vs_proto_tcp.c	/^static int tcp_timeouts[DPVS_TCP_S_LAST + 1] = {$/;"	v	file:
+this_bitmap	tc/sch_pfifo_fast.c	45;"	d	file:
+this_blklst_tab	ipvs/ip_vs_blklst.c	42;"	d	file:
+this_conn_cache	ipvs/ip_vs_conn.c	57;"	d	file:
+this_conn_count	ipvs/ip_vs_conn.c	56;"	d	file:
+this_conn_lock	ipvs/ip_vs_conn.c	54;"	d	file:
+this_conn_tab	ipvs/ip_vs_conn.c	52;"	d	file:
+this_dpvs_estats	ipvs/ip_vs_stats.c	29;"	d	file:
+this_dpvs_stats	ipvs/ip_vs_stats.c	28;"	d	file:
+this_ip4_frag	ipv4_frag.c	164;"	d	file:
+this_lcore_sched	timer.c	/^static inline struct timer_scheduler *this_lcore_sched(bool global)$/;"	f	file:
+this_local_route_table	route.c	33;"	d	file:
+this_net_route_table	route.c	34;"	d	file:
+this_num_blklsts	ipvs/ip_vs_blklst.c	43;"	d	file:
+this_num_routes	route.c	36;"	d	file:
+this_pff_q	tc/sch_pfifo_fast.c	46;"	d	file:
+this_route_lcore	route.c	31;"	d	file:
+this_vlan_stats	vlan.c	39;"	d	file:
+ticks_to_timeval	timer.c	/^static inline void ticks_to_timeval(const dpvs_tick_t ticks, struct timeval *tv)$/;"	f	file:
+timeout	ipvs/ip_vs_blklst.c	/^static struct timeval timeout;$/;"	v	typeref:struct:timeval	file:
+timeout_close_handler	ipvs/ip_vs_proto_tcp.c	/^static void timeout_close_handler(vector_t tokens)$/;"	f	file:
+timeout_close_wait_handler	ipvs/ip_vs_proto_tcp.c	/^static void timeout_close_wait_handler(vector_t tokens)$/;"	f	file:
+timeout_established_handler	ipvs/ip_vs_proto_tcp.c	/^static void timeout_established_handler(vector_t tokens)$/;"	f	file:
+timeout_fin_wait_handler	ipvs/ip_vs_proto_tcp.c	/^static void timeout_fin_wait_handler(vector_t tokens)$/;"	f	file:
+timeout_handler	neigh.c	/^static void timeout_handler(vector_t tokens)$/;"	f	file:
+timeout_handler_template	ipvs/ip_vs_proto_tcp.c	/^static inline void timeout_handler_template(vector_t tokens,$/;"	f	file:
+timeout_last_ack_handler	ipvs/ip_vs_proto_tcp.c	/^static void timeout_last_ack_handler(vector_t tokens)$/;"	f	file:
+timeout_last_handler	ipvs/ip_vs_proto_tcp.c	/^static void timeout_last_handler(vector_t tokens)$/;"	f	file:
+timeout_last_handler	ipvs/ip_vs_proto_udp.c	/^static void timeout_last_handler(vector_t tokens)$/;"	f	file:
+timeout_listen_handler	ipvs/ip_vs_proto_tcp.c	/^static void timeout_listen_handler(vector_t tokens)$/;"	f	file:
+timeout_none_handler	ipvs/ip_vs_proto_tcp.c	/^static void timeout_none_handler(vector_t tokens)$/;"	f	file:
+timeout_normal_handler	ipvs/ip_vs_proto_udp.c	/^static void timeout_normal_handler(vector_t tokens)$/;"	f	file:
+timeout_syn_recv_handler	ipvs/ip_vs_proto_tcp.c	/^static void timeout_syn_recv_handler(vector_t tokens)$/;"	f	file:
+timeout_syn_sent_handler	ipvs/ip_vs_proto_tcp.c	/^static void timeout_syn_sent_handler(vector_t tokens)$/;"	f	file:
+timeout_synack_handler	ipvs/ip_vs_proto_tcp.c	/^static void timeout_synack_handler(vector_t tokens)$/;"	f	file:
+timeout_time_wait_handler	ipvs/ip_vs_proto_tcp.c	/^static void timeout_time_wait_handler(vector_t tokens)$/;"	f	file:
+timer	neigh.c	/^    struct dpvs_timer timer;$/;"	m	struct:neighbour_entry	typeref:struct:neighbour_entry::dpvs_timer	file:
+timer_expire	timer.c	/^static void timer_expire(struct timer_scheduler *sched, struct dpvs_timer *timer)$/;"	f	file:
+timer_init_schedler	timer.c	/^static int timer_init_schedler(struct timer_scheduler *sched, lcoreid_t cid)$/;"	f	file:
+timer_keyword_value_init	timer.c	/^void timer_keyword_value_init(void)$/;"	f
+timer_lcore_init	timer.c	/^static int timer_lcore_init(void *arg)$/;"	f	file:
+timer_lcore_term	timer.c	/^static int timer_lcore_term(void *arg)$/;"	f	file:
+timer_pending	timer.c	/^static inline bool timer_pending(const struct dpvs_timer *timer)$/;"	f	file:
+timer_sched_interval_handler	timer.c	/^static void timer_sched_interval_handler(vector_t tokens)$/;"	f	file:
+timer_sched_interval_us	netif.c	/^static int timer_sched_interval_us;$/;"	v	file:
+timer_scheduler	timer.c	/^struct timer_scheduler {$/;"	s	file:
+timer_term_schedler	timer.c	/^static int timer_term_schedler(struct timer_scheduler *sched)$/;"	f	file:
+timeval_to_ticks	timer.c	/^static inline dpvs_tick_t timeval_to_ticks(const struct timeval *tv)$/;"	f	file:
+tokenize_string	parser.c	/^static vector_t tokenize_string(const char *str)$/;"	f	file:
+tokens	tc/sch_tbf.c	/^    int64_t                 tokens;     \/* current tokens, in time *\/$/;"	m	struct:tbf_sch_priv	file:
+try_isol_rxq_lcore_loop	netif.c	/^static void try_isol_rxq_lcore_loop(void)$/;"	f	file:
+try_reload	cfgfile.c	/^void try_reload(void)$/;"	f
+tuplehash_to_conn	ipvs/ip_vs_conn.c	/^tuplehash_to_conn(const struct conn_tuple_hash *thash)$/;"	f	file:
+tx_desc_nb	netif.c	/^    int tx_desc_nb;$/;"	m	struct:port_conf_stream	file:
+tx_desc_nb_handler	netif.c	/^static void tx_desc_nb_handler(vector_t tokens)$/;"	f	file:
+tx_qid	netif.c	/^    queueid_t tx_qid[NETIF_MAX_QUEUES];$/;"	m	struct:port_queue_lcore_map	file:
+tx_queue_ids_handler	netif.c	/^static void tx_queue_ids_handler(vector_t tokens)$/;"	f	file:
+tx_queue_nb	netif.c	/^    int tx_queue_nb;$/;"	m	struct:port_conf_stream	file:
+tx_queue_number_handler	netif.c	/^static void tx_queue_number_handler(vector_t tokens)$/;"	f	file:
+tx_queues	netif.c	/^    int tx_queues[NETIF_MAX_QUEUES];$/;"	m	struct:queue_conf_stream	file:
+type	netif.c	/^    char type[32];$/;"	m	struct:worker_conf_stream	file:
+udp_conn_lookup	ipvs/ip_vs_proto_udp.c	/^udp_conn_lookup(struct dp_vs_proto *proto,$/;"	f	file:
+udp_conn_sched	ipvs/ip_vs_proto_udp.c	/^static int udp_conn_sched(struct dp_vs_proto *proto,$/;"	f	file:
+udp_fnat_in_handler	ipvs/ip_vs_proto_udp.c	/^static int udp_fnat_in_handler(struct dp_vs_proto *proto,$/;"	f	file:
+udp_fnat_out_handler	ipvs/ip_vs_proto_udp.c	/^static int udp_fnat_out_handler(struct dp_vs_proto *proto,$/;"	f	file:
+udp_keyword_value_init	ipvs/ip_vs_proto_udp.c	/^void udp_keyword_value_init(void)$/;"	f
+udp_snat_in_handler	ipvs/ip_vs_proto_udp.c	/^static int udp_snat_in_handler(struct dp_vs_proto *proto,$/;"	f	file:
+udp_snat_out_handler	ipvs/ip_vs_proto_udp.c	/^static int udp_snat_out_handler(struct dp_vs_proto *proto,$/;"	f	file:
+udp_state_trans	ipvs/ip_vs_proto_udp.c	/^static int udp_state_trans(struct dp_vs_proto *proto, struct dp_vs_conn *conn,$/;"	f	file:
+udp_timeouts	ipvs/ip_vs_proto_udp.c	/^static int udp_timeouts[DPVS_UDP_S_LAST + 1] = {$/;"	v	file:
+unregister_built_in_msg	ctrl.c	/^static int unregister_built_in_msg(void)$/;"	f	file:
+unregister_conn_get_msg	ipvs/ip_vs_conn.c	/^static int unregister_conn_get_msg(void)$/;"	f	file:
+unregister_dp_vs_scheduler	ipvs/ip_vs_sched.c	/^int unregister_dp_vs_scheduler(struct dp_vs_scheduler *scheduler)$/;"	f
+unregister_stats_cb	ipvs/ip_vs_stats.c	/^static void unregister_stats_cb(void)$/;"	f	file:
+unres_qlen_handler	neigh.c	/^static void unres_qlen_handler(vector_t tokens)$/;"	f	file:
+update_bond_macaddr	netif.c	/^static int update_bond_macaddr(struct netif_port *port)$/;"	f	file:
+used	neigh.c	/^    bool used;$/;"	m	struct:neighbour_entry	file:
+used_cnt	sa_pool.c	/^    rte_atomic16_t          used_cnt;$/;"	m	struct:sa_entry_pool	file:
+used_enties	sa_pool.c	/^    struct list_head        used_enties;$/;"	m	struct:sa_entry_pool	typeref:struct:sa_entry_pool::list_head	file:
+validate_xmit_mbuf	netif.c	/^static inline int validate_xmit_mbuf(struct rte_mbuf *mbuf,$/;"	f	file:
+vlan_add_dev	vlan.c	/^int vlan_add_dev(struct netif_port *real_dev, const char *ifname,$/;"	f
+vlan_del_dev	vlan.c	/^int vlan_del_dev(struct netif_port *real_dev, __be16 vlan_proto,$/;"	f
+vlan_dev_hash	vlan.c	/^static inline int vlan_dev_hash(__be16 proto __rte_unused, __be16 id)$/;"	f	file:
+vlan_find_dev	vlan.c	/^struct netif_port *vlan_find_dev(const struct netif_port *real_dev,$/;"	f
+vlan_get_link	vlan.c	/^static int vlan_get_link(struct netif_port *dev, struct rte_eth_link *link)$/;"	f	file:
+vlan_get_promisc	vlan.c	/^static int vlan_get_promisc(struct netif_port *dev, bool *promisc)$/;"	f	file:
+vlan_get_queue	vlan.c	/^static int vlan_get_queue(struct netif_port *dev, lcoreid_t cid, queueid_t *qid)$/;"	f	file:
+vlan_get_stats	vlan.c	/^static int vlan_get_stats(struct netif_port *dev, struct rte_eth_stats *stats)$/;"	f	file:
+vlan_id_valid	vlan.c	/^static inline bool vlan_id_valid(__be16 id)$/;"	f	file:
+vlan_init	vlan.c	/^int vlan_init(void)$/;"	f
+vlan_netif_ops	vlan.c	/^static struct netif_ops vlan_netif_ops = {$/;"	v	typeref:struct:netif_ops	file:
+vlan_rcv	vlan.c	/^int vlan_rcv(struct rte_mbuf *mbuf, struct netif_port *real_dev)$/;"	f
+vlan_set_fdir_filt	vlan.c	/^static int vlan_set_fdir_filt(struct netif_port *dev, enum rte_filter_op op,$/;"	f	file:
+vlan_set_mc_list	vlan.c	/^static int vlan_set_mc_list(struct netif_port *dev)$/;"	f	file:
+vlan_setup	vlan.c	/^static void vlan_setup(struct netif_port *dev)$/;"	f	file:
+vlan_sockopt_get	vlan.c	/^static int vlan_sockopt_get(sockoptid_t opt, const void *conf, size_t size,$/;"	f	file:
+vlan_sockopt_set	vlan.c	/^static int vlan_sockopt_set(sockoptid_t opt, const void *conf, size_t size)$/;"	f	file:
+vlan_sockopts	vlan.c	/^static struct dpvs_sockopts vlan_sockopts = {$/;"	v	typeref:struct:dpvs_sockopts	file:
+vlan_untag_mbuf	vlan.c	/^static inline int vlan_untag_mbuf(struct rte_mbuf *mbuf)$/;"	f	file:
+vlan_xmit	vlan.c	/^static int vlan_xmit(struct rte_mbuf *mbuf, struct netif_port *dev)$/;"	f	file:
+worker_conf_stream	netif.c	/^struct worker_conf_stream {$/;"	s	file:
+worker_defs_handler	netif.c	/^static void worker_defs_handler(vector_t tokens)$/;"	f	file:
+worker_handler	netif.c	/^static void worker_handler(vector_t tokens)$/;"	f	file:
+worker_list	netif.c	/^static struct list_head worker_list;    \/* lcore configurations from cfgfile *\/$/;"	v	typeref:struct:list_head	file:
+worker_list_node	netif.c	/^    struct list_head worker_list_node;$/;"	m	struct:worker_conf_stream	typeref:struct:worker_conf_stream::list_head	file:
+worker_port_handler	netif.c	/^static void worker_port_handler(vector_t tokens)$/;"	f	file:
+worker_type_handler	netif.c	/^static void worker_type_handler(vector_t tokens)$/;"	f	file:
+writen	common.c	/^ssize_t writen(int fd, const void *vptr, size_t n)$/;"	f
+xmit_inbound	ipvs/ip_vs_core.c	/^static int xmit_inbound(struct rte_mbuf *mbuf,$/;"	f	file:
+xmit_inbound_icmp	ipvs/ip_vs_core.c	/^static int xmit_inbound_icmp(struct rte_mbuf *mbuf, $/;"	f	file:
+xmit_outbound	ipvs/ip_vs_core.c	/^static int xmit_outbound(struct rte_mbuf *mbuf, $/;"	f	file:
+xmit_outbound_icmp	ipvs/ip_vs_core.c	/^static int xmit_outbound_icmp(struct rte_mbuf *mbuf, $/;"	f	file:
