@@ -1,6 +1,6 @@
 ![QNAT.png](./pic/QNAT.png)
 
-[English](https://github.com/Qihoo360/QNAT/README.md) | [中文](https://github.com/Qihoo360/QNAT/README_CN.md)
+[English](https://github.com/Qihoo360/QNAT/blob/master/README.md) | [中文](https://github.com/Qihoo360/QNAT/blob/master/README_CN.md)
 
 ## 项目特色
 `QNAT`是基于[DPVS](https://github.com/iqiyi/dpvs)和[DPDK](http://dpdk.org)项目创建一个高性能NAT（Network Address Translation，网络地址转换）项目,主要应用于IDC（数据中心）、中大型办公网出口等场景下，支持NAT44、流量透传、多地址池选择、限定单IP会话数、NAT会话记录等功能。同时我们还增加了命令行界面管理功能，让您能像管理网络设备一样对QNAT进行管理。
