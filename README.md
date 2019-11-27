@@ -68,7 +68,7 @@ $ git clone https://github.com/Qihoo360/qnat.git
 ```
 + ### Build/Install QNAT
 ```bash
-$ cd qnat
+$ cd QNAT
 $ make -j12 
 $ make install
 ```
