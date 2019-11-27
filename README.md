@@ -180,18 +180,18 @@ nattest# write file                                                #save configu
 |`show running-config`	                                  |enable node	|show the currently running configuration                 |
 |`show startup-config`	                                  |enable node	|show the saved configuration                             |
 |`hostname WORD`	                                      |config node	|configure hostname                                       |
-|`ip addr A.B.C.D/M dev (dpdk0.kni|dpdk1.kni)`	          |config node	|configure the IP address of the kni interface            |
+|`ip addr A.B.C.D/M dev (dpdk0.kni\|dpdk1.kni)`	          |config node	|configure the IP address of the kni interface            |
 |`ip nat pool NAME`	                                      |config node	|configure nat address pool and enter pool node           |
 |`ip nat source A.B.C.D A.B.C.D`	                      |config node	|configure nat service and enter service node             |
-|`ip route A.B.C.D/M dev (inside|outside) [kni_host]`	  |config node	|configure route for kni device                           |
-|`ip route A.B.C.D/M via A.B.C.D dev (inside|outside)`	  |config node	|configure route for qnat service                         |
+|`ip route A.B.C.D/M dev (inside\|outside) [kni_host]`	  |config node	|configure route for kni device                           |
+|`ip route A.B.C.D/M via A.B.C.D dev (inside\|outside)`	  |config node	|configure route for qnat service                         |
 |`local ip A.B.C.D/M`	                                  |config node	|configure local ip (intranet ip)                         |
 |`no hostname`	                                          |config node	|cancel hostname setting                                  |
-|`no ip addr A.B.C.D/M dev (dpdk0.kni|dpdk1.kni)`	      |config node	|cancel kni interface IP address setting                  |
+|`no ip addr A.B.C.D/M dev (dpdk0.kni\|dpdk1.kni)`	      |config node	|cancel kni interface IP address setting                  |
 |`no ip nat pool NAME`	                                  |config node	|cancel nat address pool setting and enter pool node      |
 |`no ip nat source A.B.C.D A.B.C.D`	                      |config node	|cancel mat service setting and enter service node        |
-|`no ip route A.B.C.D/M dev (inside|outside) [kni_host]`  |config node	|cancel kni device route setting                          |
-|`no ip route A.B.C.D/M via A.B.C.D dev (inside|outside)` |config node	|cancel qnat service route setting                        |
+|`no ip route A.B.C.D/M dev (inside\|outside) [kni_host]`  |config node	|cancel kni device route setting                          |
+|`no ip route A.B.C.D/M via A.B.C.D dev (inside\|outside)` |config node	|cancel qnat service route setting                        |
 |`no local ip A.B.C.D/M`	                              |config node	|cancel local ip (intranet ip) setting                    |
 |`member ip A.B.C.D/M`	                                  |pool node	|configure nat address pool single IP member              |
 |`member range A.B.C.D A.B.C.D masklen <0-32>`	          |pool node	|configure nat addrdss pool continuous IP address member  |
