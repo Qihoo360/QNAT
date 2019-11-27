@@ -1,6 +1,6 @@
 ![QNAT.png](./pic/QNAT.png)
 
-[English](./README.md) | [中文](./README_CN.md)
+[English](https://github.com/Qihoo360/QNAT/README.md) | [中文](https://github.com/Qihoo360/QNAT/README_CN.md)
 
 ## Introduction
 `QNAT` is a high-performance NAT (Network Address Translation) project base on [DPVS](https://github.com/iqiyi/dpvs) and [DPDK](http://dpdk.org) , mainly used in IDC (data center) or office network outlet. Support NAT44 , traffic bypass, multiple address pool selection, single IP session limit, NAT session logging, etc. We also added acommand-line interface function, allowing you to manage QNAT just like managing network devices.
@@ -204,7 +204,8 @@ nattest# write file                                                #save configu
 
 ## Test QNAT
 + ### Test Topology
- 
+![top.png](./pic/top.png) 
+
 + ### Test Conditions
   Need to use static/dynamic (default) routing or PBR (Policy Based Routing) to direct NAT traffic to the intranet NIC of the QNAT server.
   
