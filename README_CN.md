@@ -199,7 +199,8 @@ nattest# write file                                                #保存配置
 
 ## 测试QNAT
 + ### 测试拓扑图
- 
+![top.png](./pic/top.png) 
+
 + ### 测试条件
   需要通过静态/动态（默认）路由或策略路由（PBR,Policy Based Routing）的方式将需要做NAT的流量导向QNAT服务器的intranet网卡。
   
