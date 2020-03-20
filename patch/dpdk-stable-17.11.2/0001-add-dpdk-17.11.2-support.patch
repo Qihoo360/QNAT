@@ -1,0 +1,90 @@
+From 73de28ea38b523c6b85aa8dbe135fbf87327df18 Mon Sep 17 00:00:00 2001
+From: yezeguang <www.yz.cn@qq.com>
+Date: Fri, 20 Mar 2020 13:38:44 +0800
+Subject: [PATCH] add dpdk-17.11.2 support
+
+---
+ include/conf/netif.h | 2 +-
+ include/dpdk.h       | 3 ++-
+ src/Makefile         | 2 +-
+ src/dpdk.mk          | 1 +
+ src/kni.c            | 6 ++++--
+ 5 files changed, 9 insertions(+), 5 deletions(-)
+
+diff --git a/include/conf/netif.h b/include/conf/netif.h
+index 61521ac..579803d 100644
+--- a/include/conf/netif.h
++++ b/include/conf/netif.h
+@@ -31,7 +31,7 @@
+ #define NETIF_MAX_BOND_SLAVES           32
+ 
+ typedef uint8_t lcoreid_t;
+-typedef uint8_t portid_t;
++typedef uint16_t portid_t;
+ typedef uint16_t queueid_t;
+ 
+ #define NETIF_PORT_FLAG_RX_IP_CSUM_OFFLOAD  0x1<<3
+diff --git a/include/dpdk.h b/include/dpdk.h
+index c8ff11a..81506fd 100644
+--- a/include/dpdk.h
++++ b/include/dpdk.h
+@@ -39,6 +39,7 @@
+ #include <rte_debug.h>
+ #include <rte_ether.h>
+ #include <rte_ethdev.h>
++#include <rte_ethdev_pci.h>
+ #include <rte_ring.h>
+ #include <rte_mempool.h>
+ #include <rte_mbuf.h>
+@@ -57,7 +58,7 @@
+ #include "mbuf.h"
+ 
+ typedef uint8_t lcoreid_t;
+-typedef uint8_t portid_t;
++typedef uint16_t portid_t;
+ typedef uint16_t queueid_t;
+ 
+ #endif /* __DPVS_DPDK_H__ */
+diff --git a/src/Makefile b/src/Makefile
+index f19f978..cb7bd7d 100644
+--- a/src/Makefile
++++ b/src/Makefile
+@@ -41,7 +41,7 @@ else
+ 	CFLAGS += -g -O0 -D DEBUG -DCONFIG_NETOPS_CONN_THRESH -DCONFIG_NETOPS_ACL_RANGE -DCONFIG_NETOPS_BYPASS_ROUTING
+ endif
+ 
+-LIBS += -lpthread
++LIBS += -lpthread -lnuma
+ 
+ CFLAGS += $(INCDIRS) $(LIBS)
+ 
+diff --git a/src/dpdk.mk b/src/dpdk.mk
+index 3ed8402..41fbbe2 100644
+--- a/src/dpdk.mk
++++ b/src/dpdk.mk
+@@ -44,4 +44,5 @@ LIBS += -Wl,--no-as-needed -fvisibility=default \
+ 		-Wl,--whole-archive -lrte_hash -lrte_kvargs -Wl,-lrte_mbuf -lrte_eal \
+ 		-Wl,-lrte_mempool -lrte_ring -lrte_cmdline -lrte_cfgfile -lrte_kni \
+ 		-lrte_mempool_ring -lrte_timer -lrte_net -Wl,-lrte_pmd_virtio \
++		-lrte_pci -lrte_bus_pci -lrte_bus_vdev \
+ 		-Wl,--no-whole-archive -lrt -lm -ldl -lcrypto
+diff --git a/src/kni.c b/src/kni.c
+index a72e230..28b5013 100644
+--- a/src/kni.c
++++ b/src/kni.c
+@@ -58,8 +58,10 @@ static void kni_fill_conf(const struct netif_port *dev, const char *ifname,
+ 
+     if (dev->type == PORT_TYPE_GENERAL) { /* dpdk phy device */
+         rte_eth_dev_info_get(dev->id, &info);
+-        conf->addr = info.pci_dev->addr;
+-        conf->id = info.pci_dev->id;
++        if (info.pci_dev) {
++            conf->addr = info.pci_dev->addr;
++            conf->id = info.pci_dev->id;
++        }
+     }
+ 
+     if (ifname && strlen(ifname))
+-- 
+1.8.3.1
+
